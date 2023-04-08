@@ -1,5 +1,7 @@
 import requests
 
+requests.adapters.DEFAULT_RETRIES = 4
+
 f_API_key = "API_KEY.txt"
 
 with open(f_API_key) as FIN:

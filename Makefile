@@ -10,7 +10,8 @@
 # topic = "fantasy creatures"
 # topic = "scifi biomes"
 # topic = "reasons why you are a dumbass"
-topic = "Music genres"
+# topic = "Music genres"
+topic = "Ways to propose"
 
 all:
 	python P0_build_ontolog.py --topic $(topic)
@@ -20,3 +21,6 @@ all:
 lint:
 	black *.py --line-length 80
 	flake8 *.py --ignore=E203
+
+streamlit:
+	streamlit run streamlit_app.py
