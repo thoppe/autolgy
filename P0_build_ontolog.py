@@ -1,48 +1,72 @@
+from dspipe import Pipe
+import itertools
+import argparse
 import pandas as pd
 import diskcache as dc
 from utils import query
 from wasabi import msg as MSG
 import itertools
-import math
 from pathlib import Path
 from slugify import slugify
 
-topic = "Colors"
-MAX_DEPTH = 3
-
-topic = "Emotions"
-MAX_DEPTH = 4
-
+# topic = "Colors"
+# topic = "Emotions"
 # topic = "Sensations"
-# MAX_DEPTH = 3
-
-topic = "Superpowers"
-MAX_DEPTH = 4
-
+# topic = "Superpowers"
 # topic = "Music styles"
-# MAX_DEPTH = 4
-
 # topic = "Weather events"
-# MAX_DEPTH = 4
-
 # topic = "Human feelings"
-# MAX_DEPTH = 3
+# topic = "meta"
+# topic = "reasons why she left you"
+# topic = "fantasy creatures"
+# topic = "scifi biomes"
+# topic = "reasons why you are a dumbass"
 
-topic = "meta"
-topic = "reasons why she left you"
-topic = "fantasy creatures"
-topic = "scifi biomes"
-topic = "reasons why you are a dumbass"
+parser = argparse.ArgumentParser(
+    description="Generate an ontology from a root topic."
+)
+parser.add_argument("--topic", type=str, help="Root topic")
+parser.add_argument(
+    "--N",
+    type=int,
+    default=7,
+    help="Number of queries",
+)
+parser.add_argument(
+    "--K_THRESHOLD",
+    type=int,
+    default=3,
+    help="Min number of votes to keep an item",
+)
+parser.add_argument(
+    "--MAX_DEPTH",
+    type=int,
+    default=3,
+    help="Number of levels to build the ontology",
+)
 
-MAX_DEPTH = 3
-cache = dc.Cache(f"cache/{slugify(topic)}")
-N = 7
-max_tokens = 300
+parser.add_argument(
+    "--MAX_TOKENS",
+    type=int,
+    default=300,
+    help="Limit on number of tokens to use",
+)
+
+# Parse the arguments
+args = parser.parse_args()
+
+topic = args.topic
+MAX_DEPTH = args.MAX_DEPTH
+N = args.N
+K_THRESHOLD = args.K_THRESHOLD
+max_tokens = args.MAX_TOKENS
+NUM_QUERY_THREADS = 15
+
+
+cache = dc.Cache(f"cache/{slugify(topic)}/ontology")
 
 save_dest = Path("results")
 save_dest.mkdir(exist_ok=True, parents=True)
-
-pd.set_option("display.max_rows", 200)
 
 
 @cache.memoize()
@@ -73,6 +97,18 @@ def next_level_cats(main_topic, sub_topic, parent, n=2):
     return js
 
 
+@cache.memoize()
+def check_if_subset(args):
+    t0, t1 = args
+    textq = f"""Is "{t0}" a subset of "{t1}"? Only answer yes or no"""
+    js = query(textq, max_tokens=max_tokens, n=1)
+    val = js["choices"][0]["message"]["content"].strip(". ").lower()
+
+    if val == "yes":
+        return True
+    return False
+
+
 def clean_categories(js, depth, parent):
     msgs = [x["message"]["content"] for x in js.pop("choices")]
 
@@ -95,36 +131,54 @@ def clean_categories(js, depth, parent):
     return df
 
 
-def filter_df(df, result, depth, parent, keep_fraction=0.5):
+def filter_df(df, result, depth, parent):
     dx = clean_categories(result, depth, parent)
-    dx = dx[dx["count"] >= math.floor(N * keep_fraction)]
+    dx = dx[dx["count"] >= K_THRESHOLD]
 
+    # Remove keys that appears higher up in the ontology
     bad_keys = pd.merge(
         df[df.depth < dx.depth.max()], dx, left_on="topic", right_on="topic"
     )["topic"].unique()
+    dx = dx[~dx["topic"].isin(bad_keys)]
 
-    # if bad_keys.any():
-    #    MSG.fail(f"Removing previously found {bad_keys.tolist()}")
-
+    # Remove keys that are subsets of each other
+    ITR = list(itertools.combinations(dx["topic"], r=2))
+    bad_keys = []
+    for (t0, t1), is_subset in zip(
+        ITR, Pipe(ITR)(check_if_subset, NUM_QUERY_THREADS)
+    ):
+        if is_subset:
+            MSG.warn(f"Found {t0} as a subset of {t1}")
+            bad_keys.append(t0)
     dx = dx[~dx["topic"].isin(bad_keys)]
 
     return dx
 
 
+def analyze_row(row):
+    subtopic, parent = row.topic, row.parent
+    result = next_level_cats(topic, subtopic, parent, n=N)
+    return subtopic, result
+
+
+# Start the analysis with a top level query
+
 df = pd.DataFrame([{"topic": topic, "count": N, "depth": 0, "parent": ""}])
 result = top_level_cats(topic, n=N)
 df = filter_df(df, result, depth=1, parent=topic)
-print(df)
 
 for k_depth in range(2, MAX_DEPTH + 1):
     df_at_depth = df[df.depth == k_depth - 1]
 
-    for subtopic, parent in zip(df_at_depth.topic, df_at_depth.parent):
+    ITR = df_at_depth.itertuples(index=False)
+    for (subtopic, result) in Pipe(ITR)(analyze_row, NUM_QUERY_THREADS):
 
-        result = next_level_cats(topic, subtopic, parent, n=N)
         dx = filter_df(df, result, k_depth, subtopic)
         df = pd.concat([df, dx]).reset_index(drop=True)
         print(dx)
+
+    exit()
+    dx = filter_df(df, result, k_depth, subtopic)
 
     f_save = save_dest / (slugify(topic) + f"_{k_depth:03d}.csv")
     df.to_csv(f_save, index=False)
