@@ -1,0 +1,5 @@
+# Streamlit requirements
+
+pandas
+emoji
+streamlit
