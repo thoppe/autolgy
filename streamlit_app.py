@@ -52,8 +52,11 @@ def load_data(f_csv):
 
     df = pd.read_csv(f_csv)
     main_topic = df[df.depth < 2].parent.values[0]
-    if "definition" not in df:
-        df["definition"] = ""
+
+    missing_cols = ["definition", "examples", "emoji"]
+    for col in missing_cols:
+        if col not in df:
+            df[col] = ""
 
     return df, main_topic
 
@@ -76,7 +79,6 @@ if len(hi) > 1:
 
 
 current_topic = st.session_state["current_topic"]
-rows = df[df.parent == current_topic].topic.sort_values()
 
 if len(hi) > 1:
     parent = hi[-2]
@@ -88,9 +90,15 @@ if len(hi) > 1:
 cols = st.columns(4)
 current_col = 0
 
-for header in rows:
+df_sorted = df[df.parent == current_topic].sort_values("topic")
+
+
+for row in df_sorted.itertuples(index=False):
+    header = row.topic
+    emoji = row.emoji
+
     kwargs = {"on_click": button_callback, "key": uuid.uuid4()}
-    text = f"{header}"
+    text = f"{emoji} {header}"
 
     # if (df.parent==header).sum() > 0:
     #    text = f":star2: {text}"
@@ -104,3 +112,6 @@ for header in rows:
 
 if len(hi) > 1:
     st.button(":arrow_left: Go back", type="secondary", on_click=button_go_back)
+    row = df[(df.topic == current_topic) & (df.parent == parent)]
+    example_text = row["examples"].values[0]
+    st.markdown(example_text)

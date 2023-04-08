@@ -38,7 +38,7 @@ MAX_TOKENS = args.MAX_TOKENS
 NUM_QUERY_THREADS = 15
 
 if target_column not in ["definition", "emoji", "examples"]:
-    raise KeyError(f"--mode argument not valid")
+    raise KeyError("--mode argument not valid")
 
 if target_column == "definition":
     msg_core = """Briefly in a few lines define "{topic}". It is {link}, but you don't need to repeat that. Do not give examples."""

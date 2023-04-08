@@ -12,6 +12,7 @@
 # topic = "reasons why you are a dumbass"
 # topic = "Music genres"
 topic = "Ways to propose"
+topic = "Types of presents to buy for people"
 
 all:
 	python P0_build_ontolog.py --topic $(topic)
