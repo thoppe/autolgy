@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 from pathlib import Path
 import uuid
+import emoji
 
 st.set_page_config(
     layout="centered", page_icon=":brain:", page_title="Autology"
@@ -9,6 +10,7 @@ st.set_page_config(
 
 F_CSV = sorted(list(Path("results").glob("*.csv")))
 NAMES = list(set([x.stem.split("_")[0] for x in F_CSV]))[::-1]
+
 
 def reset_all():
     del st.session_state["current_topic"]
@@ -27,7 +29,7 @@ def button_go_back():
 
 with st.sidebar:
 
-    category = st.selectbox("Category", NAMES, on_change=reset_all)
+    category = st.selectbox("Category", NAMES, on_change=reset_all, index=1)
 
     DEPTHS = sorted(
         [
@@ -95,10 +97,13 @@ df_sorted = df[df.parent == current_topic].sort_values("topic")
 
 for row in df_sorted.itertuples(index=False):
     header = row.topic
-    emoji = row.emoji
+    emoji_char = row.emoji
+
+    # Add a filter in case non-emoji get through
+    emoji_char = "".join(x for x in emoji_char if not x.isascii())
 
     kwargs = {"on_click": button_callback, "key": uuid.uuid4()}
-    text = f"{emoji} {header}"
+    text = f"{emoji_char} {header}"
 
     # if (df.parent==header).sum() > 0:
     #    text = f":star2: {text}"
@@ -115,3 +120,11 @@ if len(hi) > 1:
     row = df[(df.topic == current_topic) & (df.parent == parent)]
     example_text = row["examples"].values[0]
     st.markdown(example_text)
+
+
+st.markdown(
+    """
+   *Use the sidebar to select different categories.*
+   Made with 💙 by [@metasemantic](https://twitter.com/metasemantic)
+"""
+)

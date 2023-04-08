@@ -1,13 +1,10 @@
 # topic = "Colors"
 # topic = "Emotions"
 # topic = "Sensations"
-# topic = "Superpowers"
 # topic = "Music styles"
 # topic = "Weather events"
 # topic = "Human feelings"
 # topic = "meta"
-
-# topic = "scifi biomes"
 # topic = "reasons why you are a dumbass"
 
 #topic = "Music genres"
@@ -15,7 +12,9 @@
 #topic = "Types of presents to buy for people"
 #topic = "reasons why she left you"
 #topic = "why are men"
-topic = "fantasy creatures"
+#topic = "fantasy creatures"
+#topic = "Superpowers"
+topic = "sci-fi and fantasy biomes"
 
 
 all:
