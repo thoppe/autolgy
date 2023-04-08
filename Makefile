@@ -7,15 +7,16 @@
 # topic = "Human feelings"
 # topic = "meta"
 
-# topic = "fantasy creatures"
 # topic = "scifi biomes"
 # topic = "reasons why you are a dumbass"
 
-topic = "Music genres"
+#topic = "Music genres"
 #topic = "Ways to propose"
 #topic = "Types of presents to buy for people"
 #topic = "reasons why she left you"
 #topic = "why are men"
+topic = "fantasy creatures"
+
 
 all:
 	python P0_build_ontolog.py --topic $(topic)
