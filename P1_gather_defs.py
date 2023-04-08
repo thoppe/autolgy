@@ -45,7 +45,7 @@ if target_column == "definition":
 elif target_column == "emoji":
     msg_core = """Return a single emoji that best exemplifies "{topic}". Only return one emoji and no other text. {definition}"""
 elif target_column == "examples":
-    msg_core = """Return a few examples that best exemplifies "{topic}". Return the items as a bulleted list. {definition}"""
+    msg_core = """Return a few examples that best exemplifies "{topic}". Return the items as a bulleted list. It is {link}. {definition}"""
 
 name = slugify(topic)
 
