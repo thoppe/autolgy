@@ -122,9 +122,10 @@ if len(hi) > 1:
     st.markdown(example_text)
 
 
-st.markdown(
+st.write(
     """
    *Use the sidebar to select different categories.*
-   Made with 💙 by [@metasemantic](https://twitter.com/metasemantic)
+   Made with 💙 by [@metasemantic](https://twitter.com/metasemantic), 
+   [code](https://github.com/thoppe/autology).
 """
 )

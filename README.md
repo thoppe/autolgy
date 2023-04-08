@@ -5,4 +5,4 @@ Automatically generate ontologies using Chat GPT
 
 https://thoppe-autology-streamlit-app-vea0w7.streamlit.app/
 
-![](assests/screenshot_streamlit_punk.png)
+![](assets/screenshot_streamlit_punk.png)
