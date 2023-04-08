@@ -1,5 +1,4 @@
 from dspipe import Pipe
-import itertools
 import argparse
 import pandas as pd
 import diskcache as dc
@@ -8,19 +7,6 @@ from wasabi import msg as MSG
 import itertools
 from pathlib import Path
 from slugify import slugify
-
-# topic = "Colors"
-# topic = "Emotions"
-# topic = "Sensations"
-# topic = "Superpowers"
-# topic = "Music styles"
-# topic = "Weather events"
-# topic = "Human feelings"
-# topic = "meta"
-# topic = "reasons why she left you"
-# topic = "fantasy creatures"
-# topic = "scifi biomes"
-# topic = "reasons why you are a dumbass"
 
 parser = argparse.ArgumentParser(
     description="Generate an ontology from a root topic."
@@ -176,9 +162,6 @@ for k_depth in range(2, MAX_DEPTH + 1):
         dx = filter_df(df, result, k_depth, subtopic)
         df = pd.concat([df, dx]).reset_index(drop=True)
         print(dx)
-
-    exit()
-    dx = filter_df(df, result, k_depth, subtopic)
 
     f_save = save_dest / (slugify(topic) + f"_{k_depth:03d}.csv")
     df.to_csv(f_save, index=False)
