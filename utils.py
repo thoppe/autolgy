@@ -9,7 +9,10 @@ with open(f_API_key) as FIN:
 def query(text, temperature=0.7, max_tokens=200, n=1):
 
     query_url = "https://api.openai.com/v1/chat/completions"
-    headers = {"Authorization": f"Bearer {API_KEY}", "Content-type": "application/json"}
+    headers = {
+        "Authorization": f"Bearer {API_KEY}",
+        "Content-type": "application/json",
+    }
     base_params = {
         "model": "gpt-3.5-turbo",
         "temperature": temperature,

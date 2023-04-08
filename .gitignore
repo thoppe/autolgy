@@ -1,6 +1,11 @@
 # API KEY
 API_KEY.txt
 
+# Lower quality outputs
+results/*_002.csv
+results/*_001.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

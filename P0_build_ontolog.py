@@ -1,6 +1,4 @@
 import pandas as pd
-import json
-from tqdm import tqdm
 import diskcache as dc
 from utils import query
 from wasabi import msg as MSG
@@ -21,14 +19,14 @@ MAX_DEPTH = 4
 topic = "Superpowers"
 MAX_DEPTH = 4
 
-#topic = "Music styles"
-#MAX_DEPTH = 4
+# topic = "Music styles"
+# MAX_DEPTH = 4
 
-#topic = "Weather events"
-#MAX_DEPTH = 4
+# topic = "Weather events"
+# MAX_DEPTH = 4
 
-#topic = "Human feelings"
-#MAX_DEPTH = 3
+# topic = "Human feelings"
+# MAX_DEPTH = 3
 
 topic = "meta"
 topic = "reasons why she left you"
