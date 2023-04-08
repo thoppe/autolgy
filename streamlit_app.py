@@ -8,8 +8,7 @@ st.set_page_config(
 )
 
 F_CSV = sorted(list(Path("results").glob("*.csv")))
-NAMES = set([x.stem.split("_")[0] for x in F_CSV])
-
+NAMES = list(set([x.stem.split("_")[0] for x in F_CSV]))[::-1]
 
 def reset_all():
     del st.session_state["current_topic"]
@@ -27,6 +26,7 @@ def button_go_back():
 
 
 with st.sidebar:
+
     category = st.selectbox("Category", NAMES, on_change=reset_all)
 
     DEPTHS = sorted(
@@ -70,7 +70,7 @@ if "hierarchy" not in st.session_state:
     st.session_state["hierarchy"] = [main_topic]
 
 # Define the app title and description
-st.title(f"{main_topic}")
+st.title(f"{main_topic.title()}")
 
 hi = st.session_state["hierarchy"]
 if len(hi) > 1:
