@@ -29,7 +29,7 @@ def button_go_back():
 
 with st.sidebar:
 
-    category = st.selectbox("Category", NAMES, on_change=reset_all, index=1)
+    category = st.selectbox("Category", NAMES, on_change=reset_all, index=4)
 
     DEPTHS = sorted(
         [
