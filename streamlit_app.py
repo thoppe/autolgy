@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 F_CSV = sorted(list(Path("results").glob("*.csv")))
-NAMES = list(set([x.stem.split("_")[0] for x in F_CSV]))[::-1]
+NAMES = sorted(list(set([x.stem.split("_")[0] for x in F_CSV]))[::-1])
 
 
 def reset_all():
@@ -29,7 +29,7 @@ def button_go_back():
 
 with st.sidebar:
 
-    category = st.selectbox("Category", NAMES, on_change=reset_all, index=4)
+    category = st.selectbox("Category", NAMES, on_change=reset_all, index=3)
 
     DEPTHS = sorted(
         [

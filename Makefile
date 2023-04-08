@@ -14,7 +14,9 @@
 #topic = "why are men"
 #topic = "fantasy creatures"
 #topic = "Superpowers"
-topic = "sci-fi and fantasy biomes"
+#topic = "sci-fi and fantasy biomes"
+topic = "Liminal spaces"
+topic = "How to be a bad bitch"
 
 
 all:
