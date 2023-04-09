@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 from pathlib import Path
 import uuid
-import emoji
 
 st.set_page_config(
     layout="centered", page_icon=":brain:", page_title="Autology"
@@ -41,9 +40,8 @@ with st.sidebar:
 
     hidden = """
     k_depth = st.selectbox(
-        "Depth (larger numbers take longer to load)", DEPTHS, on_change=reset_all, 
-    )
-    """
+        "Depth (larger numbers take longer to load)", DEPTHS, on_change=reset_all,
+    )"""
     k_depth = DEPTHS[0]
 
     f_csv = Path("results") / f"{category}_{k_depth:03d}.csv"
@@ -125,7 +123,7 @@ if len(hi) > 1:
 st.write(
     """
    *Use the sidebar to select different categories.*
-   Made with 💙 by [@metasemantic](https://twitter.com/metasemantic), 
+   Made with 💙 by [@metasemantic](https://twitter.com/metasemantic),
    [code](https://github.com/thoppe/autology).
 """
 )

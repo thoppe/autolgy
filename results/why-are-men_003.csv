@@ -1,269 +1,249 @@
 topic,count,depth,parent,definition,emoji,examples
-Psychological Factors,3,1,why are men,"Psychological factors refer to the mental and emotional influences that affect an individual's behavior, thoughts, and feelings. These factors include personality traits, attitudes, motivations, beliefs, and values that shape a person's perception, decision-making, and overall mental health.",🧠,"- Anxiety and stress levels that affect decision-making and behavior
-- Self-esteem and self-worth that impact one's confidence and ability to take risks
-- Attitudes and beliefs about money and wealth that influence spending habits and financial decisions
-- Motivations and goals that drive behavior and shape one's priorities and values
-- Personality traits such as introversion or extroversion that affect social interactions and communication styles."
-Evolutionary Factors,3,1,why are men,"Evolutionary factors refer to the biological and environmental influences that shape the genetic makeup and behavior of a species over time, resulting in adaptations that increase the likelihood of survival and reproduction. These factors can include natural selection, genetic drift, mutation, and environmental pressures.",🧬,"- The development of opposable thumbs in primates, allowing for greater dexterity and tool use
-- The development of camouflage in animals, allowing for better survival in their respective environments
-- The evolution of antibiotic resistance in bacteria due to the overuse of antibiotics in medicine and agriculture
-- The development of lactose tolerance in humans, allowing for the consumption of dairy products beyond infancy
-- The adaptation of some fish species to living in low-oxygen environments, such as the electric eel's ability to breathe air and the mudskipper's ability to absorb oxygen through its skin."
-Cultural Factors,3,1,why are men,"Cultural factors refer to the various beliefs, values, customs, and traditions that shape the behavior, attitudes, and expectations of individuals within a particular society or group. These factors can influence everything from language and dress to social norms and interpersonal relationships.",🌍,"- Religious beliefs and practices, such as the role of women in certain religions or the observance of certain holidays
-- Family structure and dynamics, such as the importance of filial piety in Asian cultures or the emphasis on individualism in Western cultures
-- Gender roles and expectations, such as the expectation for men to be breadwinners or for women to prioritize caregiving and domestic duties
-- Education and literacy levels, which can impact access to information and opportunities for upward mobility
-- Political and economic systems, such as the prevalence of corruption or the level of government intervention in business affairs."
-Personality Traits,6,2,Psychological Factors,"Personality traits refer to the enduring patterns of thoughts, feelings, and behaviors that shape an individual's characteristic way of functioning in the world. These traits are believed to be relatively stable across time and situations, and can have a significant impact on an individual's social, emotional, and cognitive functioning.",🧬,"- Openness to experience
-- Conscientiousness
-- Extraversion
-- Agreeableness
-- Neuroticism"
-Cognitive Abilities,6,2,Psychological Factors,"Cognitive abilities refer to the mental processes involved in acquiring, storing, processing, and using information. These abilities are responsible for problem-solving, decision-making, attention, memory, and perception. They are essential for effective functioning in daily life and can be developed through education and experience.",🧠,"- Problem-solving skills
-- Decision-making abilities
+Psychological Factors,3,1,why are men,"Psychological factors refer to the mental and emotional processes that influence behavior, attitudes, and decision-making. They can be shaped by a variety of factors such as upbringing, life experiences, and societal norms. Understanding the role of psychological factors is important in understanding why individuals, including men, behave and think the way they do.",🧠,"- Socialization: Men are often socialized to value traits associated with masculinity such as toughness, competitiveness, and emotional restraint. This can influence how they behave and interact with others, and may affect their decision-making in various aspects of life.
+- Self-esteem: Men may experience pressure to maintain high levels of self-esteem, which can influence their behavior and attitudes. For example, they may be more likely to engage in risky behaviors or seek out situations that bolster their sense of self-worth.
+- Fear of vulnerability: Men may be socialized to view vulnerability as a weakness, which can affect their ability to form close relationships or seek help when needed. This fear of vulnerability may also contribute to mental health issues such as depression or anxiety.
+- Gender roles: Cultural norms and expectations surrounding gender roles can influence how men perceive their own roles and responsibilities, as well as how they interact with others. These norms may also contribute to gender inequalities in areas such as employment, education, and relationships.
+- Trauma: Men may experience trauma in various forms throughout their lives, such as physical or emotional abuse, combat exposure, or sexual assault. These experiences can have a profound impact on their mental health and behavior, and may contribute to issues such as substance abuse, anger management problems, or difficulty forming close relationships."
+Evolutionary Factors,3,1,why are men,"Evolutionary factors are the biological and environmental influences that have shaped the development and behavior of living organisms over time. These factors include natural selection, genetic variation, adaptation, and environmental pressures. Understanding these factors can help explain why certain traits or behaviors have evolved and persisted in a population, such as why men exhibit certain physical and behavioral characteristics.",🧬,"- Testosterone levels in men contribute to higher muscle mass and bone density, which historically would have been advantageous for hunting and protecting their families.
+- Men's physical size and strength may have evolved as a result of sexual selection, as women may have preferred larger and more dominant partners.
+- The ability to engage in risk-taking behaviors, such as aggression and competition, may have been advantageous in securing resources and mates.
+- Men's tendency to have a higher sex drive may have evolved as a way to increase the likelihood of passing on their genes."
+Cultural Factors,3,1,why are men,"Cultural factors refer to the beliefs, values, customs, and practices that shape the behavior and attitudes of individuals and groups within a particular society. These factors are often influenced by historical, social, and economic conditions and can impact various aspects of life, including gender roles and expectations. Cultural factors may contribute to the reasons why men behave in certain ways and hold certain beliefs about themselves and others.",🌍,"- Traditional gender roles that assign men as the providers and protectors of their families and communities.
+- Cultural norms that promote masculinity as toughness, assertiveness, and emotional restraint.
+- Religious beliefs that prioritize male leadership and authority within religious institutions.
+- Media representations of men as powerful and dominant figures in various fields such as politics, sports, and entertainment.
+- Patriarchal social systems that prioritize men's rights and privileges over women's."
+Personality Traits,6,2,Psychological Factors,"Personality traits are enduring patterns of thoughts, feelings, and behaviors that characterize an individual's unique psychological makeup. These traits are believed to be largely innate but are also shaped by environmental factors. Understanding personality traits is important in understanding why men behave the way they do and how they interact with the world around them.",🧐,"- Introversion vs. Extroversion
+- Agreeableness vs. Disagreeableness
+- Conscientiousness vs. Carelessness
+- Openness vs. Closed-mindedness
+- Emotional Stability vs. Neuroticism"
+Cognitive Abilities,6,2,Psychological Factors,"Cognitive abilities refer to the mental processes and skills that enable individuals to acquire knowledge, understand ideas, solve problems and make decisions. It is a crucial factor in determining an individual's overall intellectual capacity and performance. Cognitive abilities are relevant to the gender discussion as there are ongoing debates about whether men and women have different cognitive abilities and how this impacts their achievements in different areas.",🧠,"- Memory retention and recall
+- Logical and analytical reasoning
+- Spatial awareness and visualization
+- Language acquisition and comprehension
 - Attention and focus
-- Memory and recall
-- Perception and interpretation of information
-- Learning and comprehension
-- Reasoning and logical thinking
+- Problem-solving and decision-making
 - Creativity and innovation
-- Language acquisition and communication skills
-- Spatial awareness and visual processing"
-Social Cognition,4,2,Psychological Factors,"Social cognition refers to the way in which individuals perceive, process, and interpret information about themselves and others in social situations. It involves cognitive processes such as attention, memory, and decision-making, and is influenced by psychological factors such as attitudes, beliefs, and emotions.",🤔,"- Stereotyping: when an individual forms a generalized belief about a group of people based on limited information or past experiences.
-- Attribution: the process of assigning causality to a behavior or event, whether it is internal (attributing the cause to personal characteristics of the individual) or external (attributing the cause to situational factors).
-- Self-fulfilling prophecy: when an individual's expectations about someone else's behavior influence their own behavior towards that person, causing the person to behave in a way that confirms the initial expectation.
-- Social comparison: the process of evaluating oneself in relation to others, often leading to upward or downward social comparison depending on the perceived similarity or difference to others.
-- False consensus effect: the tendency to overestimate the extent to which one's own beliefs, attitudes, or behaviors are shared by others."
-Motivation,3,2,Psychological Factors,"Motivation refers to the internal and external factors that drive an individual to take action towards achieving a goal or fulfilling a need. It is a complex psychological construct that can be influenced by a variety of factors such as personality, beliefs, values, and emotions. Motivation can range from basic physiological needs to more complex social and self-actualization needs.",💪,"- A person waking up early every morning to go for a run because they are motivated to improve their physical fitness and health
-- An employee working overtime to complete a project because they are motivated by the desire to receive a promotion or bonus
-- A student studying diligently for an exam because they are motivated to achieve a high grade and succeed academically
-- A musician practicing for hours every day because they are motivated by their passion for music and desire to improve their skills
-- A person volunteering at a local charity because they are motivated by the desire to make a positive impact in their community."
-Emotional Intelligence,3,2,Psychological Factors,"Emotional Intelligence is the ability to recognize, understand, and manage one's own emotions, as well as the emotions of others. It involves being able to empathize with others, communicate effectively, and navigate social situations with sensitivity and awareness.",🧘‍♀️,"- A manager who recognizes when an employee is feeling overwhelmed and offers support and resources to help them manage their workload
-- A friend who listens attentively and offers comfort and understanding when another friend is going through a difficult time
-- A teacher who adjusts their teaching style to better reach and engage students with different learning styles and emotional needs
-- A politician who speaks with empathy and understanding about the challenges facing their constituents, and who seeks to build bridges across different communities and perspectives
-- A parent who responds calmly and compassionately to a child's outburst or tantrum, helping them to regulate their emotions and develop healthy coping mechanisms."
-Attitudes,3,2,Psychological Factors,"Attitudes are a set of beliefs, feelings, and behaviors that shape an individual's response to a particular object, person, or situation. They are psychological factors that influence an individual's thoughts, emotions, and actions, and are formed through experiences, socialization, and personal values. Attitudes can be positive or negative, and can change over time through exposure to new information or experiences.",🤔,"- Believing that exercise is important for overall health and making it a regular part of one's routine
-- Feeling uncomfortable around spiders and avoiding them whenever possible
-- Behaving generously towards others and regularly volunteering time or resources to help those in need"
-Sexual Selection,7,2,Evolutionary Factors,Sexual selection is a type of natural selection that occurs when certain traits increase an individual's chances of mating and reproducing successfully. These traits may not necessarily provide any survival advantage but are instead favored by the opposite sex. Sexual selection can lead to the development of elaborate physical and behavioral characteristics in males and females of a species.,💃,"- Male peacocks have large, colorful tails that are used to attract females during mating season.
-- Male elk engage in physical combat with other males to establish dominance and win the opportunity to mate with females.
-- Male birds often have brightly colored plumage or elaborate courtship displays to attract mates.
-- Female insects may select mates based on the quality or quantity of the nuptial gift (such as food or sperm) offered by the male.
-- Male chimpanzees may engage in displays of physical prowess or aggression to establish dominance and gain access to females."
-Life History Theory,5,2,Evolutionary Factors,"Life History Theory is a framework for understanding how organisms allocate their limited resources over their lifespan to maximize reproductive success. It considers how environmental factors, such as availability of resources and predation risk, influence an organism's growth, reproduction, and survival strategies.",🌱,"- The age at which females begin reproducing in different species, influenced by factors such as resource availability and predation risk. For example, in some bird species, females delay reproduction until they can establish a territory with abundant resources and low risk of predation.
-- The trade-off between investing in offspring quality versus quantity, depending on environmental conditions. For example, in some fish species, females will produce fewer but larger eggs when resources are scarce, while in abundant conditions they will produce more smaller eggs.
-- The differences in life history strategies between species with different levels of mortality risk. For example, organisms in high-risk environments may have shorter lifespans and reproduce earlier and more frequently, while those in low-risk environments may have longer lifespans and invest more in offspring quality."
-Kin Selection,4,2,Evolutionary Factors,"Kin selection is an evolutionary theory that explains how certain traits and behaviors can be favored by natural selection if they increase the reproductive success of an individual's relatives, even if it comes at a cost to the individual's own reproductive success. This is because genetically related individuals share a proportion of their genes, so helping a relative to survive and reproduce can indirectly increase the transmission of those shared genes.",👪,"- A female meerkat who acts as a babysitter for her siblings' offspring, even though it means she will have less time and energy to invest in her own offspring.
-- Male lions who remain in their natal pride and defend their sisters and nieces from outside males, even though it means they will have less opportunity to mate with females in other prides.
-- A bird species where the offspring stay with their parents and help them raise subsequent broods, even though it means delaying their own reproduction."
-Group Selection,3,2,Evolutionary Factors,"Group selection is the idea that natural selection can act on entire groups of individuals, rather than just on individuals themselves. It suggests that traits that benefit a group as a whole can be favored by natural selection, even if they may not benefit individual members of the group.",👥,"- The evolution of social behavior in insects, such as ants and bees, where individuals sacrifice their own reproductive potential to help the colony as a whole.
-- The development of altruistic behaviors in humans, such as charity and volunteer work, which benefit the greater community and increase the chances of survival for the group.
-- The reduction of conflict within a group, as seen in some primate species, where dominant individuals may use their power to prevent aggressive behavior among group members, promoting group cohesion and increasing the chances of survival for all."
-Socialization,4,2,Cultural Factors,"Socialization is the process through which individuals learn and internalize the norms, values, beliefs, and behaviors of their society or culture. It involves acquiring the necessary skills and knowledge to function as a member of society and to interact with others. Cultural factors play a significant role in socialization, shaping the way people view the world, themselves, and others.",👥,"- Learning to speak a language and communicate with others in accordance with the cultural norms of that language and society
-- Developing a set of beliefs and values based on the cultural and religious traditions passed down through generations
-- Adopting social behaviors and customs, such as greeting others in a certain way, showing respect to elders or authority figures, and adhering to societal rules and expectations
-- Internalizing gender roles and expectations, such as what is considered appropriate behavior for men and women, and how they should interact with each other
-- Learning the cultural history and traditions of a particular group or society, and how they shape the present-day social norms and expectations."
-Gender Stereotypes,3,2,Cultural Factors,"Gender stereotypes are widely held beliefs and assumptions about the typical characteristics, behaviors, roles, and abilities of individuals based on their gender. These stereotypes are deeply ingrained in cultural norms and influence how people are perceived, treated, and valued in society. Gender stereotypes can limit opportunities and choices for individuals and reinforce inequality and discrimination.",👩‍🍳 (woman chef),"- Girls are expected to play with dolls and wear dresses, while boys are expected to play with trucks and wear pants.
-- Men are expected to be strong, emotionless, and the breadwinners of the family, while women are expected to be nurturing, emotional, and caretakers of the home.
-- Women are often portrayed as being overly emotional and irrational, while men are portrayed as being logical and rational.
-- Men are expected to be aggressive and assertive, while women are expected to be passive and submissive.
-- Women are often judged more harshly on their appearance, while men are judged more on their accomplishments and abilities."
-Neuroticism,6,3,Personality Traits,"Neuroticism is a personality trait characterized by emotional instability, anxiety, moodiness, and vulnerability to stress. It is one of the Big Five personality traits and is associated with a greater risk of developing mental health problems such as depression and anxiety disorders.",😫,"- Constantly worrying about the future or past events
-- Feeling anxious and nervous in social situations
-- Having negative and pessimistic thoughts
-- Being easily overwhelmed by stress
-- Being overly self-critical and perfectionistic
-- Experiencing mood swings and emotional instability
-- Being easily offended or hurt by criticism or rejection
-- Having a tendency to overthink and ruminate on problems or situations"
-Conscientiousness,6,3,Personality Traits,"Conscientiousness is a personality trait characterized by being organized, responsible, and dependable. Individuals who exhibit high levels of conscientiousness are often reliable, efficient, and goal-oriented. They tend to be detail-oriented and careful in their work and strive for accuracy and precision.",📋,"- A person who always shows up on time for appointments and meetings
-- A student who consistently turns in assignments ahead of schedule
-- An employee who meticulously checks their work for errors before submitting it
-- A homeowner who diligently maintains their property and keeps it in good condition
-- A volunteer who commits to regular shifts and always follows through on their commitments"
-Agreeableness,6,3,Personality Traits,"Agreeableness is a personality trait characterized by a person's tendency to be cooperative, empathetic, and compassionate towards others. It is a measure of how well a person gets along with others and how willing they are to compromise or avoid conflict in interpersonal relationships.",🤝,"- A person who always tries to see things from other people's perspectives and offers help when someone is in need.
-- A person who values harmony and tries to avoid arguments or disagreements by finding common ground and compromising.
-- A person who is polite, respectful, and considerate of others' feelings, even in difficult situations.
-- A person who is forgiving and understanding towards others' mistakes or shortcomings, and is willing to give them a second chance.
-- A person who shows empathy and compassion towards people who are struggling or going through a tough time, and offers support and encouragement."
-Extraversion,5,3,Personality Traits,"Extraversion is a personality trait characterized by an outgoing, sociable, and assertive nature. People who score high in extraversion tend to be energized by social interaction, enjoy being the center of attention, and are generally more talkative and expressive.",🎉,"- A person who enjoys attending parties and social events, and feels energized by being around other people.
-- Someone who is confident and assertive in social situations, and likes to take charge or lead group activities.
-- A person who is outgoing and friendly, and feels comfortable striking up conversations with strangers.
-- Someone who enjoys public speaking or performing, and is comfortable being the center of attention.
-- A person who is talkative and expressive, and enjoys sharing their thoughts and feelings with others."
-Perception,5,3,Cognitive Abilities,"Perception refers to the process of interpreting and organizing sensory information received from the environment. It involves cognitive abilities such as attention, memory, and language, and is influenced by psychological factors such as motivation and expectation. Perception plays a crucial role in how individuals understand and interact with the world around them.",👀,"- Seeing a dress as either white and gold or blue and black depending on individual perception.
-- Hearing a sound and interpreting it as either a car horn or a bird chirping based on past experiences and expectations.
-- Tasting a food and perceiving it as either sweet or bitter depending on individual taste buds and preferences.
-- Feeling a texture and categorizing it as either rough or smooth based on touch perception.
-- Smelling a scent and identifying it as either pleasant or unpleasant based on individual associations and memories."
-Memory,5,3,Cognitive Abilities,"Memory refers to the process of encoding, storing, and retrieving information in the brain. It is the ability to retain and recall past experiences, knowledge, and skills. Memory is an important cognitive function that plays a crucial role in learning, decision-making, and daily life activities.",🧠,"- Remembering your childhood home and the memories associated with it
-- Recalling a phone number that you frequently use without having to look it up
-- Memorizing a poem or song lyrics and being able to recite it from memory
-- Remembering how to ride a bike even if you haven't done it in years
-- Being able to recall important dates such as birthdays or anniversaries"
-Problem-Solving,4,3,Cognitive Abilities,"Problem-solving refers to the cognitive process of finding solutions to complex or challenging tasks or situations. It involves identifying the problem, defining goals, generating possible solutions, evaluating those solutions, and selecting the most appropriate course of action. Effective problem-solving often requires creativity, critical thinking, and decision-making skills.",🔍,"- A scientist working on a cure for a disease identifies the problem, defines the goal of finding a cure, generates possible solutions through research and experimentation, evaluates the effectiveness and safety of each solution, and selects the most promising course of action for further development and testing.
-- A business owner faces declining sales and identifies the problem, defines the goal of increasing revenue, generates possible solutions such as marketing campaigns, product innovation, or cost-cutting measures, evaluates the potential outcomes and risks of each solution, and selects the most appropriate strategy to implement.
-- A student struggles with a difficult math problem, identifies the problem, defines the goal of finding the correct answer, generates possible solutions through applying relevant formulas and strategies, evaluates the accuracy and feasibility of each solution, and selects the most appropriate approach to solve the problem."
-Decision-Making,4,3,Cognitive Abilities,"Decision-making refers to the process of choosing between different alternatives or courses of action based on a set of criteria or preferences. It involves cognitive abilities such as problem-solving, reasoning, and judgment, as well as psychological factors such as emotions, biases, and values. The outcome of decision-making can have significant consequences for individuals, organizations, and society as a whole.",🤔,"- Choosing between different job offers based on salary, benefits, location, and company culture
-- Deciding whether to invest in a particular stock based on market trends, financial analysis, and risk assessment
-- Determining which medical treatment option is best for a patient based on their symptoms, medical history, and potential side effects
-- Selecting a new car model based on features, price, reliability, and personal preferences
-- Choosing a college major based on career goals, academic strengths, and personal interests"
-Language,3,3,Cognitive Abilities,"Language refers to the ability of humans to communicate through a system of words, symbols, and grammar. It is a complex cognitive process that involves the use of multiple areas of the brain and is essential for social interaction and the transmission of knowledge and culture.",🗣️,"- Speaking and listening to others in a conversation
-- Reading and writing a book or article
-- Translating a message from one language to another
-- Sign language used by the deaf community
-- Nonverbal communication such as facial expressions or body language"
-Creativity,3,3,Cognitive Abilities,"Creativity is a mental ability characterized by the production of innovative and original ideas, solutions, or expressions. It involves the generation of novel and useful concepts or products, often through unconventional thinking or the combination of existing ideas in new ways. Creativity is a complex and multidimensional phenomenon that encompasses various cognitive and psychological factors, such as divergent thinking, associative thinking, curiosity, openness to experience, and motivation.",🎨,"- The invention of the light bulb by Thomas Edison
-- The creation of the Mona Lisa painting by Leonardo da Vinci
-- The development of the iPhone by Steve Jobs and his team at Apple Inc.
-- The writing of the Harry Potter book series by J.K. Rowling
-- The design of the Eiffel Tower by Gustave Eiffel"
-Social Perception,4,3,Social Cognition,"Social Perception is the process of interpreting and understanding the behaviors, emotions, and intentions of others in social situations. It involves the use of cognitive processes to gather information from social cues and make judgments about others' personalities and motivations. Social Perception is an important component of social interaction and communication.",👀,"- Judging a person's personality based on their tone of voice and body language during a conversation.
-- Assuming someone is angry or upset based on their facial expressions.
-- Believing that a person is trustworthy because they have a kind demeanor and make eye contact.
-- Stereotyping individuals based on their race, gender, or appearance.
-- Forming an opinion about someone's intelligence based on their accent or language proficiency."
-Social Comparison,4,3,Social Cognition,"Social comparison is a cognitive process where individuals compare themselves to others in order to evaluate their own abilities, opinions, and social status. It is a common human behavior that can have both positive and negative impacts on one's self-esteem and well-being.",👥,"- Comparing one's salary to those of colleagues or friends
-- Judging one's attractiveness based on the appearance of others
-- Feeling inadequate about one's achievements after seeing others receive recognition or awards
-- Comparing one's social media following or likes to those of others
-- Feeling envious or jealous of someone else's possessions or lifestyle."
-Social Influence,3,3,Social Cognition,"Social Influence refers to the ways in which people affect the behavior, attitudes, and beliefs of others. It can occur through direct or indirect means, such as persuasion, conformity, obedience, and social comparison. Social Influence can impact individuals and groups, and is influenced by various factors including culture, social norms, and power dynamics.",👥,"- Peer pressure to engage in risky behavior, such as smoking or drinking alcohol
-- Celebrity endorsements of products and services, influencing their followers to purchase or use them
-- Political leaders using persuasive tactics to gain support for their policies and beliefs
-- Groupthink, where individuals conform to the opinions of the majority within a group, even if they disagree
-- Social comparison on social media, where individuals compare themselves to others and may feel pressure to conform to certain standards or behaviors"
-Self-Perception,3,3,Social Cognition,"Self-perception is the process of gaining knowledge about oneself through observation and interpretation of one's own behavior, thoughts, and feelings. It involves understanding one's own attitudes, beliefs, and values, and how they influence behavior and decision-making. This process is influenced by social, cultural, and environmental factors.",🤔,"- A person who notices they always feel anxious before public speaking and interprets this as a sign that they are not confident in their abilities.
-- A person who observes that they always volunteer to help others and interprets this as a sign that they are a helpful and caring person.
-- A person who realizes they have a tendency to procrastinate and interprets this as a sign that they struggle with time management skills."
-Cognitive Dissonance,3,3,Social Cognition,"Cognitive dissonance refers to the mental discomfort or psychological stress experienced by a person who holds two or more conflicting beliefs, values, or ideas at the same time. It is the feeling of discomfort that arises when a person's behavior or beliefs conflict with their values or attitudes, and they must reconcile these contradictions.",🤯,"- A person who believes smoking is harmful to health but continues to smoke regularly.
-- A person who believes in the importance of animal rights but still eats meat regularly.
-- A person who believes in the value of saving money but continues to make impulsive purchases.
-- A person who believes in the importance of exercise but does not engage in any physical activity.
-- A person who believes in the importance of honesty but regularly lies to their loved ones."
-Self-Determination Theory,3,3,Motivation,"Self-Determination Theory is a psychological theory that focuses on motivation and the factors that influence it. It proposes that humans have three innate psychological needs: autonomy, competence, and relatedness, and when these needs are satisfied, individuals are more likely to be intrinsically motivated and experience greater well-being.",💪,"- A student who chooses to study a subject they are passionate about, rather than one they feel obligated to study due to external pressure, is exhibiting autonomy and intrinsic motivation, two key components of Self-Determination Theory.
-- An employee who is given opportunities to develop new skills and take on challenging tasks that align with their interests and strengths is more likely to feel competent and motivated in their work.
-- A person who is part of a supportive social network and feels a sense of belonging and connection with others is more likely to experience positive emotions and a sense of well-being, according to the relatedness component of Self-Determination Theory."
-Social Skills,7,3,Emotional Intelligence,"Social skills refer to the ability to interact effectively with others in a variety of social situations. It involves using verbal and nonverbal communication, active listening, empathy, and conflict resolution skills. It is an important aspect of one's overall emotional intelligence and is crucial for building and maintaining relationships with others.",🤝,"- Knowing how to start and maintain a conversation with someone you just met
-- Being able to read social cues and adjust your behavior accordingly
-- Showing empathy towards others by being able to understand and share their feelings
-- Being able to resolve conflicts by coming up with a mutually beneficial solution
-- Knowing when and how to apologize for mistakes or misunderstandings
-- Being able to give and receive feedback constructively
-- Demonstrating good manners and etiquette in various social situations
-- Showing respect for others' opinions and beliefs, even if they differ from your own
-- Being able to work collaboratively with others towards a common goal
-- Knowing how to express your own thoughts and feelings effectively and assertively without being aggressive or confrontational."
-Self-Regulation,7,3,Emotional Intelligence,"Self-regulation is the ability to control one's own thoughts, emotions, and behaviors in order to achieve goals and respond appropriately to situations. It involves managing impulses, delaying gratification, and adapting to changing circumstances.",🧘‍♀️,"- A person who is on a diet resisting the temptation to eat unhealthy food when it is available.
-- A student who sets aside time each day to study, even when they would rather do something else.
-- A driver who refrains from engaging in road rage when another driver cuts them off.
-- A professional athlete who practices self-discipline and trains consistently to maintain peak physical condition.
-- A person who regularly practices meditation or mindfulness to manage stress and emotions."
-Self-Awareness,7,3,Emotional Intelligence,"Self-awareness is the ability to recognize and understand one's own emotions, thoughts, and behaviors, and how they impact others. It involves being introspective and reflecting on one's own actions and beliefs.",🧘‍♀️,"• Recognizing when you are feeling overwhelmed and taking steps to manage stress.
-• Understanding how your behavior affects others and adjusting accordingly.
-• Acknowledging and being honest about your strengths and weaknesses.
-• Reflecting on past mistakes and using that knowledge to make better decisions in the future.
-• Being able to identify and regulate your emotions in a given situation.
-• Recognizing your biases or prejudices and actively working to overcome them.
-• Understanding your values and how they influence your decisions and actions.
-• Being able to communicate your thoughts and feelings effectively to others."
-Empathy,7,3,Emotional Intelligence,"Empathy is the ability to understand and share the feelings of others. It involves recognizing and responding to emotions in others, as well as being able to put oneself in someone else's shoes and imagine their perspective.",❤️,"- A friend listening attentively and offering support to another friend who is going through a difficult time.
-- A healthcare worker taking the time to explain a medical procedure and address a patient's concerns and fears.
-- A teacher noticing a student struggling with schoolwork and offering additional resources and personalized support.
-- A parent comforting their child after a scary or stressful experience, validating their feelings and providing reassurance.
-- A coworker offering to help a colleague with a heavy workload or a challenging task."
-Body Image,3,3,Attitudes,"Body Image refers to a person's subjective perception and evaluation of their own physical appearance, including their size, shape, and other physical attributes. It is influenced by individual attitudes, beliefs, and experiences, as well as societal and cultural norms and expectations.",👤,"- Feeling self-conscious about one's weight or body shape
-- Obsessively comparing oneself to others in terms of physical appearance
-- Engaging in extreme dieting or exercise behaviors in order to achieve a certain body type
-- Feeling inadequate or ashamed due to societal pressure to conform to certain standards of beauty
-- Experiencing anxiety or depression related to perceived flaws or imperfections in one's physical appearance."
-Intrasexual Competition,7,3,Sexual Selection,"Intrasexual competition refers to the competition between members of the same sex for access to mates of the opposite sex. It is a form of sexual selection that drives the evolution of traits that increase an individual's ability to compete for and win mating opportunities. This competition can take many forms, including physical contests, displays of dominance or aggression, and the manipulation of social relationships.",💪,"- Male deer competing for access to female deer during mating season, often by fighting or displaying physical dominance.
-- Male gorillas competing for access to female gorillas through displays of physical dominance and aggression towards other males.
-- Male birds competing for the attention of female birds through elaborate displays of feathers or songs.
-- Male lions competing for control of a pride of females by fighting and asserting dominance over other males."
-Intersexual Selection,7,3,Sexual Selection,"Intersexual selection is a type of sexual selection where individuals of one sex choose mates based on certain traits or behaviors displayed by individuals of the opposite sex. This process can lead to the evolution of exaggerated physical or behavioral traits in one sex, as they become more attractive to potential mates.",💃,"- Male peacocks with large, colorful tails are preferred by female peacocks as mates, leading to the evolution of even larger and more elaborate tails in males over time.
-- Male birds with complex and attractive songs are preferred by female birds as mates, leading to the evolution of more intricate and impressive songs in males.
-- Male elephant seals with larger bodies and more impressive displays of strength and aggression are preferred by female elephant seals as mates, leading to the evolution of even larger and more dominant males."
-Trade-Offs,3,3,Life History Theory,"Trade-offs refer to the concept of making a compromise between two or more aspects in order to optimize a desired outcome. In evolutionary biology, trade-offs refer to the allocation of limited resources between various life history traits, such as reproduction and survival, in order to maximize fitness.",🤝,"- An animal that invests more resources into reproduction may have fewer resources available for survival, increasing the risk of predation or starvation.
-- A plant that produces large, energy-rich seeds may have fewer offspring overall due to the high cost of each seed.
-- A human who prioritizes career success may sacrifice personal relationships or leisure time in order to achieve their goals."
-Life Span,3,3,Life History Theory,"Life span refers to the maximum amount of time an organism can live, from birth to death. It is influenced by a variety of factors including genetics, environment, and behavior. Life span is an important concept in life history theory, which seeks to explain the evolution of life history traits such as growth, reproduction, and survival.",🕰️,"- A tortoise living up to 150 years
-- A human living up to 122 years (current world record)
-- A mayfly living only 24 hours
-- A dog living up to 20 years (depending on breed and care)
-- A tree living up to several thousand years (depending on species and location)"
-Direct Fitness,3,3,Kin Selection,"Direct fitness refers to an individual's reproductive success through their own offspring. It is a measure of the genetic contribution an individual makes to the next generation through their own reproduction. This is in contrast to indirect fitness, which measures an individual's reproductive success through the reproductive success of their relatives.",👶,"- A male bird who successfully mates with several females and produces many offspring.
-- A female mammal who nurses and cares for her own offspring until they are independent and able to reproduce.
-- A male insect who fertilizes multiple females and ensures the survival of his own offspring through his care and protection."
-Multi-Level Selection,3,3,Group Selection,"Multi-Level Selection refers to the idea that selection can occur at different levels of social organization, such as at the level of individuals within groups or at the level of groups themselves. This concept suggests that traits can be selected for or against based on their effects on fitness at multiple levels, often leading to a balance between cooperation and competition within and between groups.",👥,"- Altruistic behavior in social insects such as ants, bees, and termites, where individuals sacrifice their own reproduction for the benefit of the colony as a whole, is an example of selection at the level of the group.
-- The evolution of human language, which allows for increased cooperation and communication within groups, is an example of selection at the level of individuals within groups.
-- The formation of alliances between different animal groups, such as the cooperative hunting behavior seen in lions, is an example of selection at the level of groups interacting with one another."
-Education,7,3,Socialization,"Education is the process of acquiring knowledge, skills, values, and beliefs through various forms of learning, teaching, and training. It is aimed at promoting personal and societal development and enabling individuals to participate actively in society. Education can occur formally or informally, and it can take place in various settings, including schools, homes, and workplaces. Its ultimate goal is to prepare individuals for their roles in society and to help them achieve personal and professional success.",🎓,"- Attending school and obtaining a diploma or degree
-- Participating in online courses or workshops
-- Learning a new skill or trade through apprenticeships or on-the-job training
-- Reading books or educational materials to gain knowledge
-- Participating in community programs or events that promote education and learning"
-Media,6,3,Socialization,"Media refers to various channels of communication that transmit information, entertainment, and advertising to a large audience. These channels include television, radio, newspapers, magazines, internet, and social media platforms. Media plays a significant role in shaping public opinion, influencing consumer behavior, and disseminating news and information. It is often used as a tool for socialization, education, and entertainment.",📺,"- Television shows and news broadcasts
-- Newspaper articles and editorials
-- Social media platforms like Twitter and Facebook
-- Radio talk shows and music programs
-- Advertising campaigns and commercials
-- Online news websites and blogs
-- Magazines covering topics like fashion, current events, and celebrity gossip
-- Podcasts and streaming services like Spotify and YouTube."
-Family,6,3,Socialization,"Family is a social unit consisting of individuals related by blood, marriage, or adoption. It plays a crucial role in socialization, which is the process of acquiring values, beliefs, and behaviors that are necessary for functioning in society. Family is a subset of cultural factors that shape human behavior and is an essential part of human existence.",👪,"- A mother and father raising their children together in a loving and supportive environment.
-- A grandparent taking care of their grandchildren and passing down family traditions and values.
-- Siblings who support each other through thick and thin, sharing experiences and creating lifelong bonds.
-- A family coming together for holidays and celebrations, strengthening their connection and sense of community.
-- A blended family, where step-parents and step-siblings are brought together and learn to navigate their relationships and create a new family dynamic."
-Peers,5,3,Socialization,"Peers are individuals who are of similar age, status, and interests who share social and cultural experiences. They have a strong influence on an individual's behavior, attitudes, and values during the process of socialization.",👥,"- A group of middle-school students who hang out together after school and share similar hobbies and interests
-- A team of coworkers who have similar job roles and work in the same department
-- A group of friends who are all in college studying the same major and share academic goals and interests
-- A community organization made up of individuals who share the same cultural background and traditions
-- A group of neighbors who participate in the same community activities and share similar lifestyles and values."
-Religion,4,3,Socialization,"Religion is a system of beliefs, practices, and values that involves a connection to a higher power or supernatural force. It is often used to provide meaning and purpose to individuals and communities, and can shape moral and ethical codes of behavior.",🙏,"- Christianity, Islam, Judaism, Buddhism, Hinduism, and other organized religions
-- Religious rituals and ceremonies, such as prayer, meditation, or attending church/mosque/synagogue/temple
-- Sacred texts or scriptures, such as the Bible, Quran, Torah, Bhagavad Gita, or Tripitaka
-- Religious symbols and artifacts, such as crosses, crescents, stars of David, statues of deities, or prayer beads
-- Religious leaders and authorities, such as priests, imams, rabbis, monks, or gurus
-- Religious holidays and festivals, such as Christmas, Eid al-Fitr, Passover, Diwali, or Vesak
-- Religious practices and taboos, such as fasting, abstaining from certain foods or activities, or wearing modest clothing
-- Religious beliefs and doctrines, such as monotheism, polytheism, reincarnation, karma, heaven and hell, sin and redemption, or the afterlife."
-Sexual Behavior,4,3,Gender Stereotypes,"Sexual behavior refers to the actions, attitudes, and practices related to sexual activity and expression. It encompasses a wide range of behaviors, including sexual orientation, sexual practices, and sexual desires. It is influenced by a variety of factors, including biology, psychology, culture, and social norms.",🍆,"- Engaging in consensual sexual activity with a partner
-- Masturbating alone or with a partner
-- Having multiple sexual partners
-- Choosing to abstain from sexual activity
-- Engaging in BDSM or other forms of kink
-- Watching pornography or engaging in other forms of sexual media consumption
-- Engaging in sexual behaviors that align with one's sexual orientation, such as same-sex relationships or heterosexual relationships
-- Engaging in sexual behavior that is considered taboo or stigmatized by society, such as sex work or public displays of affection."
-Emotional Expression,4,3,Gender Stereotypes,"Emotional expression refers to the outward manifestation of one's emotions, which can include verbal and nonverbal behaviors such as crying, smiling, or expressing anger. It is influenced by various cultural factors, including gender stereotypes, which can shape how individuals are expected to express their emotions based on societal norms and expectations.",😭,"- A person crying during a sad movie
-- A person smiling and laughing while spending time with friends
-- A person expressing anger and frustration while arguing with a family member or friend
-- A person expressing excitement and joy while opening a present or receiving good news
-- A person showing signs of nervousness and anxiety before a big event or presentation."
-Physical Appearance,3,3,Gender Stereotypes,"Physical appearance refers to the observable characteristics of an individual's body, such as facial features, hair color, body shape, and height. It is a key aspect of how individuals are perceived and judged by others, and can influence social interactions and opportunities. Gender stereotypes may play a role in shaping expectations around physical appearance, particularly with regard to certain traits or attributes that are seen as more desirable for men or women.",👤,"- Height
-- Facial features
-- Body shape
-- Hair color
-- Clothing style
-- Muscle tone
-- Skin complexion
-- Body weight
-- Posture
-- Physical fitness level"
-Occupational Roles,3,3,Gender Stereotypes,"Occupational Roles refer to the societal expectations and norms for individuals based on their profession or job. These expectations may include specific duties, responsibilities, and behaviors that are associated with a particular occupation. Occupational Roles can be influenced by cultural factors, including gender stereotypes, which may lead to certain jobs being predominantly held by either men or women.",👨‍🏭,"- Nurses being expected to care for patients and administer medications
-- Construction workers being expected to operate heavy machinery and perform physical labor
-- Teachers being expected to educate and assess students' learning
-- CEOs being expected to lead and make strategic decisions for a company
-- Stay-at-home parents being expected to manage household tasks and care for children."
-Domestic Roles,3,3,Gender Stereotypes,Domestic roles refer to the expectations and responsibilities placed on individuals based on their gender within the context of the household. These roles are often influenced by cultural factors and can reinforce gender stereotypes.,👨‍👩‍👧‍👦,"- Women are expected to do the majority of housework, such as cleaning, cooking, and laundry.
-- Men are expected to be the primary breadwinners and to take care of household repairs and maintenance.
-- Women are often responsible for childcare, including taking care of infants and children, helping with homework, and attending school events.
-- Men are often responsible for disciplining children and teaching them skills such as sports or outdoor activities.
-- Women are expected to show emotional support and care for family members, such as listening to problems and providing comfort.
-- Men are often expected to be the authority figures in the household, making important decisions and enforcing rules."
+- Numerical and mathematical abilities
+- Critical thinking and evaluation
+- Perception and interpretation of sensory information."
+Social Cognition,4,2,Psychological Factors,"Social cognition refers to the mental processes involved in how individuals perceive, interpret, and respond to social information from their environment. It includes understanding social norms, making judgments about others' behaviors and intentions, and regulating one's own behaviors in social situations. These factors may play a role in understanding why men behave in certain ways in social contexts.",🧠,"- Men may be more likely to engage in risky behaviors in social situations because they perceive social norms that encourage risk-taking as more acceptable or desirable.
+- Men may be more likely to make snap judgments about others based on physical appearance or other surface-level characteristics, due to a tendency toward quick, automatic processing of social information.
+- Men may be more likely to engage in aggressive or dominant behaviors in social situations, due to a greater emphasis on competition and status in male socialization."
+Motivation,3,2,Psychological Factors,"Motivation refers to the internal psychological factors that drive individuals to pursue certain goals or engage in particular behaviors. It is a critical component of human behavior and can be influenced by a range of factors, including personal beliefs, social norms, and environmental cues. As a subset of why are men, motivation helps to explain why men may be driven to pursue certain activities or behaviors, such as seeking out new challenges, pursuing career success, or engaging in risky behaviors.",💪,"- A man who works overtime consistently to save up enough money for a down payment on a house, driven by his desire to provide a stable home for his family.
+- A man who trains for months to compete in a marathon, motivated by his desire to prove to himself that he is capable of achieving a difficult goal.
+- A man who takes risks in his career, such as starting his own business or pursuing a challenging promotion, motivated by his desire to achieve financial success and personal fulfillment.
+- A man who volunteers regularly at a local charity, driven by his desire to help others and make a positive impact in his community.
+- A man who consistently hits the gym and follows a strict diet, motivated by his desire to maintain his physical health and appearance."
+Emotional Intelligence,3,2,Psychological Factors,"Emotional Intelligence is the ability to identify, understand, and manage one's own emotions and the emotions of others. It involves being aware of one's own feelings and how they affect others, as well as being able to empathize with others and respond appropriately to their emotions. Emotional intelligence is an important factor in why men behave the way they do, as it can influence their ability to communicate effectively, build relationships, and make decisions.",🧠,"- A man who is able to remain calm and composed during a high-pressure situation, while also being able to recognize and address the emotions of those around him
+- A man who is able to empathize with his partner's feelings and respond in a way that is supportive and understanding, rather than dismissive or defensive
+- A man who is able to effectively navigate conflicts with coworkers or colleagues by using active listening and conflict resolution skills, rather than resorting to aggression or passive-aggressive behavior."
+Attitudes,3,2,Psychological Factors,"Attitudes are a set of beliefs, values, and emotions that shape an individual's opinions and behaviors towards a particular person, thing, or situation. They are a psychological factor that influences how men perceive and interact with the world around them. Attitudes can be positive or negative and are shaped by a variety of internal and external factors, including upbringing, culture, and personal experiences.",🤔,"- A man who believes that women should stay at home and take care of the children, while men should work outside the home
+- A man who believes that homosexuality is a sin and should not be accepted in society
+- A man who believes that mental illness is a weakness and those who suffer from it should just ""toughen up"" and deal with it on their own
+- A man who believes that people of certain races or ethnicities are inherently inferior to others
+- A man who believes that it is not ""manly"" to express emotions and vulnerability, and that men should always appear strong and stoic."
+Sexual Selection,7,2,Evolutionary Factors,"Sexual Selection is a process of natural selection that occurs when certain traits increase an organism's chances of mating and reproducing. These traits can be physical, behavioral, or both, and are often more prevalent in one sex than the other. This phenomenon is relevant to the question of why men have certain characteristics, as many of these traits are thought to have evolved due to sexual selection pressures.",💃 (woman dancing),"- The peacock's elaborate tail feathers, which evolved through sexual selection to attract mates
+- The bright red coloration of male cardinals, which is believed to be attractive to female birds and therefore evolved through sexual selection
+- The deep voices of male gorillas, which have been shown to attract females and therefore may have evolved through sexual selection pressures"
+Life History Theory,5,2,Evolutionary Factors,"Life History Theory is a framework in evolutionary biology that seeks to explain the different reproductive strategies of organisms, including humans. It posits that an organism's life history, including factors such as lifespan, age at sexual maturity, and number of offspring, is shaped by trade-offs between reproduction and survival. This theory is relevant to understanding why men, as a subset of humans, may exhibit certain reproductive behaviors and strategies.",🐣,"- Men tend to have a shorter lifespan compared to women, which may be related to the fact that they invest more energy into reproduction and mating efforts.
+- Men typically have a later age of sexual maturity compared to women, which may be related to the fact that males need to accumulate resources and social status in order to attract mates.
+- Men tend to be more competitive and prone to risk-taking behavior when it comes to mating and reproduction, which may be related to the fact that they have a limited window of opportunity for reproduction and need to outcompete other males to gain access to mates."
+Kin Selection,4,2,Evolutionary Factors,"Kin selection refers to the evolutionary process by which genes that promote behaviors or traits that benefit one's relatives are favored by natural selection. This concept is relevant to the question of why men exist because it helps explain why certain behaviors or traits that benefit one's kin, such as protecting and providing for family members, may have been selected for in males.",👨‍👩‍👧‍👦,"- Male lions protect their pride, which is usually composed of related females and offspring. This behavior benefits their kin and ensures the survival of their genes.
+- Male chimpanzees form alliances with other males in their group to protect their territory and resources, which benefits their kin who live within that territory.
+- Men may be more likely to engage in risky behaviors, such as hunting large game or participating in warfare, which can provide food or protection for their family or tribe. This behavior benefits their kin and increases the chances of their genes being passed on."
+Group Selection,3,2,Evolutionary Factors,"Group selection is an evolutionary process where traits that benefit a group of individuals are selected for, rather than just individual traits. This can lead to the evolution of altruistic behaviors that benefit the group as a whole, including males. This concept is relevant to understanding why men may exhibit certain behaviors that benefit the group, such as cooperating in hunting or protecting their community.",👥,"- Men forming hunting parties and cooperating to bring down larger prey for the benefit of the entire group.
+- Men risking their lives in battle to protect their community and ensure its survival.
+- Men sharing resources and wealth within their group to help ensure the well-being of all members.
+- Men sacrificing their own reproductive success to help raise and protect the offspring of other males in their group, thereby ensuring the survival of the group's gene pool."
+Socialization,4,2,Cultural Factors,"Socialization is the process through which individuals learn and internalize the values, norms, beliefs, and behaviors of their culture. It is a crucial aspect of human development as it shapes our understanding of the world and how we interact with others. Socialization is a key factor in understanding why men behave and think the way they do, as it is influenced by cultural norms and expectations surrounding gender roles and masculinity.",👥,"- Boys being encouraged to play with ""masculine"" toys such as trucks and action figures, while being discouraged from playing with ""feminine"" toys like dolls or dress-up clothes.
+- Fathers or male role models teaching boys how to behave in a traditionally masculine way, such as being tough and not showing vulnerability or emotions.
+- Boys being expected to participate in certain activities, such as sports or hunting, that are seen as traditionally masculine and not participating in activities seen as more feminine, such as dance or theater."
+Gender Stereotypes,3,2,Cultural Factors,"Gender stereotypes are preconceived notions about the roles, traits, and behaviors that are typical of men and women. These stereotypes are shaped by cultural factors and can limit individuals' potential and opportunities based on their gender identity. Understanding why gender stereotypes exist is a subset of understanding why men are perceived and treated differently than women in various societies.",👨‍👩‍👧‍👦🚹🚺👩‍🍳👨‍🔧👩‍💼👨‍🌾👩‍🏭👨‍🎓👩‍🎤👨‍🎨👩‍🚀👨‍✈️,"- Men are expected to be strong and unemotional while women are expected to be nurturing and emotional.
+- Men are often seen as the primary breadwinners while women are expected to prioritize their family and domestic responsibilities.
+- Men are encouraged to pursue careers in fields such as engineering, finance, and politics while women are often steered towards fields such as teaching, nursing, and social work.
+- Men are often praised for being assertive and confident while women are criticized for being too aggressive or bossy.
+- Men are expected to be sexually assertive and dominant while women are expected to be passive and submissive."
+Neuroticism,6,3,Personality Traits,"Neuroticism is a personality trait characterized by a tendency towards negative emotions such as anxiety, stress, and self-doubt. It is a psychological factor that can impact men and women differently, and may be influenced by societal expectations and gender roles.",😫,"- Becoming easily overwhelmed or anxious in situations that others may not find stressful
+- Constantly worrying about perceived failures or mistakes
+- Difficulty handling criticism or rejection
+- Tendency to catastrophize small issues or setbacks
+- Struggling to let go of negative thoughts or emotions
+- Difficulty managing anger or frustration in a healthy way
+- Fear of failure or taking risks due to a lack of confidence in one's abilities
+- Frequently feeling self-conscious or insecure in social situations
+- Struggling with insomnia or other sleep disturbances due to racing thoughts or anxiety."
+Conscientiousness,6,3,Personality Traits,"Conscientiousness is a personality trait characterized by being responsible, organized, and dependable. It is a psychological factor that influences behavior and decision-making. Men may exhibit higher levels of conscientiousness due to societal expectations of being providers and leaders, as well as cultural norms of masculinity emphasizing discipline and responsibility.",📝,"- Arriving to work on time, every day, and completing tasks on or before the deadline
+- Keeping a clean and organized living space, regularly cleaning and decluttering
+- Taking on leadership roles and responsibilities in social or professional settings
+- Regularly making and sticking to a budget, saving money for future goals
+- Following through on commitments made to friends, family, or colleagues
+- Taking care of personal health and wellness through regular exercise and healthy eating habits
+- Planning and preparing for future events, such as saving for retirement or creating a long-term career plan."
+Agreeableness,6,3,Personality Traits,"Agreeableness is a personality trait that refers to how cooperative, compassionate, and considerate a person is towards others. It is a subset of psychological factors that influence a person's behavior and interactions with others. In the context of why are men, agreeableness may impact how they approach relationships, social situations, and decision-making processes.",🤝,"- A man who frequently goes out of his way to help others without expecting anything in return
+- A man who is known for his ability to empathize with others and understand their perspectives
+- A man who avoids conflict and prioritizes finding peaceful resolutions to disagreements or problems."
+Extraversion,5,3,Personality Traits,"Extraversion is a personality trait that is characterized by outgoingness, sociability, and a tendency to seek stimulation and excitement. It is one of the psychological factors that contribute to differences in men's personalities, and may be influenced by both genetic and environmental factors. Men are often more likely than women to exhibit extraverted traits, although there is a wide range of individual variation within both genders.",🎉,"- Enjoying social gatherings and seeking out new social experiences
+- Being talkative and expressive in conversations
+- Taking risks and seeking out adventurous activities
+- Feeling energized and motivated by being around others
+- Being comfortable with public speaking and performing in front of others
+- Enjoying being the center of attention and seeking out recognition for achievements
+- Being willing to try new things and take on leadership roles in groups or organizations."
+Perception,5,3,Cognitive Abilities,"Perception refers to the way in which individuals interpret and organize sensory information from the environment. It is a cognitive process that is influenced by various psychological factors, including attention, motivation, and past experiences. Understanding perception is relevant to understanding why men may perceive and interpret information differently than women, which can impact their behaviors and decision-making.",👁️,"- A man may perceive a woman's assertiveness as bossiness, while a woman may perceive the same behavior as confidence.
+- A man may perceive a certain type of music as aggressive and empowering, while a woman may perceive it as hostile and aggressive.
+- A man may perceive a certain type of food as spicy and flavorful, while a woman may perceive it as too spicy and overwhelming."
+Memory,5,3,Cognitive Abilities,"Memory is a cognitive ability that allows individuals to store, retain, and retrieve information from past experiences. It is a subset of psychological factors that contribute to human behavior and thought processes, which are shaped by various biological, social, and cultural factors. The way men remember and recall information can be influenced by their gender identity, as well as their individual experiences and personality traits.",🧠,"- Remembering the lyrics to a song heard years ago
+- Recalling a traumatic event from childhood
+- Memorizing a phone number and being able to dial it without looking it up
+- Remembering a complex recipe and being able to recreate it from memory
+- Recalling important dates such as birthdays or anniversaries
+- Being able to remember important information for a test or exam
+- Remembering the layout of a new city after exploring it for a day
+- Recalling a conversation in detail, including specific words and tone of voice
+- Remembering directions to a location without the use of a GPS or map
+- Recalling a childhood memory with vivid detail."
+Problem-Solving,4,3,Cognitive Abilities,"Problem-solving is a cognitive process that involves finding solutions to challenges or issues. It is a crucial ability that allows individuals to overcome obstacles and achieve goals. Although problem-solving is a subset of psychological factors, it is a skill that is not exclusive to any gender. Both men and women can develop problem-solving abilities through practice and experience.",🧩,"- Developing a new product that meets the needs of a specific market
+- Finding a way to improve a manufacturing process to reduce waste and increase efficiency
+- Solving a complex mathematical equation or algorithm to develop a new technology
+- Creating a strategy to overcome a difficult business challenge, such as a sudden drop in sales or a change in market conditions
+- Developing a plan to manage a crisis or emergency situation, such as a natural disaster or a cybersecurity breach."
+Decision-Making,4,3,Cognitive Abilities,"Decision-making is the process of selecting a course of action from among several alternatives based on a set of criteria or preferences. It is a cognitive ability that involves gathering and analyzing information, evaluating options, and choosing the best course of action. Decision-making is influenced by various psychological factors such as emotions, biases, and individual differences, which may differ among men and women.",🤔,"- Choosing a college major based on personal interests, career goals, and potential earnings
+- Deciding whether to invest in a certain stock based on financial data, industry trends, and risk tolerance
+- Selecting a travel destination based on budget, time constraints, and personal preferences
+- Determining whether to accept a job offer based on salary, benefits, and job responsibilities
+- Deciding whether to undergo a medical procedure based on risks, benefits, and personal values."
+Language,3,3,Cognitive Abilities,"Language is a set of cognitive abilities that allow individuals to communicate with one another through the use of symbols, sounds, and gestures. It is a subset of psychological factors that are unique to humans and play a crucial role in why we are able to form complex societies and cultures. The development of language is a key factor in human evolution and has enabled us to share ideas, emotions, and knowledge, ultimately shaping who we are as a species.",🗣️,"- Speaking: the ability to use vocal cords to produce sounds and communicate with others through spoken language.
+- Writing: the ability to use symbols and characters to convey ideas and communicate with others through written language.
+- Sign language: the ability to communicate through a visual language using hand gestures, facial expressions, and body language.
+- Multilingualism: the ability to speak and understand multiple languages, allowing for communication and interaction with people from different cultures and backgrounds.
+- Language learning: the ability to acquire new languages and improve language skills through education, immersion, and practice."
+Creativity,3,3,Cognitive Abilities,"Creativity refers to the ability to generate new ideas or concepts, develop original solutions to problems, and produce novel and valuable outcomes. In the context of why are men, creativity can be seen as a psychological factor that may contribute to differences in male and female behavior, particularly in areas such as artistic expression, innovation, and entrepreneurship.",🎨,"- Leonardo da Vinci's Mona Lisa painting, which showcases his creativity in the use of the sfumato technique
+- The invention of the iPhone by Steve Jobs and his team at Apple, which revolutionized the smartphone industry and was a result of their creativity in design and technology
+- J.K. Rowling's Harry Potter book series, which demonstrates her creativity in creating a magical world and characters that have captured the imagination of millions of readers worldwide."
+Social Perception,4,3,Social Cognition,"Social perception refers to the process by which people interpret and make sense of the behavior, attitudes, and intentions of others in social situations. It involves using various cues such as facial expressions, body language, and tone of voice to form judgments and impressions of individuals and groups. Social perception is a key aspect of social cognition, which is one of the psychological factors that contribute to why men behave and interact in certain ways.",🧐,"- A manager assuming that an employee is not committed to their job because they have been absent frequently, without considering that the employee may have personal issues that they are dealing with.
+- An individual assuming that a person who is dressed in expensive clothing and driving a luxury car is wealthy and successful, without considering that they may be in debt or have inherited the items.
+- A person assuming that someone who is shy and quiet is not confident, without considering that they may simply prefer to listen more than speak.
+- A group of people assuming that a person from a different culture is unfriendly or rude because they have different customs and ways of communicating, without considering that they may simply be unfamiliar with the social norms of the group."
+Social Comparison,4,3,Social Cognition,"Social comparison is the process of evaluating oneself in relation to others in terms of abilities, achievements, and social status. It is a fundamental human tendency, driven by the need for self-evaluation and self-improvement. It may impact men's self-esteem and sense of identity, as they compare themselves to other men in terms of physical appearance, career success, and social status.",👥,"- Comparing one's salary to that of a colleague
+- Evaluating one's physical fitness in comparison to other men at the gym
+- Measuring one's success in relation to a friend's accomplishments
+- Assessing one's social status based on the car they drive or the neighborhood they live in
+- Comparing one's romantic relationships to those of others in their social circle"
+Social Influence,3,3,Social Cognition,"Social Influence refers to the way in which people's thoughts, feelings, and behaviors are influenced by the presence and actions of others. This can include the impact of social norms, peer pressure, and conformity on individual behavior. As a subset of psychological factors, social influence plays a role in shaping why men behave in certain ways in social contexts.",👥,"- Men conforming to the behavior of their peers in order to fit in or be accepted
+- Men adopting the attitudes and beliefs of their social group, whether it be political, religious, or cultural
+- Men being influenced by social norms around masculinity, such as the idea that men should be tough and emotionless
+- Men being influenced by the media and advertising, which often portrays certain behaviors or products as being ""manly"" or desirable
+- Men being influenced by authority figures or those in positions of power, such as bosses or political leaders."
+Self-Perception,3,3,Social Cognition,"Self-perception is an individual's understanding and interpretation of their own thoughts, feelings, and behaviors. It is a crucial aspect of social cognition, which is a psychological factor that influences how individuals interact with others and the world around them. Understanding self-perception plays a role in understanding why men behave the way they do.",🤔,"- A man who believes he is a confident and assertive person may act in a more dominant manner in social situations.
+- A man who perceives himself as physically attractive may be more likely to engage in behaviors that draw attention to his appearance.
+- A man who sees himself as intelligent may be more likely to engage in intellectually stimulating activities or conversations."
+Cognitive Dissonance,3,3,Social Cognition,"Cognitive dissonance refers to the psychological discomfort experienced by an individual when they hold two or more conflicting beliefs, attitudes, or values. It can arise when one's actions or thoughts are inconsistent with their beliefs or when they confront information that challenges their existing beliefs. This concept can be relevant to understanding why men may experience conflicting thoughts or beliefs about their gender roles and expectations.",🤯,"- A man who believes in gender equality but feels uncomfortable when his female partner earns more money than him.
+- A man who identifies as a feminist but regularly tells sexist jokes or engages in other forms of harmful behavior towards women.
+- A man who wants to be emotionally open and vulnerable, but feels pressure from society to conform to traditional masculine norms that discourage such behavior.
+- A man who supports LGBTQ+ rights but feels uncomfortable or unsure about expressing affection or intimacy towards other men due to societal stigma surrounding homosexuality.
+- A man who believes in the importance of mental health but feels ashamed or embarrassed to seek therapy or other forms of support, due to stigma surrounding mental illness and help-seeking."
+Self-Determination Theory,3,3,Motivation,"Self-Determination Theory is a psychological framework that explains human motivation and how it relates to fulfilling one's basic psychological needs for autonomy, competence, and relatedness. It is relevant to why are men because it highlights the importance of individuals feeling in control of their actions and decisions, and how this can lead to greater satisfaction and well-being.",💪,"- A student who chooses to study a topic they are passionate about, rather than what is required for a course, is exhibiting autonomy and competence, two of the basic psychological needs outlined in Self-Determination Theory.
+- An employee who feels valued and respected by their colleagues and supervisor is fulfilling their need for relatedness, which can increase their motivation and job satisfaction.
+- A person who sets a personal goal and takes steps to achieve it, such as training for a marathon or learning a new skill, is exhibiting self-determination and can experience a sense of accomplishment and increased well-being."
+Social Skills,7,3,Emotional Intelligence,"Social skills are the ability to communicate effectively and appropriately with others in various social situations. It involves understanding social cues, body language, and emotional expressions to establish and maintain relationships. Social skills are a subset of emotional intelligence, which is a psychological factor that contributes to a person's ability to navigate social situations. Understanding social skills is relevant to understanding why men behave in certain ways in social situations.",👥,"- The ability to read and interpret social cues, such as body language and tone of voice, to understand the emotions and intentions of others.
+- The ability to communicate effectively and appropriately in various social situations, including knowing when to speak and when to listen, and how to express oneself clearly and respectfully.
+- The ability to manage emotions and regulate behavior in social situations, including controlling impulses and adapting to changing social dynamics.
+- The ability to build and maintain relationships, including establishing rapport, showing empathy, and resolving conflicts.
+- The ability to work effectively in teams, including collaborating, compromising, and contributing to group goals."
+Self-Regulation,7,3,Emotional Intelligence,"Self-regulation refers to the ability to manage one's thoughts, emotions, and behaviors in order to achieve desired goals. It is a crucial component of emotional intelligence, which is a subset of psychological factors that influence human behavior. Self-regulation is important for both men and women, as it helps them to navigate their social and emotional experiences in a healthy and productive manner. However, some studies suggest that men may struggle more with self-regulation, which could contribute to certain gender differences in behavior and decision-making.",🧘‍♂️,"- Controlling one's anger during a heated argument with a partner or colleague
+- Choosing to eat a healthy meal instead of giving in to junk food cravings
+- Setting and sticking to a budget to save money for a long-term goal
+- Taking a break from work to practice mindfulness and reduce stress levels
+- Choosing to express empathy and compassion towards someone who has wronged them instead of seeking revenge."
+Self-Awareness,7,3,Emotional Intelligence,"Self-awareness is the ability to accurately perceive one's own emotions, thoughts, and behaviors, and understand how they impact oneself and others. It is an important aspect of emotional intelligence and can help individuals better navigate social situations and relationships. In the context of why are men, self-awareness can play a role in understanding and addressing societal issues such as toxic masculinity and gender stereotypes.",🧠,"- Recognizing when you are feeling angry or frustrated and taking steps to calm yourself down before reacting in a negative way.
+- Acknowledging your own biases and prejudices and actively working to overcome them.
+- Understanding how your actions and words can impact others, both positively and negatively, and making conscious choices to behave in a way that aligns with your values and goals.
+- Reflecting on past mistakes and taking responsibility for them, rather than blaming others or making excuses.
+- Being open to feedback from others and using it as an opportunity for growth and self-improvement."
+Empathy,7,3,Emotional Intelligence,"Empathy is the ability to understand and share the feelings of others. It involves being aware of and sensitive to the emotions of others, and being able to respond appropriately. Empathy is a crucial aspect of human interaction and is important for building relationships and understanding others' perspectives. It is particularly relevant to the question of why men behave the way they do, as it can help us understand and address issues related to communication, emotional expression, and social norms.",❤️,"- A friend offering a hug and listening ear to someone going through a tough time
+- A therapist validating and empathizing with a patient's feelings during a session
+- A parent comforting a child who is upset and trying to understand their perspective
+- A stranger stopping to help someone in need, such as a lost tourist or a person who has fallen on the sidewalk
+- A coworker acknowledging and sympathizing with a colleague's stress or frustration at work."
+Body Image,3,3,Attitudes,"Body image refers to a person's mental representation and perception of their own physical appearance. It involves attitudes and beliefs about one's body, including its size, shape, and attractiveness. Body image is a subset of psychological factors that influence a person's self-esteem, social interactions, and overall well-being. Understanding the factors that contribute to body image is important in understanding why men may have certain attitudes and beliefs about their bodies.",👤,"- A man who refuses to take off his shirt at the beach or pool because he is self-conscious about his body shape
+- A man who spends hours at the gym every day in order to achieve a certain body type that he believes is ideal
+- A man who constantly compares his body to those of other men, and feels inferior or superior depending on how he perceives himself in comparison
+- A man who suffers from body dysmorphic disorder, a mental health condition characterized by obsessive thoughts and behaviors related to perceived physical flaws
+- A man who feels pressure to conform to societal expectations of masculinity, which may include having a certain body type or physical appearance."
+Intrasexual Competition,7,3,Sexual Selection,"Intrasexual competition refers to the competition between members of the same sex for access to mates or reproductive resources. It is a key factor in sexual selection and is often observed in males who engage in physical or behavioral displays to gain the attention of potential mates. As a subset of evolutionary factors, intrasexual competition plays a role in shaping the traits and behaviors of males, providing insight into why certain characteristics may be more common in men than in women.",💪,"- Fighting between male animals over a female mate
+- Displaying physical or behavioral traits to attract a mate, such as having a large or colorful plumage, or performing a complex dance or song
+- Dominance hierarchies among males, where the most dominant male has priority access to mates or resources
+- Male humans competing for the attention and affection of a female partner, often through displays of wealth, status, or physical attractiveness
+- Competition among male athletes or performers to be the best in their field, which can lead to increased recognition and mating opportunities."
+Intersexual Selection,7,3,Sexual Selection,"Intersexual selection refers to the process by which individuals of one sex choose mates based on their desirable traits, such as physical attractiveness or social status. This process can lead to the evolution of exaggerated traits in one sex, such as the elaborate tail feathers of male peacocks, as individuals with these traits are more successful in attracting mates. Intersexual selection plays a role in the evolution of men, as males may evolve traits that are attractive to females in order to increase their chances of mating and passing on their genes.",💃,"- Male peacock's elaborate tail feathers 
+- Male birds singing complex songs 
+- Male lions with larger and darker manes 
+- Male bowerbirds building intricate and colorful nests 
+- Male elk with larger antlers 
+- Male chimpanzees displaying dominance through aggressive behavior 
+- Male humans displaying physical strength and social status through clothing, accessories, and behavior."
+Trade-Offs,3,3,Life History Theory,"Trade-offs refer to the allocation of limited resources in life history theory, which is a subset of evolutionary factors that explain why certain traits and behaviors have evolved in organisms. In the context of understanding why are men, trade-offs may explain why men have developed certain physical and behavioral traits that enhance their ability to compete for resources and mates but may also come at the cost of reduced lifespan or increased risk of injury or disease.",🤝,"- Men have higher levels of testosterone, which enhances their physical strength and competitiveness, but also increases their risk of heart disease and prostate cancer.
+- Men are more likely to engage in risky behaviors, such as driving fast or taking drugs, which may increase their social status or attractiveness to potential mates, but also increases their risk of injury or death.
+- Men are more likely to prioritize their careers or financial success over family or personal relationships, which may increase their social status and resources, but may also result in decreased emotional fulfillment or social support."
+Life Span,3,3,Life History Theory,"Life span refers to the length of time an organism is expected to live, from birth to death. It is a key aspect of Life History Theory, which examines the different strategies organisms use to allocate resources over their life course. Understanding life span and life history strategies is important in the context of evolutionary factors, including why men have evolved certain traits and behaviors.",🕰️,"- Humans have a life span of approximately 70-80 years on average, although this can vary depending on genetics, environment, and lifestyle factors.
+- Some species of turtles have a life span of over 150 years, while some insects only live for a few days or weeks.
+- Life span can also vary within a species depending on sex, with some studies suggesting that females tend to live longer than males in many animal species, including humans.
+- Life history strategies can also vary within a species, with some organisms investing more resources in reproduction at a younger age and others delaying reproduction until later in life. This can have implications for the evolution of traits and behaviors, including why men may compete with each other for access to mates or invest more in offspring that are genetically related to them."
+Direct Fitness,3,3,Kin Selection,"Direct Fitness is a concept within Kin Selection that refers to an individual's genetic contribution to the next generation through its own offspring. It is a subset of Evolutionary Factors that explain reproductive success and survival in a given species. Understanding Direct Fitness is important in explaining the evolution of certain traits and behaviors in organisms, including humans, which may have been advantageous for survival and reproduction. This concept connects with why are men as it helps explain the evolutionary advantages of male traits and behaviors that have contributed to their reproductive success.",🏋️‍♂️,"- Men often compete with each other for mates, which can increase their Direct Fitness by ensuring they have offspring with multiple partners.
+- Men are more likely to engage in risky behaviors, such as fighting or hunting, which can increase their chances of survival and therefore their Direct Fitness.
+- Men may exhibit physical traits, such as larger muscles or more aggressive behavior, that are advantageous for competing with other males for mates and resources, and therefore contribute to their Direct Fitness."
+Multi-Level Selection,3,3,Group Selection,"Multi-Level Selection refers to the process of natural selection acting on different levels of organization, such as individual organisms, groups, and even entire species. It is a complex interplay of genetic and environmental factors that shape the evolution of traits and behaviors. In the context of why are men, multi-level selection can help explain why certain traits or behaviors that benefit the group may be favored over those that only benefit individuals.",🐝,"- The evolution of altruistic behavior in social insects such as ants and bees, where individuals sacrifice their own reproduction for the benefit of the colony.
+- The evolution of cooperative hunting behaviors in packs of wolves, where individuals work together to take down larger prey.
+- The selection of traits that promote group cohesion and cooperation in human societies, such as language, culture, and social norms."
+Education,7,3,Socialization,"Education is the process of acquiring knowledge, skills, values, and beliefs through various forms of instruction, which results in socialization and cultural integration. It is a crucial factor in understanding why men behave the way they do, as it shapes their beliefs, attitudes, and behaviours to society's norms and expectations. Education influences men's decisions and actions, leading to individual and societal development.",🎓,"- Attending school and learning from teachers and peers
+- Reading books or articles to gain knowledge and understanding
+- Participating in workshops or training programs to develop skills
+- Engaging in discussions or debates to explore different perspectives
+- Using technology, such as online courses or educational apps, to expand learning opportunities"
+Media,6,3,Socialization,"Media refers to various communication channels that transmit information, such as news, entertainment, and advertising, to a large audience. It is an influential aspect of socialization that shapes people's beliefs, values, and perspectives on different issues. As a subset of cultural factors, media plays a significant role in shaping gender roles and stereotypes, which are a part of why are men perceived and treated differently in society.",📺,"- News outlets reporting on gender-specific issues, such as the wage gap or sexual harassment
+- Television shows and movies that perpetuate gender stereotypes, such as women being portrayed as overly emotional or men being portrayed as aggressive
+- Advertisements that promote gender-specific products or perpetuate gender stereotypes, such as advertisements for cleaning products being targeted towards women or advertisements for sports equipment being targeted towards men."
+Family,6,3,Socialization,"Family refers to a group of individuals who are connected by blood, marriage, or adoption and share a household or a sense of belonging. It plays a crucial role in socializing individuals and shaping their beliefs, values, and behaviors. Family is a subset of cultural factors that influence why men behave in certain ways based on their upbringing and family dynamics.",👨‍👩‍👧‍👦,"- Sharing meals and traditions together as a family unit
+- Providing emotional support and guidance to one another during difficult times
+- Passing down cultural and familial values through storytelling and shared experiences
+- Celebrating holidays and milestones as a family, such as weddings, graduations, and birthdays
+- Working together as a team to accomplish household tasks and responsibilities, such as cooking, cleaning, and caring for children or elderly relatives."
+Peers,5,3,Socialization,"Peers refer to individuals who are of the same age group, social status, and share common interests or experiences. They are a crucial aspect of socialization and play a significant role in shaping an individual's attitudes, beliefs, and behaviors. Peers are one of the cultural factors that contribute to why men behave the way they do, as they often seek validation and acceptance from their male peers.",👥,"- A group of teenage boys playing basketball together after school and discussing their weekend plans.
+- A group of male coworkers going out for drinks after work and discussing their projects and promotions.
+- A fraternity on a college campus where male students bond over shared experiences and traditions."
+Religion,4,3,Socialization,"Religion is a set of beliefs, practices, and rituals that provide a framework for understanding the world and one's place in it. It is a form of socialization that shapes individuals and communities and is influenced by cultural and historical factors. Religion plays a significant role in shaping the behavior and attitudes of men, as it provides a sense of purpose, morality, and community.",🙏,"- Attending weekly worship services, such as going to church, mosque, or synagogue
+- Following a set of dietary restrictions or fasting during certain times of the year, such as during Ramadan for Muslims or Lent for Christians
+- Engaging in prayer or meditation as a daily practice to connect with a higher power or deity
+- Celebrating holidays and festivals that hold religious significance, such as Christmas for Christians or Diwali for Hindus
+- Participating in religious rites of passage, such as baptism, confirmation, or bar mitzvahs"
+Sexual Behavior,4,3,Gender Stereotypes,"Sexual behavior refers to actions and expressions related to a person's sexuality, including attraction, desire, and physical intimacy. It is influenced by various factors such as cultural norms and beliefs, individual preferences, and societal expectations. Understanding sexual behavior is important in exploring gender stereotypes and why men exhibit certain behaviors in relation to their sexuality.",🍆,"- Men are often expected to be the initiators of sexual activity in a heterosexual relationship, with women expected to be more passive and receptive.
+- Men are often judged more harshly for engaging in casual sex or having multiple sexual partners, while women are often shamed for not being sexually pure.
+- Men may feel pressure to conform to certain standards of masculinity, which can include having a high sex drive and being sexually dominant or aggressive.
+- Men may be more likely to engage in risky sexual behaviors, such as unprotected sex or having sex while under the influence of drugs or alcohol."
+Emotional Expression,4,3,Gender Stereotypes,"Emotional expression refers to the outward display of one's emotions, including verbal and nonverbal cues. It is influenced by cultural factors such as gender stereotypes, which can shape how men are expected to express their emotions. This can impact why men may struggle with emotional expression and may be less likely to seek help for mental health issues.",😔,"- Men are expected to be stoic and not show vulnerability or weakness, which can result in suppressing emotions and not seeking help for mental health issues.
+- Society often perceives emotional expression as a feminine trait, further reinforcing gender stereotypes that men should not show emotions.
+- Men are often mocked, ridiculed, or shamed for showing emotions or being ""too emotional,"" which can lead to a fear of judgment and a reluctance to express emotions openly."
+Physical Appearance,3,3,Gender Stereotypes,"Physical appearance refers to the observable attributes of an individual's body, including their height, weight, facial features, and body shape. It is influenced by various factors, including genetics, environment, and cultural factors such as gender stereotypes. These stereotypes often dictate certain expectations of how men should look, which can contribute to the pressure men feel to conform to certain physical standards.",👤,"- Muscular build and toned physique
+- Facial hair, particularly a well-groomed beard
+- Short hair or shaved head
+- Broad shoulders and a narrow waist
+- Tall stature
+- Deep voice
+- Minimal body fat and visible abs
+- Strong jawline and prominent facial features
+- Dressed in masculine clothing, such as suits or athletic wear."
+Occupational Roles,3,3,Gender Stereotypes,"Occupational roles refer to the set of duties, responsibilities, and expectations associated with a particular job or profession. Gender stereotypes often influence the occupational roles that men and women pursue, with certain jobs being perceived as more appropriate or suitable for one gender over the other. This is a subset of cultural factors that shape societal norms and expectations around gender roles, and can contribute to the underrepresentation of women in certain fields. Understanding the impact of these factors is important for addressing the question of why men are overrepresented in certain occupations.",👨‍🏭 or 👩‍🔬 (depending on your preference for blue collar or white collar jobs),"- Construction worker
+- Mechanic
+- Firefighter
+- CEO
+- Engineer
+- Surgeon
+- Soldier
+- Police officer
+- Sports coach
+- Electrician"
+Domestic Roles,3,3,Gender Stereotypes,"Domestic roles refer to the tasks and responsibilities associated with managing a household, such as cleaning, cooking, and caring for children. They are often assigned based on traditional gender stereotypes, with women expected to perform these tasks more frequently than men. These expectations are influenced by broader cultural factors that shape social norms and beliefs about gender roles. Understanding the prevalence of domestic roles can help shed light on why men may be less likely to engage in household tasks and caregiving, as they may feel that these responsibilities are not aligned with their gender identity or social expectations.",🏠,"- Women are expected to do the majority of the cleaning in a household, including tasks such as vacuuming, dusting, and laundry.
+- Women are often expected to be the primary caregivers for children, including tasks such as feeding, bathing, and helping with homework.
+- Women are frequently expected to do the meal planning and cooking for the family, including grocery shopping and meal preparation."

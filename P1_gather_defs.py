@@ -33,7 +33,7 @@ parser.add_argument(
 args = parser.parse_args()
 
 target_column = args.mode
-topic = args.topic
+main_topic = args.topic
 MAX_TOKENS = args.MAX_TOKENS
 NUM_QUERY_THREADS = 15
 
@@ -41,20 +41,20 @@ if target_column not in ["definition", "emoji", "examples"]:
     raise KeyError("--mode argument not valid")
 
 if target_column == "definition":
-    msg_core = """Briefly in a few lines define "{topic}". It is {link}, but you don't need to repeat that. Do not give examples."""
+    msg_core = """Briefly in a few lines define "{topic}". It is {link}, but you don't need to repeat that. Do not give examples. Make sure it connects with {main_topic}"""
 elif target_column == "emoji":
     msg_core = """Return a single emoji that best exemplifies "{topic}". Only return one emoji and no other text. {definition}"""
 elif target_column == "examples":
-    msg_core = """Return a few examples that best exemplifies "{topic}". Return the items as a bulleted list. It is {link}. {definition}"""
+    msg_core = """Return a few examples that best exemplifies "{topic}", which is {main_topic}. Return the items as a bulleted list. It is {link}. {definition}"""
 
-name = slugify(topic)
+name = slugify(main_topic)
 
 # Grab the deepest ontology
 f_csv = sorted(list(Path("results").glob(f"{name}*.csv")))[-1]
 df = pd.read_csv(f_csv)
 
 
-cache = dc.Cache(f"cache/{slugify(topic)}/{target_column}")
+cache = dc.Cache(f"cache/{name}/{target_column}")
 
 
 def gather_parents(name, known_parents=None):
@@ -65,7 +65,7 @@ def gather_parents(name, known_parents=None):
         p = df[df.topic == name].parent.values[0]
         known_parents.append(p)
         return gather_parents(p, known_parents)
-    except:
+    except Exception:
         pass
 
     return known_parents
@@ -87,6 +87,8 @@ def craft_message(row):
 
     kwargs = row._asdict()
     kwargs["link"] = link
+    kwargs["main_topic"] = main_topic
+
     msg = msg_core.format(**kwargs)
 
     result = call(msg, topic)

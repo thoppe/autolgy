@@ -1,460 +1,436 @@
 topic,count,depth,parent,definition,emoji,examples
-Underwater Worlds,4,1,sci-fi and fantasy biomes,"Underwater Worlds refer to fictional environments that are located beneath the surface of water bodies such as oceans, lakes, and rivers. These worlds are characterized by unique flora and fauna, and often feature advanced technologies or magical elements. They are often used in science fiction and fantasy stories as settings for adventure, exploration, and conflict.",🐠,"- Atlantis, a mythical underwater city in Greek mythology
-- Rapture, an underwater city in the video game series ""BioShock""
-- Pandora, the oceanic moon in the movie ""Avatar""
-- The Abyss, a deep-sea drilling platform in the movie ""The Abyss""
-- The Little Mermaid's underwater kingdom in the Disney movie ""The Little Mermaid""
-- Aquaman's underwater kingdom of Atlantis in DC Comics
-- The underwater planet of Kamino in the movie ""Star Wars: Attack of the Clones""
-- The underwater world of Narnia in the book series ""The Chronicles of Narnia""
-- The underwater city of Neo Atlantis in the anime series ""Nadia: The Secret of Blue Water""
-- The underwater world of Subnautica, a survival video game."
-Magical Realms,4,1,sci-fi and fantasy biomes,"Magical Realms are fictional worlds that blend elements of magic and fantasy with reality. They are often richly detailed and full of imaginative creatures, environments, and cultures that exist beyond the bounds of our own world. These realms may include supernatural powers, mythical creatures, and fantastical landscapes that create a sense of wonder and enchantment for readers and viewers.",🧚‍♀️,"- The world of Harry Potter, with its magical spells, creatures, and locations like Hogwarts School of Witchcraft and Wizardry and Diagon Alley
-- The land of Narnia, with talking animals, an evil witch, and a magical wardrobe that transports children to a fantasy realm
-- The kingdom of Hyrule in the Legend of Zelda video game series, with its mythical creatures like fairies, dragons, and giants, along with magical weapons and artifacts
-- The planet of Pandora in the movie Avatar, with its bioluminescent flora and fauna, floating mountains, and the mystical bond between the Na'vi people and their environment
-- The world of Middle Earth in J.R.R. Tolkien's The Lord of the Rings trilogy, with its diverse races of creatures like hobbits, elves, dwarves, and orcs, along with magical rings and powerful wizards."
-Virtual Realities,3,1,sci-fi and fantasy biomes,"Virtual Realities are digital environments that simulate reality or fictional worlds, created using computer-generated imagery (CGI) and advanced technologies. These immersive experiences allow users to interact with and explore the virtual environment as if it were real, often using specialized equipment such as VR headsets or haptic feedback devices. They can be used for entertainment, education, training, and other purposes.",🌐,"- Virtual reality gaming experiences, such as ""Beat Saber"" or ""Minecraft VR""
-- Educational simulations, such as a virtual dissection of a frog for biology class
-- Virtual reality therapy, such as exposure therapy for patients with anxiety disorders
-- Virtual reality shopping experiences, allowing customers to interact with products in a virtual space before purchasing
-- Virtual reality art installations, such as ""The VR Museum of Fine Art"""
-Alien Planets,3,1,sci-fi and fantasy biomes,"Alien planets are fictional worlds that are not found in our solar system and are imagined to have different physical and environmental characteristics than Earth. They are often portrayed in science fiction and fantasy genres as diverse and unique biomes with exotic flora and fauna, advanced technologies, and civilizations.",🪐,"- Pandora from the movie Avatar
-- Arrakis (also known as Dune) from the book series and movie of the same name
-- LV-426 from the movie Alien
-- Krypton from the Superman comics and movies
-- Tatooine from the Star Wars franchise
-- Hoth from the Star Wars franchise
-- Cybertron from the Transformers franchise
-- Gallifrey from the Doctor Who franchise
-- Krikkit from the Hitchhiker's Guide to the Galaxy series
-- Tralfamadore from the book Slaughterhouse-Five."
-Coral Reefs,7,2,Underwater Worlds,"Coral reefs are marine ecosystems that are formed from the accumulation of coral skeletons and other calcareous organisms. They provide a habitat for a diverse range of marine animals and plants, and are considered to be one of the most biologically diverse ecosystems on the planet. Coral reefs are found in shallow, warm waters in tropical and subtropical regions around the world.",🐠,"- Great Barrier Reef in Australia
-- Belize Barrier Reef in Belize
-- Tubbataha Reef in Philippines
-- Red Sea Coral Reef in Egypt
-- Florida Reef in the United States"
-Underwater Caves,5,2,Underwater Worlds,"Underwater caves are submerged caverns that are often formed by the erosion of rock or coral by water. They are typically found in oceans, seas, and other bodies of water, and provide unique habitats for a variety of aquatic life. These caves can be dangerous to explore due to the potential for low visibility and strong currents, but they have also been a source of fascination and exploration for divers and scientists alike.",🌊🕸️,"- The Blue Hole in Belize, a popular diving spot that features a deep underwater sinkhole surrounded by a cave system.
-- The Cenote Angelita in Mexico, a unique cave system that has a layer of hydrogen sulfide at the bottom, creating the appearance of an underwater river.
-- The Grotta Palazzese in Italy, a sea cave that has been turned into a restaurant, offering diners a unique experience of dining inside a natural cave with a view of the ocean."
-Sunken Cities,5,2,Underwater Worlds,"Sunken Cities refer to ancient cities or civilizations that have been submerged underwater due to natural disasters or rising sea levels. These cities are often discovered by archaeologists or explorers and provide valuable insights into the history and culture of the people who lived there. Sunken Cities are a popular theme in literature, film, and video games, and are often associated with mystery, intrigue, and adventure.",🏛️,"- The lost city of Atlantis, which was first mentioned by the ancient Greek philosopher Plato in his dialogues.
-- The city of Thonis-Heracleion, which was rediscovered in the early 2000s off the coast of Egypt and is believed to have been a major port in the Mediterranean.
-- The ancient city of Dwarka, which is said to have been built by the Hindu god Krishna and is now submerged in the Arabian Sea off the coast of India."
-Kelp Forests,5,2,Underwater Worlds,"Kelp forests are underwater ecosystems dominated by large, brown seaweeds called kelp. They provide habitat and food for a diverse array of marine species and play an important role in coastal ecosystems.",🌊🌿,"- Giant kelp (Macrocystis pyrifera), the largest species of kelp, can grow up to 100 feet (30 meters) tall and forms dense underwater forests.
-- Sea otters, a keystone species in kelp forests, help maintain the balance of the ecosystem by feeding on sea urchins, which can overgraze on kelp.
-- Fish species such as rockfish, lingcod, and leopard sharks are commonly found in kelp forests, using the dense vegetation as shelter and hunting grounds.
-- Kelp forests are also home to a variety of invertebrates, including sea stars, crabs, and nudibranchs. 
-- Kelp forests can be found in many temperate and subpolar regions around the world, including the Pacific coast of North America, southern Australia, and the coasts of Japan and South Africa."
-Underwater Volcanoes,3,2,Underwater Worlds,"Underwater volcanoes, also known as submarine volcanoes, are volcanic vents that are located beneath the surface of the ocean. These volcanoes can erupt and release lava, ash, and gases into the water, which can have significant impacts on ocean chemistry and marine life. Underwater volcanoes are a fascinating and dynamic feature of the Earth's geology, and they are the subject of ongoing scientific study and exploration.",🌋,"- The Axial Seamount, located off the coast of Oregon, is one of the most active underwater volcanoes in the world. It has erupted multiple times since its discovery in 1983.
-- The Pacific Ring of Fire, which circles the Pacific Ocean, is home to many underwater volcanoes. This region is known for its high level of seismic activity and volcanic eruptions.
-- The Loihi Seamount, located off the coast of Hawaii, is a young underwater volcano that is still actively growing. It is predicted to eventually rise above sea level and become the next Hawaiian island.
-- The Kolumbo submarine volcano, located near the Greek island of Santorini, erupted in 1650 and caused a tsunami that devastated nearby villages. It is still considered a potential hazard today."
-Ice Worlds,3,2,Underwater Worlds,"""Ice Worlds"" are fictional environments that are characterized by their extreme cold temperatures and icy landscapes. They are often depicted in science fiction and fantasy as a challenging and hostile environment, where survival is difficult and resources are scarce.""",❄️,"- Hoth from Star Wars: The Empire Strikes Back
-- The planet of Tau Volantis from the video game Dead Space 3
-- The ice planet of Voeld in Mass Effect: Andromeda
-- The world of Glacius in the Killer Instinct video game franchise
-- The icy moon of Europa in the movie Europa Report"
-Abyssal Plains,3,2,Underwater Worlds,"Abyssal Plains are vast, flat areas of the ocean floor that are typically located at depths greater than 3,000 meters. They are characterized by a lack of topographical features, with a smooth, sediment-covered surface that is home to a variety of deep-sea creatures. These regions are important for scientific research and exploration, as they provide insights into the geological and biological processes that shape the ocean floor.",🌊,"- The Sargasso Sea, located in the Atlantic Ocean, is home to a large abyssal plain.
-- The Pacific Ocean's Clarion-Clipperton Zone is the site of ongoing deep-sea mining exploration due to its abundance of mineral resources.
-- The Mariana Trench, located in the western Pacific Ocean, is home to the deepest-known point on Earth and features a large abyssal plain."
-Elemental Planes,3,2,Magical Realms,"Elemental Planes are alternate dimensions that embody the fundamental building blocks of reality, such as earth, air, fire, and water. They are often depicted as magical realms that exist within the realm of sci-fi and fantasy, each with its own unique characteristics and inhabitants.",🌀,"- The Plane of Earth: a dark, cavernous realm with towering mountains, endless tunnels, and massive crystals. It is home to elemental creatures made of stone and earth, and is ruled by powerful earth elementals.
-- The Plane of Air: a seemingly weightless realm of endless sky and clouds, where strange flying creatures and air elementals roam. It is a dangerous and unpredictable place, where travelers must beware of sudden storms and deadly winds.
-- The Plane of Fire: a realm of searing heat and flames, where rivers of lava flow and volcanoes erupt constantly. It is home to fearsome fire elementals and demons, and is ruled by powerful beings known as the Lords of Flame.
-- The Plane of Water: a vast, dark ocean that stretches on forever, with strange creatures and underwater cities hidden in its depths. It is ruled by powerful water elementals and their queen, and is said to hold secrets and treasures beyond imagining."
-Dreamscapes,3,2,Magical Realms,"Dreamscapes are imagined and otherworldly landscapes that exist within the realm of the mind. They often feature surreal and fantastical elements that are not bound by the laws of physics or reality. They are a form of escapism and can be found in various forms of art, literature, and media.",🌌,"- The movie ""Inception"" with its shifting, layered dream worlds that the characters navigate
-- Salvador Dali's painting ""The Persistence of Memory"" with its melting clocks and disjointed landscape
-- The video game ""Journey"" with its abstract and ethereal environments that the player explores
-- The book ""Alice's Adventures in Wonderland"" with its nonsensical and whimsical world that Alice falls into
-- The music video for Bjork's ""All is Full of Love"" featuring a futuristic and dreamlike robotic landscape."
-Celestial Realms,3,2,Magical Realms,"Celestial Realms are fantastical settings that are often associated with the realms of gods or other divine beings. They are characterized by their otherworldly and mystical qualities, and may include planets, constellations, or other celestial bodies. These realms often feature magical elements and are often the settings for epic battles or quests.",🪐,"- Mount Olympus in Greek mythology, the home of the gods
-- Asgard in Norse mythology, the realm of the Norse gods
-- The Star Wars universe, with its various planets and celestial bodies such as Tatooine and the Death Star
-- The realm of the Valar in J.R.R. Tolkien's Middle-earth, where the divine beings reside
-- The Kingdom of Heaven in various religious traditions, such as Christianity, Islam, and Judaism
-- The world of the fae in Celtic mythology, which is said to exist in a parallel realm to our own
-- The astral plane in various occult and spiritual traditions, which is believed to be a realm of higher consciousness and spiritual beings."
-Cyberpunk Cities,4,2,Virtual Realities,"Cyberpunk cities are dystopian metropolises that are often portrayed as dark, gritty, and technologically advanced. They are typically characterized by a fusion of high-tech and low-life, with advanced technology coexisting with poverty and decay. Cyberpunk cities often feature iconic elements such as neon lights, corporate domination, and hacker subcultures.",🌃,"- Night City from the video game Cyberpunk 2077
-- Los Angeles in Blade Runner
-- Hong Kong in Shadowrun
-- The Matrix's depiction of a post-apocalyptic Chicago
+Underwater Worlds,4,1,sci-fi and fantasy biomes,"Underwater Worlds refer to fictional ecosystems that exist exclusively below the surface of bodies of water, including oceans, lakes, and rivers. These biomes are often depicted in science fiction and fantasy genres, and are characterized by unique flora and fauna, as well as advanced technology and civilizations adapted to underwater living. They offer a rich source of inspiration for exploring the possibilities of alternative environments and the limits of human imagination.",🐠,"- The underwater city of Rapture in the video game Bioshock, which features genetically modified humanoids and advanced technology.
+- The planet Kamino in Star Wars, which is entirely covered in water and hosts a civilization of advanced cloning technology.
+- The mermaid kingdom of Atlantica in Disney's The Little Mermaid, which is home to a variety of sea creatures with human-like qualities.
+- The underwater world of Pandora in James Cameron's film Avatar, which includes bioluminescent plants and animals and a humanoid species adapted to underwater living.
+- The aquatic planet of Aquaria in the video game Aquaria, which features a diverse array of underwater life and ancient ruins to explore."
+Magical Realms,4,1,sci-fi and fantasy biomes,"Magical Realms are fictional worlds or environments that combine elements of fantasy and science fiction. They are often populated by mythical creatures, magical artifacts, and advanced technology. These realms are typically based on imaginative concepts and are not bound by the limitations of reality. Magical Realms are a common feature of sci-fi and fantasy biomes, offering rich and diverse settings for stories and adventures.",🧚‍♂️,"- Middle-earth in J.R.R. Tolkien's ""The Lord of the Rings"" and ""The Hobbit""
+- The Wizarding World in J.K. Rowling's ""Harry Potter"" series
+- The land of Narnia in C.S. Lewis's ""The Chronicles of Narnia""
+- The dystopian world of Panem in Suzanne Collins's ""The Hunger Games"" trilogy
+- The planet of Pandora in James Cameron's ""Avatar""
+- The magical city of Atlantis in various legends and fictional works
+- The surreal dream world of ""Alice in Wonderland"" by Lewis Carroll
+- The post-apocalyptic wasteland of ""Mad Max"" movies
+- The cyberpunk city of Neo-Tokyo in ""Akira"" by Katsuhiro Otomo
+- The parallel universe of ""His Dark Materials"" trilogy by Philip Pullman."
+Virtual Realities,3,1,sci-fi and fantasy biomes,"Virtual Realities are computer-generated environments that simulate reality and can be accessed through virtual reality devices. They are often used in sci-fi and fantasy genres to create immersive biomes and worlds that are not possible in the physical realm. These virtual environments can be designed to resemble anything from futuristic cities to mythical lands, allowing users to explore and interact with these fictional settings.",🌐,"- The Matrix: A virtual reality created by sentient machines to subjugate humanity, where people are hooked up to machines that simulate a realistic world while their bodies are kept in stasis.
+- Sword Art Online: A massively multiplayer online role-playing game that utilizes virtual reality technology, trapping players within the game world until they complete all 100 levels.
+- Ready Player One: A world where most of humanity spends their time in the virtual reality world of the OASIS, a vast and immersive game world created by a deceased programmer, where players can be anyone and do anything they want. 
+- Tron: A world inside a computer, where programs have taken on human-like form and fight for survival in a digital landscape.
+- Westworld: A theme park where guests can interact with highly realistic androids in a simulated western world, blurring the lines between reality and fantasy."
+Alien Planets,3,1,sci-fi and fantasy biomes,"Alien planets refer to fictional and imaginary planets that are different from our own Earth. These planets are often depicted in science fiction and fantasy genres and can have unique biomes, climates, and forms of life that are not found on Earth. They are often created to provide readers or viewers with a sense of wonder and imagination, and to explore the possibilities of what exists beyond our own world.",🪐,"- Pandora: The lush, bioluminescent planet from James Cameron's ""Avatar"" with floating mountains and a diverse ecosystem of alien creatures.
+- Arrakis: The desert planet from Frank Herbert's ""Dune"" series, known for its harsh environment and the valuable spice melange that can only be found there.
+- Hoth: The ice planet from ""Star Wars"" known for its freezing temperatures and being the location of the Rebel Alliance's Echo Base.
+- LV-426: The planet from the ""Alien"" franchise where the Nostromo crew encounters the deadly xenomorphs.
+- Magrathea: The planet from Douglas Adams' ""The Hitchhiker's Guide to the Galaxy"" where the supercomputer Deep Thought creates the answer to the ultimate question of life, the universe, and everything."
+Coral Reefs,7,2,Underwater Worlds,"Coral reefs are vibrant underwater habitats that support a diverse array of marine life through intricate structures made of calcium carbonate. In the context of sci-fi and fantasy biomes, coral reefs could be imagined as otherworldly, alien environments with strange and exotic creatures lurking within. These fantastical coral reefs could inspire stories of deep sea exploration, mermaid kingdoms, or dangerous underwater quests.",🐠,"- A vibrant underwater city made entirely out of coral, populated by mermaids and other aquatic creatures.
+- A scientific research station deep beneath the ocean's surface, studying the unique properties of coral reefs and the creatures that inhabit them.
+- A dangerous adventure through a coral reef infested with giant, carnivorous sea anemones and other deadly sea creatures.
+- A mystical coral reef that only appears during certain phases of the moon, said to be the home of a powerful sea goddess.
+- A futuristic underwater metropolis built directly into a massive coral reef, with towering spires and bustling streets of underwater traffic."
+Underwater Caves,5,2,Underwater Worlds,"Underwater caves are natural formations that exist below the surface of bodies of water, such as oceans or lakes. These caves are often featured in sci-fi and fantasy biomes as mysterious and dangerous places, teeming with strange and otherworldly creatures. They provide an opportunity for writers and creators to explore the unknown depths of the ocean and the creatures that inhabit them, adding an element of mystique and intrigue to their stories.",🐠,"- The Crystal Caves of Atlantis: A complex network of underwater caves located beneath the ruins of the ancient city of Atlantis. The caves are filled with glowing crystals, strange sea creatures, and remnants of advanced technology.
+
+- The Abyssal Labyrinth: A maze-like system of underwater caves that stretches for miles beneath the ocean floor. The caves are inhabited by terrifying sea monsters and ancient guardians that protect the secrets hidden within.
+
+- The Leviathan's Den: A massive underwater cave system that is home to the most fearsome creature in the ocean, the Leviathan. The caves are filled with dangerous currents, hidden traps, and other creatures that serve as the Leviathan's minions.
+
+- The Lost City of R'lyeh: A submerged city that lies within a vast underwater cave system. The city is home to the Great Old One, Cthulhu, and his followers. The caves are filled with eldritch horrors and mind-bending magic that can drive even the most stalwart adventurer insane.
+
+- The Sunken Gardens of Helixia: A series of underwater caves located beneath a beautiful coral garden. The caves are filled with exotic flora and fauna, including bioluminescent creatures and rare medicinal plants. However, the caves are also home to dangerous predators and treacherous terrain."
+Sunken Cities,5,2,Underwater Worlds,"Sunken Cities are ancient civilizations that have been submerged underwater due to natural calamities or man-made disasters. They are a popular subset of sci-fi and fantasy biomes, where they are often portrayed as lost, mystical worlds filled with mystery and adventure. These submerged cities are usually depicted as having been lost for centuries, with their ruins and artifacts becoming the subject of fascination and exploration by adventurers and archaeologists alike.",🌊,"- The lost city of Atlantis, which is one of the most famous examples of a sunken city in popular culture
+- The underwater ruins of Yonaguni, which are located off the coast of Japan and are believed to be a remnant of an ancient civilization
+- The sunken city of Thonis-Heracleion in Egypt, which was rediscovered in 2001 and is believed to have been submerged for over 1,000 years."
+Kelp Forests,5,2,Underwater Worlds,"Kelp forests are dense underwater ecosystems made up of large seaweed plants called kelp. They are found in cold, nutrient-rich waters and are home to a wide variety of marine life. Kelp forests are often featured in sci-fi and fantasy biomes, creating mystical and enchanting underwater worlds that spark the imagination of creative minds.",🌊🌿🐠,"- The vibrant kelp forest in the movie ""Finding Nemo"" where Marlin and Dory swam through on their journey to find Nemo.
+- The eerie kelp forest in the video game ""Subnautica"" where players must navigate through dangerous predators and collect resources to survive.
+- The magical kelp forest in the book ""Mermaid Moon"" where the protagonist discovers a hidden underwater kingdom ruled by mermaids."
+Underwater Volcanoes,3,2,Underwater Worlds,"Underwater volcanoes are geological features that occur on the ocean floor where molten rock (magma) rises from the Earth's mantle and erupts underwater. These volcanoes can create unique and fantastical underwater worlds, with exotic creatures and mysterious landscapes. They are often featured in science fiction and fantasy biomes, as they offer a rich and imaginative setting for storytelling.",🌋,"- The Black Smokers: These are underwater volcanoes that emit hot, mineral-rich fluids that create towering chimneys on the ocean floor. These chimneys are surrounded by unique ecosystems, with creatures that can survive in extreme heat and acidity.
+- The Fire Sea: This is a mythical underwater world that is said to be created by a massive underwater volcano. The sea is constantly boiling, with waves of lava and ash crashing against the shores. Only the bravest and most skilled sailors dare to venture into this treacherous realm.
+- The Crystal Caverns: These are underground caves that were formed by underwater volcanoes millions of years ago. The walls and ceilings are covered in sparkling crystals, creating a mesmerizing and otherworldly environment. The caves are home to rare and exotic creatures that have adapted to the unique conditions.
+- The Island of the Gods: This is a fictional island that was created by an underwater volcano. The island is surrounded by a magical barrier that keeps the water at bay, allowing humans and creatures to live on the land. The island is said to be home to powerful gods and goddesses who control the elements and protect the inhabitants."
+Ice Worlds,3,2,Underwater Worlds,"Ice Worlds are fictional environments that are characterized by their extreme cold temperatures and icy landscapes. They are typically found in science fiction and fantasy biomes, where they often serve as the setting for various adventures and stories. As a subset of these biomes, Ice Worlds are often depicted as hostile and difficult to navigate, requiring characters to use specialized equipment and knowledge to survive.",🌬️,"- Hoth in the Star Wars universe, known for its harsh snowstorms and dangerous wildlife.
+- The planet Winter in the novel The Left Hand of Darkness by Ursula K. Le Guin, where the inhabitants have evolved to adapt to the extreme cold.
+- The Ice Kingdom in the animated television show Adventure Time, ruled by the Ice King and filled with icy terrain and frozen creatures."
+Abyssal Plains,3,2,Underwater Worlds,"Abyssal Plains are vast, flat and featureless regions on the ocean floor that lie at depths of 3,000 to 6,000 meters below sea level. These mysterious and unexplored areas are often depicted in works of science fiction and fantasy as otherworldly, alien landscapes that are home to strange and fascinating creatures. As a subset of sci-fi and fantasy biomes, Abyssal Plains offer authors and filmmakers a rich and imaginative canvas on which to create their underwater worlds.",🌊,"- The Mariana Trench, a real-life Abyssal Plain that is the deepest part of the world's oceans and is home to unique and bizarre creatures such as the Mariana snailfish and the Challenger Deep shrimp.
+- The Abyss, a fictional Abyssal Plain in the anime and manga series ""Made in Abyss"" that is filled with deadly creatures and mysterious relics.
+- Rapture, a fictional underwater city built on an Abyssal Plain in the video game series ""BioShock"" that is home to genetically modified humans and advanced technology.
+- The Leviathan, a massive sea creature that lives in the Abyssal Plains of the ""Final Fantasy"" video game series and serves as a boss battle for the player.
+- The Deep Ones, a race of Lovecraftian creatures that live in the Abyssal Plains and feature in various works of horror and fantasy fiction, such as the ""Call of Cthulhu"" roleplaying game."
+Elemental Planes,3,2,Magical Realms,"Elemental Planes are alternate dimensions or magical realms that are characterized by a single elemental force, such as fire, water, earth, or air. These planes often coexist with other sci-fi and fantasy biomes, and are frequently accessed through portals or other magical means. They represent a unique subset of biomes in science fiction and fantasy, offering a distinct and immersive setting for storytelling and worldbuilding.",🌋,"- The Plane of Fire: a realm of eternal flames, molten lava and volcanic activity, inhabited by fire elementals and other fiery creatures.
+- The Plane of Water: a vast oceanic world, with underwater cities, shipwrecks and sea monsters, ruled by powerful water elementals.
+- The Plane of Earth: a subterranean realm of caverns, tunnels and rocky landscapes, populated by dwarves, gnomes and earth elementals.
+- The Plane of Air: a lofty domain of clouds, winds and storms, where flying creatures and air elementals dwell, and where gravity and physics work differently."
+Dreamscapes,3,2,Magical Realms,"Dreamscapes are imaginary landscapes that exist in the realm of dreams and the subconscious. They are often characterized by fantastical elements such as magical creatures, surreal landscapes, and otherworldly phenomena. Dreamscapes are a common theme in sci-fi and fantasy biomes, as they allow for a limitless exploration of the human imagination and offer a unique perspective on the world around us. They can be seen as a form of escapism or a way to explore the unknown and challenge traditional ideas of reality.",🌌,"- A forest made entirely of candy, with giant lollipops and gingerbread houses.
+- A floating city in the clouds, accessible only by airships or magical portals.
+- An underwater kingdom ruled by mermaids, with coral palaces and schools of rainbow-colored fish.
+- A desert landscape filled with towering sand dunes, inhabited by mystical creatures such as phoenixes and djinn.
+- A frozen wasteland where ice castles and frost fairies abound, with polar bears and wolves as the only visible wildlife."
+Celestial Realms,3,2,Magical Realms,"Celestial Realms refer to fictional locations or worlds beyond Earth, typically associated with the heavens, stars, or outer space. These realms are often portrayed in science fiction and fantasy genres and can include magical or supernatural elements. They are a subset of sci-fi and fantasy biomes, as they share similar characteristics and themes, such as otherworldly creatures and advanced technologies.",🌌,"- A planet made entirely of crystal and inhabited by beings with telekinetic powers who can manipulate the crystal structures.
+- A space station that orbits a black hole, where time moves slower and the laws of physics are distorted, allowing for bizarre phenomena to occur.
+- A realm where the souls of the dead go, filled with surreal landscapes and creatures that embody the emotions and memories of the departed.
+- A city floating in the clouds, inhabited by winged beings who harness the power of lightning and thunder to create storms and defend themselves against intruders.
+- A parallel universe where the laws of magic and science are intertwined, allowing for spells and technology to coexist and merge into new forms of power."
+Cyberpunk Cities,4,2,Virtual Realities,"Cyberpunk Cities are fictional urban environments that are characterized by high-tech and low-life. They typically feature futuristic elements such as advanced technology, neon lights, and skyscrapers, as well as dystopian elements such as crime, poverty, and social decay. As a subset of sci-fi and fantasy biomes, Cyberpunk Cities offer a unique blend of futuristic and fantastical elements, providing an immersive experience for readers, viewers, and gamers alike.",🏙️,"- Blade Runner's Los Angeles
+- The city of Rapture in Bioshock
+- Night City in Cyberpunk 2077
 - Neo-Tokyo in Akira
+- Metropolis in Fritz Lang's Metropolis
 - The Sprawl in William Gibson's Neuromancer
-- The City in Snow Crash by Neal Stephenson
-- The Mega-Cities in Judge Dredd
+- The city of Zion in The Matrix trilogy
 - The futuristic Tokyo in Ghost in the Shell
-- The city of Rapture in Bioshock"
-Space Stations,3,2,Virtual Realities,"A space station is a man-made structure located in outer space that is designed to support human life and scientific research. It typically serves as a base for astronauts to live and work in while they conduct experiments, gather data, and perform maintenance tasks. Space stations can be modular in design and may consist of multiple interconnected modules. They are often launched into space by rockets and can remain in orbit for extended periods of time.",🚀,"- International Space Station (ISS)
-- Mir Space Station
-- Skylab
-- Tiangong space station
-- Salyut space station series"
-Alternate Dimensions,3,2,Virtual Realities,"Alternate dimensions are parallel universes or realms that exist outside of our own reality. They may have different physical laws, inhabitants, and histories, and can be accessed through various means such as portals or magic. They are often explored in science fiction and fantasy genres.",🌀,"- The Upside Down from the TV show Stranger Things
-- The Mirror Universe from the Star Trek franchise
-- The DC Comics Multiverse, which features different versions of familiar characters
-- The Dark World from the Thor movies in the Marvel Cinematic Universe
-- The Narnia series, which features a portal to an alternate world through a wardrobe."
-Ice Planets,7,2,Alien Planets,"Ice planets are celestial bodies that are primarily covered in ice and snow, with temperatures that are often extremely cold. They are a common trope in science fiction and fantasy, often portrayed as inhospitable environments that are difficult to survive in. The icy terrain and harsh weather conditions make them a challenging setting for any story, and they are often used to explore themes of survival, adaptation, and exploration.",🌬️❄️,"- Hoth, a planet from the Star Wars universe, covered entirely in ice and snow with temperatures reaching below -60 degrees Celsius.
-- Delta Vega, a planet from the Star Trek franchise, which is covered in ice and snow, with dangerous sub-zero temperatures.
-- Europa, one of Jupiter's moons, which is covered in ice and is believed to have a subsurface ocean, making it a popular destination for sci-fi stories.
-- Gliese 436 b, an exoplanet that is believed to be covered in a layer of hot ice, due to its high surface temperature and high pressure. It is often referred to as the ""burning ice planet"".
-- OGLE-2005-BLG-390Lb, a rogue planet in the Milky Way galaxy, that is believed to be covered in ice and is located in a part of space that is extremely cold and dark."
-Gas Giants,7,2,Alien Planets,"Gas Giants are a type of planet composed mainly of hydrogen and helium gases, with a small rocky or metallic core. They are much larger than terrestrial planets and have strong gravitational fields. Due to their lack of a solid surface, they are not suitable for human habitation.",🪐,"- Jupiter
-- Saturn
-- Uranus
-- Neptune
-- HD 209458 b (an exoplanet known for its atmosphere being stripped away by its host star)"
-Desert Planets,7,2,Alien Planets,"Desert planets are fictional celestial bodies characterized by extreme aridity, high temperatures, and minimal or no surface water. They are often depicted as barren and inhospitable, with harsh, sandy landscapes and rocky terrain. These planets are a popular setting in science fiction and fantasy stories as they provide a unique environment for the plot to unfold.",🌵,"- Tatooine from Star Wars
-- Arrakis (Dune) from the novel Dune by Frank Herbert
+- The city of New Crobuzon in China Mieville's Perdido Street Station
+- The city of Midgar in Final Fantasy VII"
+Space Stations,3,2,Virtual Realities,"Space Stations are artificial structures designed to accommodate humans and provide a self-sustaining environment in outer space. They are often depicted in sci-fi and fantasy biomes, where they serve as a setting for various fictional narratives, including interstellar travel, alien encounters, and post-apocalyptic scenarios. As such, they are an important element of the sci-fi and fantasy genre, providing a unique and fascinating backdrop for stories of exploration, adventure, and survival.",🚀,"- The International Space Station (ISS), which is a real-life example of a space station that orbits the Earth and serves as a research laboratory for international collaboration in space exploration and experimentation.
+- The Death Star from the Star Wars franchise, which is a fictional space station designed as a weapon of mass destruction by the Galactic Empire.
+- Babylon 5 from the TV series of the same name, which is a fictional space station that serves as a hub for interstellar diplomacy and trade in a future where humans have joined a galactic community of alien races.
+- Elysium from the movie of the same name, which is a fictional space station in Earth's orbit that serves as a luxury retreat for the wealthy elite while the rest of humanity suffers on a polluted and overcrowded planet.
+- Deep Space Nine from the Star Trek franchise, which is a fictional space station that serves as a strategic outpost for the United Federation of Planets at the edge of a wormhole that leads to the unexplored Gamma Quadrant."
+Alternate Dimensions,3,2,Virtual Realities,"Alternate dimensions refer to parallel universes or alternate realities that exist alongside our own. These dimensions are often explored in science fiction and fantasy, as they offer a vast playground for imagination and creativity. These alternate dimensions can have their own unique set of rules, laws of physics, and even species of creatures that inhabit them, making them a popular subject for science fiction and fantasy enthusiasts.",🌀,"- The Upside Down in Stranger Things, which is a dark, parallel dimension filled with dangerous creatures and a sinister government conspiracy.
+- Narnia in The Chronicles of Narnia, which is a magical world accessible through a wardrobe and populated with talking animals, mythical creatures, and epic battles.
+- The Mirror Universe in Star Trek, which is an alternate reality where the characters have opposite personalities and motivations, and the United Federation of Planets is a tyrannical empire."
+Ice Planets,7,2,Alien Planets,"Ice Planets are fictional celestial bodies characterized by their extremely cold temperatures and icy terrain. These are often featured in science fiction and fantasy biomes, and are typically portrayed as inhospitable environments, making them a popular setting for stories of adventure and survival. These planets may have unique features such as frozen oceans, glaciers, and ice caves, and may be home to alien life forms adapted to the harsh conditions.",🌬️ (wind face),"- Hoth from Star Wars: The Empire Strikes Back
+- LV-223 from Prometheus
+- Delta Vega from Star Trek
+- Fichina from Star Fox
+- Tau Volantis from Dead Space 3
+- Arcterra from Metroid Prime Hunters
+- Europa from The Europa Report
+- Gliese 581g from Space Odyssey: Voyage to the Planets
+- Neptune's moon Triton from Avatar: The Last Airbender (TV series)"
+Gas Giants,7,2,Alien Planets,"Gas Giants are planets that are primarily composed of gases such as hydrogen and helium, with no solid surface. These planets are a popular backdrop in sci-fi and fantasy biomes due to their unique and otherworldly characteristics, including massive storms and strange atmospheric phenomena. They are often depicted as hostile environments where only specialized technology or alien life forms can survive.",🪐,"- Jupiter, the largest planet in our solar system, is a gas giant with a massive storm known as the Great Red Spot.
+- Saturn, known for its iconic rings, is another gas giant that has numerous moons and a hexagonal shape at its north pole.
+- Neptune is the furthest gas giant from the sun and has strong winds that can reach up to 1,200 miles per hour.
+- In the Mass Effect video game series, the planet Noveria is a gas giant with a research facility built on a floating platform in its upper atmosphere.
+- The planet Bespin in the Star Wars universe, famously known for being the location of Cloud City, is also a gas giant."
+Desert Planets,7,2,Alien Planets,"Desert planets are fictional worlds that have a barren and dry landscape, with little to no water and vegetation. These planets are often portrayed in science fiction and fantasy as harsh and unforgiving environments, where survival is a constant struggle. As a subset of sci-fi and fantasy biomes, they provide a unique backdrop for storytelling and exploration of new worlds.",🌵,"- Tatooine from the Star Wars franchise
+- Arrakis (also known as Dune) from the Dune series by Frank Herbert
 - Jakku from Star Wars: The Force Awakens
+- Athas from the Dark Sun campaign setting in Dungeons & Dragons
 - Mercury in the Doctor Who episode ""The Waters of Mars""
-- Athas, the setting of the Dark Sun campaign setting in Dungeons & Dragons"
-Ocean Planets,6,2,Alien Planets,"Ocean planets are a type of celestial body characterized by their vast bodies of water covering the majority of their surface. These planets may have a variety of environments beneath the oceans, including deep sea trenches, coral reefs, and hydrothermal vents. Due to their unique conditions, ocean planets are often the subject of exploration and speculation in science fiction and fantasy.",🌊,"- Kepler-438b: a planet discovered in 2015 that is believed to be an ocean planet with a high likelihood of being habitable due to its size and distance from its host star.
-- Solaris: a fictional ocean planet in the novel of the same name by Stanisław Lem. The planet is covered by a single, intelligent ocean that is capable of manipulating the minds of the human researchers who study it.
-- Kamino: a fictional ocean planet in the Star Wars universe, home to the Kaminoan species and the cloning facilities used to create the Republic's clone army. The planet is constantly covered by rain and storms due to its oceanic environment."
-Jungle Planets,6,2,Alien Planets,"Jungle planets are fictional planets characterized by dense forests, overgrown vegetation, and a humid, tropical climate. They are often depicted in science fiction and fantasy as home to exotic flora and fauna, as well as sentient alien species.",🌴,"- Pandora in the movie Avatar
-- Dagobah in the Star Wars franchise
-- Yautja Prime in the Predator franchise
-- Abydos in the Stargate franchise
+- Mars in the novel The Martian by Andy Weir."
+Ocean Planets,6,2,Alien Planets,"Ocean planets are fictional extraterrestrial worlds that are primarily composed of water, with little to no landmass. These planets are a subset of sci-fi and fantasy biomes and often feature unique aquatic life forms and civilizations adapted to living underwater. They are a popular trope in science fiction and fantasy, offering endless possibilities for exploration and adventure.",🌊,"- The planet Kamino from Star Wars, which is entirely covered in a global ocean and home to the amphibious Kaminoans who have built sprawling cities and cloning facilities beneath the waves.
+- The planet Altair IV from the movie Forbidden Planet, which has a mostly oceanic surface and is home to the enigmatic Krell, an ancient alien race whose ruins and technology lie hidden beneath the waves.
+- The planet Solaris from the book of the same name by Stanislaw Lem, which is a sentient ocean that can manifest physical forms and communicate with human explorers who come to study it."
+Jungle Planets,6,2,Alien Planets,"Jungle planets are fictional planets that feature dense vegetation, exotic wildlife, and often hostile environments. These planets are commonly depicted in science-fiction and fantasy as a subcategory of alien planets, offering a unique and exciting setting for interstellar adventures. They are a popular biome in sci-fi and fantasy due to the potential for exploration and discovery of new species and resources.",🌴,"- Pandora in the movie Avatar
+- Yavin 4 in the Star Wars franchise
 - LV-426 in the movie Aliens
-- Eternia in the He-Man and the Masters of the Universe franchise
-- Zebes in the Metroid video game franchise
-- Kashyyyk in the Star Wars franchise"
-Forest Planets,4,2,Alien Planets,"Forest Planets are fictional planets that are predominantly covered in forests, jungles or other dense vegetation. These planets are often inhabited by a variety of flora and fauna that have adapted to the environment. They are a popular setting in science fiction and fantasy stories, and are often portrayed as being home to exotic creatures and civilizations.",🌳,"- Endor from Star Wars
+- Kashyyyk in the Star Wars franchise
+- Abydos in the movie Stargate
+- Fichina in the video game Star Fox
+- Zebes in the video game Metroid
+- Dagobah in the Star Wars franchise
+- Ecosystem Nine in the book The Hitchhiker's Guide to the Galaxy
+- Rakata Prime in the video game Star Wars: Knights of the Old Republic"
+Forest Planets,4,2,Alien Planets,"Forest planets are planets that are characterized by having a dense forest cover. These planets are a subset of sci-fi and fantasy biomes that are often depicted in science fiction and fantasy stories. The forests on these planets may be home to a variety of flora and fauna that are unique to the planet, making them a popular setting for many sci-fi and fantasy stories.",🌳,"- Endor (Star Wars): The forest moon of Endor is a prime example of a forest planet. Its dense forests are home to the Ewok species and were the setting of the Battle of Endor in Return of the Jedi.
+- Pandora (Avatar): The lush forests of Pandora are one of the defining features of the planet in James Cameron's Avatar. The forests contain many unique and exotic species, including the Na'vi people.
+- Kashyyyk (Star Wars): The Wookiee homeworld of Kashyyyk is covered in a dense forest canopy. The planet was featured in several Star Wars stories, including the video game Star Wars Jedi: Fallen Order.
+- Sherwood Forest (Robin Hood): While not a planet, Sherwood Forest is a classic example of a forest biome in fantasy storytelling. It is the setting of many Robin Hood stories and is known for its thick trees and underbrush.
+- Yggdrasil (Norse mythology): In Norse mythology, Yggdrasil is a cosmic tree that connects the nine worlds. Its roots are said to reach down into the forest realm of Midgard, making it a prime example of a forest planet in mythology."
+Volcanic Planets,3,2,Alien Planets,"Volcanic planets are fictional worlds that are characterized by their active volcanoes, lava flows, ash clouds, and extreme temperatures. They are a subset of sci-fi and fantasy biomes that are often portrayed as hostile and inhospitable environments, inhabited by alien creatures that have adapted to the extreme conditions. These planets are commonly featured in science fiction and fantasy stories, where they serve as dramatic settings for epic battles or as mysterious homes for ancient, powerful beings.",🌋,"- Mustafar from Star Wars
+- Inferno from Mass Effect
+- Char from StarCraft
+- Surtur from Thor: Ragnarok
+- Magma Prime from Warframe"
+Artificial Planets,3,2,Alien Planets,"Artificial planets are fictional celestial bodies created by advanced technology or magical means in science fiction and fantasy genres. These planets are usually designed to cater to specific needs or purposes, such as being a habitat for a particular species or serving as a weapon in a war. They are a subset of sci-fi and fantasy biomes, which explore the diversity of environments and ecosystems in fictional worlds.",🪐,"- The Death Star from the Star Wars franchise, which is a moon-sized space station designed as a superweapon
+- The Citadel from the Mass Effect video game series, which is a massive space station serving as the seat of government for the alien race known as the Citadel Council
+- The Ringworld from Larry Niven's novel of the same name, which is a massive artificial ring-shaped world with a diameter of approximately one million miles and home to various alien species
+- The Halo Array from the Halo video game series, which is a network of artificial ring-shaped worlds designed to contain and eradicate a parasitic species known as the Flood
+- The planet Trantor from Isaac Asimov's Foundation series, which is a heavily urbanized planet covered entirely by a single sprawling city and serving as the administrative center of the Galactic Empire."
+Atolls,6,3,Coral Reefs,"Atolls are circular or horseshoe-shaped coral reefs that encircle a lagoon, often found in tropical waters. They are a unique subset of underwater worlds, with their own distinct ecosystems and biodiversity. Atolls also have a place in the world of sci-fi and fantasy biomes, as they are often depicted as mystical and otherworldly locales in various works of fiction.",🏝️,"- The Atoll in the movie Waterworld, where the characters live on a floating city built around a large atoll.
+- The atolls in the video game Subnautica, which are home to unique creatures and resources.
+- The magical atoll in the book The Mermaid's Sister, where the main character must go to save her sister's life."
+Bioherms,3,3,Coral Reefs,"Bioherms are complex and diverse marine ecosystems characterized by the presence of living organisms that create hard structures, such as coral reefs. In science fiction and fantasy settings, bioherms can take on fantastical forms, featuring alien or magical creatures and structures that defy real-world biology. As such, bioherms are often a key component of sci-fi and fantasy biomes, offering a rich and immersive setting for stories and adventures.",🌊,"- A coral reef system on an alien planet with creatures that have bioluminescent appendages.
+- A magical underwater forest made up of glowing trees and inhabited by mermaids and other mystical creatures.
+- A massive network of interconnected, living tunnels and chambers created by a hive mind of intelligent, coral-like organisms.
+- A deep-sea trench filled with bioluminescent jellyfish and other creatures that emit light in a mesmerizing display.
+- An underwater city built entirely by genetically modified sea creatures, complete with towering spires and bustling marketplaces."
+Bank Reefs,3,3,Coral Reefs,"Bank Reefs refer to coral reefs that are located near a bank or shallow area in the ocean. These reefs are often depicted in science fiction and fantasy biomes as exotic and otherworldly locations that are rich with diverse marine life and mysterious hidden treasures. In these fictional worlds, Bank Reefs might be home to fantastical creatures, hidden civilizations, or even serve as portals to other dimensions.",🐠,"- The Bank Reefs of Rigel 7, where the coral formations glow with an otherworldly luminescence and strange creatures lurk in the shadows
+- The Lost City of the Bank Reefs, a legendary underwater civilization said to be hidden within the twisting coral mazes of a particularly treacherous reef system
+- The Portal of the Bank Reefs, a mystical gateway that appears only during certain celestial alignments and leads to a parallel universe filled with wonders and dangers beyond imagination"
+Hydrothermal Vents,7,3,Underwater Caves,"Hydrothermal vents are hot springs on the ocean floor that release a mixture of hot water and minerals, creating unique habitats for a variety of organisms. These vents are often found in sci-fi and fantasy biomes, where they can be used as a setting for underwater adventures or as a source of mysterious powers and substances.",🌋,"- ""The Abyss"" movie featuring hydrothermal vents and deep-sea creatures
+- ""Subnautica"" video game with a biome called ""the Lost River"" featuring hydrothermal vents
+- ""Aquaman"" comic book series featuring the ""Trench"" underwater cave system with hydrothermal vents
+- ""BioShock"" video game series with underwater environments featuring hydrothermal vents and mutated organisms
+- ""The Future is Wild"" TV series featuring a future where hydrothermal vents become the main source of energy for underwater creatures."
+Submarine Canyons,3,3,Underwater Caves,"Submarine canyons are deep, steep-sided valleys or canyons found on the ocean floor. They are formed by the erosion of sediment, and are often home to unique and diverse ecosystems. In sci-fi and fantasy biomes, submarine canyons can be inhabited by fantastical creatures and serve as a mysterious and dangerous location for adventurers to explore.",🌊🚤,"- The Abyssal Chasm: A submarine canyon that plunges deep into the ocean floor, shrouded in darkness and inhabited by strange bioluminescent creatures.
+- The Leviathan's Lair: A massive submarine canyon that serves as the hunting grounds of a legendary sea monster, with treacherous currents and hidden caves that offer shelter to its prey.
+- The Crystal Grotto: A stunningly beautiful submarine canyon filled with shimmering crystals and gemstones, guarded by sentient creatures who are fiercely protective of their home."
+Ys,7,3,Sunken Cities,"Ys is a submerged city or civilization that exists within the realm of sci-fi and fantasy biomes. It is a unique subset of underwater worlds that features advanced technology, mythical creatures, and ancient ruins. Ys is often depicted as a mysterious and enchanting place, full of secrets and hidden treasures waiting to be discovered. It is a popular element of many sci-fi and fantasy stories, serving as a backdrop for epic adventures and quests.",🧜‍♀️,"- Sunken cities with advanced technology and mythical creatures.
+- Ancient ruins and mysterious secrets waiting to be discovered.
+- A popular element of many sci-fi and fantasy stories.
+- Enchanting and full of wonder."
+R'Lyeh,7,3,Sunken Cities,"R'Lyeh is a fictional sunken city that exists in the realm of sci-fi and fantasy biomes. It is known for its mysterious and ancient architecture, as well as its connection to Lovecraftian horror. As a subcategory of underwater worlds, R'Lyeh offers a unique setting for exploration and adventure in the realm of speculative fiction.",🏰,"- Mysterious and ancient architecture
+- Connection to Lovecraftian horror
+- Unique setting for exploration and adventure in the realm of speculative fiction"
+Dwarka,7,3,Sunken Cities,"Dwarka is a sunken city believed to have been submerged under the sea for thousands of years, making it a fascination for lovers of sci-fi and fantasy biomes. It is a mystical and mythical place often depicted in works of fiction, where ancient ruins and artifacts are discovered, and stories of ancient civilizations are told. It is a popular theme in sci-fi and fantasy, often serving as a backdrop for tales of adventure, mystery, and discovery in the depths of the ocean.",🌊,"- Ancient ruins of temples and palaces submerged under the sea
+- Artifacts and relics from a lost civilization
+- Mysterious underwater structures and monuments
+- Mythical creatures and sea monsters lurking in the depths
+- Tales of ancient gods and goddesses worshipped by the people of Dwarka"
+Atlantis,7,3,Sunken Cities,"Atlantis is a legendary lost city, said to have sunk beneath the ocean. It is often depicted in science fiction and fantasy as a mysterious underwater world, filled with advanced technology and mythical creatures. As a subset of sci-fi and fantasy biomes, Atlantis offers a unique blend of futuristic and magical elements, creating a rich and captivating setting for storytelling.",🧜‍♀️,"- A submerged city in which people can breathe underwater, with glowing plants and bioluminescent sea creatures surrounding them.
+- A lost civilization with advanced technology, such as underwater trains or magnetic levitation, powered by a mysterious energy source.
+- Mermaids, sea monsters, or other mythical creatures living in the ruins of ancient temples and palaces, guarding precious artifacts or secrets.
+- A utopian society where people live in harmony with nature and each other, using sustainable energy and biotech to enhance their lives.
+- A dystopian society where a powerful elite controls the resources and technology, exploiting the weaker inhabitants and enforcing strict rules and punishments."
+Thonis-Heracleion,5,3,Sunken Cities,"Thonis-Heracleion is a real-life ancient Egyptian city that was submerged underwater for centuries, making it a captivating addition to the subset of Underwater Worlds. It is also often featured in sci-fi and fantasy biomes, inspired by its mysterious history and the fantastical elements that come with exploring an underwater city.",🏛️,"- Ancient ruins of temples, houses, and markets submerged in water
+- Statues of gods and pharaohs that have been preserved underwater
+- Mythical creatures and sea monsters guarding the ruins
+- Hidden treasures and artifacts waiting to be discovered by adventurous divers and archaeologists
+- Mysterious rituals and ceremonies that took place in the city, shrouded in myth and legend."
+Pavlopetri,4,3,Sunken Cities,"Pavlopetri is an ancient submerged city located off the coast of Greece. It is considered one of the oldest underwater cities in the world and provides valuable insights into the lives of the people who lived there thousands of years ago. As a Sunken City, it falls under the category of Underwater Worlds, which is a popular setting in science fiction and fantasy biomes. The exploration of Pavlopetri and other sunken cities have inspired many fictional works that explore the mysteries and wonders of underwater civilizations.",🌊,"- Ancient submerged city located off the coast of Greece
+- One of the oldest underwater cities in the world
+- Provides valuable insights into the lives of people who lived there thousands of years ago
+- Sunken City subset of Underwater Worlds, subset of sci-fi and fantasy biomes
+- Popular setting for science fiction and fantasy stories
+- Inspiration for fictional works exploring mysteries and wonders of underwater civilizations"
+Port Royal,3,3,Sunken Cities,"Port Royal is a fictional sunken city that is often featured in sci-fi and fantasy biomes. It is a mysterious underwater world that is home to ancient ruins, lost treasures, and mythical creatures. The city is surrounded by a sense of adventure and danger, making it a popular setting in many science fiction and fantasy stories.",🏰,"- Ancient ruins and structures submerged under the water
+- Lost treasures and valuable artifacts hidden within the city
+- Mythical creatures and sea monsters that inhabit the area
+- Adventurous explorers and treasure hunters seeking fame and fortune in Port Royal
+- Mysterious and potentially dangerous underwater environments, such as underwater caves and tunnels."
+Mu,3,3,Sunken Cities,Mu is a fictional underwater city or civilization that is often portrayed in science fiction and fantasy biomes. It is a lost city that has been submerged in water for centuries and is often associated with mysterious and supernatural powers. Mu is a popular element in many sci-fi and fantasy stories that explore the unknown depths of the ocean and the secrets that lie within. Its inclusion in these genres adds to the overall sense of wonder and imagination that defines them.,🧜‍♀️,"- Sunken Cities, a subset of Underwater Worlds, is an example of Mu in sci-fi and fantasy biomes.
+- Mu is a fictional underwater city or civilization that has been submerged in water for centuries.
+- Mu is often associated with mysterious and supernatural powers, making it a popular element in many sci-fi and fantasy stories.
+- Mu adds to the overall sense of wonder and imagination that defines these genres."
+Giant Kelp,3,3,Kelp Forests,"Giant Kelp is a type of seaweed found in underwater kelp forests. These forests are often depicted in science fiction and fantasy as mysterious and otherworldly biomes. The towering stalks of Giant Kelp create the illusion of a magical forest, making it a popular element in fictional aquatic worlds.",🌿,"- Underwater scenes in movies and TV shows such as Finding Nemo and The Little Mermaid often feature Giant Kelp forests as a magical and mysterious setting.
+- The video game Subnautica features a vast underwater world with Giant Kelp forests, where players can explore and encounter various creatures.
+- In the sci-fi novel The Swarm, a group of intelligent alien beings lives in a massive network of Giant Kelp forests that spans the ocean floor.
+- The animated TV show Avatar: The Last Airbender features a world where some characters can bend and control water, including the ability to manipulate Giant Kelp to their advantage.
+- The documentary film IMAX: Under the Sea showcases the beauty and diversity of Giant Kelp forests and the creatures that inhabit them."
+Cold Seeps,7,3,Underwater Volcanoes,"Cold seeps are areas of the ocean floor where methane and other hydrocarbon-rich fluid seep out, creating a unique ecosystem of chemosynthetic organisms. These seeps are often associated with underwater volcanoes and deep sea vents, making them a popular setting in sci-fi and fantasy biomes. The otherworldly appearance and unique biological communities found in cold seeps make them a prime location for imaginative storytelling and worldbuilding.","🌊💎🐙 (Wave, Gemstone, Octopus)","- A colony of luminescent bacteria living on the walls of an underwater cave near a cold seep, creating a glowing blue-green landscape.
+- A giant octopus-like creature with bioluminescent tentacles that feeds on the chemosynthetic organisms living around the cold seep.
+- A group of merfolk who have adapted to living in the low-oxygen, high-pressure environment around the cold seep, using the hydrocarbons to fuel their underwater cities.
+- A team of explorers who discover a hidden cave system within an underwater volcano, filled with bizarre creatures and strange rock formations created by the cold seep.
+- A sentient species of giant clams that use the methane and other chemicals from the cold seep to power their telepathic abilities, communicating with each other over long distances."
+Black Smokers,7,3,Underwater Volcanoes,"Black Smokers are hydrothermal vents located on the ocean floor that release hot, mineral-rich water. They are often associated with underwater volcanoes and are a unique feature of the underwater world. Their eerie, otherworldly appearance has made them a popular feature in sci-fi and fantasy biomes, where they are often depicted as mysterious and dangerous locations.",🌋,"- Hydrothermal vents releasing hot, mineral-rich water on the ocean floor
+- Eerie and otherworldly appearance of the Black Smokers
+- Association of Black Smokers with underwater volcanoes
+- Popular feature in sci-fi and fantasy biomes, often depicted as mysterious and dangerous locations"
+Seamounts,4,3,Underwater Volcanoes,"Seamounts are underwater mountains formed by volcanic activity that rise from the ocean floor. They are often home to unique and diverse ecosystems, making them an interesting setting for sci-fi and fantasy biomes. These seamounts can be depicted as mystical or dangerous places in these genres, offering exciting opportunities for storytelling and world-building.",🌋,"- The Seamounts of Thalassia: A mystical realm where ancient creatures dwell, protected by powerful magic and guarded by fierce sea monsters.
+- The Black Seamount: A treacherous and haunted place, where the souls of drowned sailors are said to roam and vengeful spirits lurk in the depths.
+- The Crystal Seamount: A breathtakingly beautiful location, where the waters are clear and the sunlight refracts in a thousand colors, revealing hidden wonders and secrets."
+White Smokers,3,3,Underwater Volcanoes,"White smokers are hydrothermal vents found on the seafloor that release hot, mineral-rich fluids. These vents are often associated with underwater volcanoes and are a unique and fascinating feature of underwater worlds. In the realm of sci-fi and fantasy biomes, white smokers are often portrayed as mysterious and otherworldly, with their strange and alien-looking ecosystems providing a rich source of inspiration for writers and creators.",🌋,"- Hydrothermal vents emitting hot, mineral-rich fluids on the seafloor
+- Underwater volcanoes surrounded by white smoker ecosystems
+- Alien-looking creatures and plant life thriving near white smokers in imaginative sci-fi and fantasy worlds"
+Submarine Canyons,3,3,Underwater Volcanoes,"Submarine canyons are deep, steep-sided valleys or canyons found on the ocean floor. They are formed by the erosion of sediment, and are often home to unique and diverse ecosystems. In sci-fi and fantasy biomes, submarine canyons can be inhabited by fantastical creatures and serve as a mysterious and dangerous location for adventurers to explore.",🌊🚤,"- The Abyssal Chasm: A submarine canyon that plunges deep into the ocean floor, shrouded in darkness and inhabited by strange bioluminescent creatures.
+- The Leviathan's Lair: A massive submarine canyon that serves as the hunting grounds of a legendary sea monster, with treacherous currents and hidden caves that offer shelter to its prey.
+- The Crystal Grotto: A stunningly beautiful submarine canyon filled with shimmering crystals and gemstones, guarded by sentient creatures who are fiercely protective of their home."
+Subglacial Lakes,3,3,Ice Worlds,"Subglacial lakes are bodies of water that exist beneath the surface of a glacier or ice sheet. These lakes are a unique subset of underwater worlds that are found in sci-fi and fantasy biomes. In science fiction and fantasy, subglacial lakes can be used as settings for exploration, as well as for mysterious and dangerous encounters.",🌊,"- Lake Vostok in Antarctica, one of the largest subglacial lakes on Earth, has been the subject of scientific research and exploration due to its extreme conditions and the possibility of finding unique life forms.
+- The fictional subglacial lake in the movie ""The Thing"" (1982) serves as a setting for a group of scientists to discover a terrifying extraterrestrial organism that can mimic any living creature it comes into contact with.
+- In the book ""The Subterranean Lake"" by Matías Montes Huidobro, a group of explorers venture into a subglacial lake in Patagonia and discover a hidden underground world full of ancient creatures and mysteries."
+Arctic Oceans,3,3,Ice Worlds,"The Arctic Oceans are vast bodies of water located in the Arctic region, characterized by their frozen surfaces and icy depths. They are a popular setting in science fiction and fantasy, offering a unique and otherworldly environment for stories to take place. As a subset of sci-fi and fantasy biomes, Arctic Oceans offer a sense of mystery and danger, with tales of mythical creatures and hidden treasures lurking beneath the ice.","🌊❄️🐳 (Wave, snowflake, and whale)","- A group of explorers navigating a maze of icy underwater caves in search of a lost city rumored to hold ancient technology and forbidden knowledge.
+- A tribe of nomadic ice hunters who ride on the backs of giant sea creatures, using their sharp harpoons to catch their prey and survive in the harsh Arctic environment.
+- A team of futuristic scientists stationed in a research facility deep beneath the frozen ocean, studying the mysterious creatures that inhabit the depths and uncovering secrets that could change the course of humanity.
+- A band of pirates who roam the Arctic Oceans in search of valuable artifacts and rare materials, battling both rival crews and treacherous sea monsters for their spoils.
+- A lone survivor stranded on an ice floe, forced to brave the elements and fend off attacks from hungry predators as they try to find a way back to civilization."
+Trenches,6,3,Abyssal Plains,"Trenches are deep oceanic canyons that are a part of the underwater world. These canyons are characterized by steep walls and are often inhabited by unique and mysterious creatures. In the realm of sci-fi and fantasy biomes, trenches are often depicted as dangerous and foreboding places, full of unknown terrors and hidden treasures. They serve as a popular setting for stories and adventures, adding an element of mystery and intrigue to the narrative.",🌊,"- Steep-walled canyons that make up the deep oceanic trenches
+- Unique and mysterious creatures that inhabit the trenches
+- Settings for stories and adventures that add an element of mystery and intrigue to the narrative"
+Hydrothermal Vents,6,3,Abyssal Plains,"Hydrothermal vents are hot springs on the ocean floor that release a mixture of hot water and minerals, creating unique habitats for a variety of organisms. These vents are often found in sci-fi and fantasy biomes, where they can be used as a setting for underwater adventures or as a source of mysterious powers and substances.",🌋,"- ""The Abyss"" movie featuring hydrothermal vents and deep-sea creatures
+- ""Subnautica"" video game with a biome called ""the Lost River"" featuring hydrothermal vents
+- ""Aquaman"" comic book series featuring the ""Trench"" underwater cave system with hydrothermal vents
+- ""BioShock"" video game series with underwater environments featuring hydrothermal vents and mutated organisms
+- ""The Future is Wild"" TV series featuring a future where hydrothermal vents become the main source of energy for underwater creatures."
+Cold Seeps,6,3,Abyssal Plains,"Cold seeps are areas of the ocean floor where methane and other hydrocarbon-rich fluid seep out, creating a unique ecosystem of chemosynthetic organisms. These seeps are often associated with underwater volcanoes and deep sea vents, making them a popular setting in sci-fi and fantasy biomes. The otherworldly appearance and unique biological communities found in cold seeps make them a prime location for imaginative storytelling and worldbuilding.","🌊💎🐙 (Wave, Gemstone, Octopus)","- A colony of luminescent bacteria living on the walls of an underwater cave near a cold seep, creating a glowing blue-green landscape.
+- A giant octopus-like creature with bioluminescent tentacles that feeds on the chemosynthetic organisms living around the cold seep.
+- A group of merfolk who have adapted to living in the low-oxygen, high-pressure environment around the cold seep, using the hydrocarbons to fuel their underwater cities.
+- A team of explorers who discover a hidden cave system within an underwater volcano, filled with bizarre creatures and strange rock formations created by the cold seep.
+- A sentient species of giant clams that use the methane and other chemicals from the cold seep to power their telepathic abilities, communicating with each other over long distances."
+Seamounts,5,3,Abyssal Plains,"Seamounts are underwater mountains formed by volcanic activity that rise from the ocean floor. They are often home to unique and diverse ecosystems, making them an interesting setting for sci-fi and fantasy biomes. These seamounts can be depicted as mystical or dangerous places in these genres, offering exciting opportunities for storytelling and world-building.",🌋,"- The Seamounts of Thalassia: A mystical realm where ancient creatures dwell, protected by powerful magic and guarded by fierce sea monsters.
+- The Black Seamount: A treacherous and haunted place, where the souls of drowned sailors are said to roam and vengeful spirits lurk in the depths.
+- The Crystal Seamount: A breathtakingly beautiful location, where the waters are clear and the sunlight refracts in a thousand colors, revealing hidden wonders and secrets."
+Abyssal Mountains,5,3,Abyssal Plains,"Abyssal Mountains are underwater mountains that rise up from the ocean floor, reaching heights of over 3,000 meters. These tall peaks are surrounded by deep ocean trenches and canyons, and often host unique and fantastical creatures in the sci-fi and fantasy biomes of the deep sea. They are a fascinating and mysterious part of the underwater world, inspiring many sci-fi and fantasy stories and worlds.",🌊🏔️,"- The Mariana Trench, which contains the Challenger Deep, the deepest known point in the ocean and home to many unique creatures and formations.
+- The Mid-Atlantic Ridge, a massive underwater mountain range that stretches across the Atlantic Ocean and is a hotspot for volcanic activity.
+- The seamounts of Hawaii, which rise up from the ocean floor and are home to a variety of marine life, including coral reefs and giant octopuses."
+Abyssal Hills,5,3,Abyssal Plains,"Abyssal Hills are underwater hills found in the deep sea that are a part of the sci-fi and fantasy biomes. These hills exist in the Abyssal Plains, which are a subset of Underwater Worlds. They are often depicted in science fiction and fantasy as mysterious and dangerous places, full of unknown creatures and ancient ruins.",🐙,"- A towering underwater hill covered in glowing bioluminescent plants and inhabited by a massive, tentacled sea monster
+- A network of steep, jagged hills rising from the seafloor, dotted with ancient ruins of a long-lost civilization
+- A series of rolling hills covered in vibrant coral formations, home to schools of colorful fish and inhabited by elusive merfolk
+- A cluster of submerged volcanoes, each one spewing steaming vents and surrounded by a swirling vortex of dark water
+- A massive, plateau-like hill covered in shimmering crystals and guarded by a fierce dragon-like creature, rumored to possess the power to grant wishes."
+Plane Of Water,3,3,Elemental Planes,"The Plane of Water is a magical realm within the Elemental Planes that is characterized by vast expanses of water, including oceans, seas, and rivers. It is a fantastical biome that is often depicted in science fiction and fantasy stories, where it serves as a home to mythical creatures and otherworldly beings. As a subset of sci-fi and fantasy biomes, the Plane of Water is a key element in the world-building of many fictional universes.",🌊,"- Underwater cities and civilizations
+- Giant sea creatures and monsters, such as krakens and Leviathans
+- Coral reefs and underwater gardens
+- Maelstroms and whirlpools
+- Sunken ships and treasure troves
+- Mermaids and other aquatic humanoid races
+- Floating islands and waterfalls
+- Water-based magic and spells
+- Abyssal trenches and deep-sea caves
+- Elemental beings representing water, such as Naiads and Undines"
+Plane Of Fire,3,3,Elemental Planes,"The Plane of Fire is a magical realm that is characterized by its fiery landscape and intense heat. It is one of the Elemental Planes, which are subsets of the sci-fi and fantasy biomes. This plane is home to powerful fire elementals and other fiery creatures, and it is often sought after by those who seek to harness the power of fire for their own purposes.",🔥,"- Fiery landscape characterized by intense heat
+- Home to powerful fire elementals and other fiery creatures
+- Sought after by those who seek to harness the power of fire for their own purposes"
+Plane Of Earth,3,3,Elemental Planes,".
+
+The Plane of Earth is a realm within the sci-fi and fantasy biomes that represents the elemental aspect of earth. It is a magical realm that is typically associated with the physical properties of the earth, such as rocks, minerals, and mountains. It is a subset of the broader category of Elemental Planes, which are a common feature in sci-fi and fantasy settings. The Plane of Earth is often depicted as a rugged, rocky landscape filled with caverns, tunnels, and other natural formations.",🌎,"- Underground cave systems with glowing crystals and stalactites
+- Massive mountains with veins of precious metals and gemstones
+- Golems and other earth elementals made of stone or clay
+- Burrowing creatures such as giant worms or moles
+- Ancient ruins or temples carved into the earth itself"
+Plane Of Air,3,3,Elemental Planes,"The Plane of Air is a fantastical realm within the sci-fi and fantasy biomes that is characterized by its air elementals and the powerful winds that dominate the landscape. It is a part of the Elemental Planes, which are magical realms that embody the different elements of nature. In this realm, travelers can expect to encounter creatures that can fly effortlessly, and the environment is often filled with clouds, storms, and other aerial phenomena. It is a place of both wonder and danger, where those who venture too far may find themselves lost in the endless expanse of the skies.",🌬️,"- Air elementals: creatures made entirely of air, often taking on humanoid forms
+- Flying beasts: such as giant eagles, griffins, or dragons that call the Plane of Air their home
+- Floating cities: massive structures that hover in the sky, often inhabited by air elementals or other airborne creatures
+- Whirlwinds: powerful tornadoes that can whisk travelers away to different parts of the Plane of Air
+- Sky gardens: lush gardens suspended in the air, full of exotic plants and creatures adapted to the aerial environment"
+Surreal Landscapes,3,3,Dreamscapes,"Surreal landscapes are fantastical environments that are inspired by dreams and imagination. These landscapes often defy the laws of physics and reality, and are characterized by strange and otherworldly features such as floating islands, impossible architecture, and surreal creatures. They are a common element in sci-fi and fantasy biomes, where they are used to transport audiences to magical and wondrous realms beyond our own.",🌌,"- A landscape where gravity is reversed, with trees growing upside down and waterfalls flowing upwards
+- A cityscape made entirely of crystal, with buildings reflecting rainbow colors and refracting light
+- A forest where the trees are made of fire, with flames flickering and crackling instead of leaves
+- A desert where the sand is made of glass, with shards glimmering in the sunlight and reflecting rainbows
+- A mountain range where the peaks are made of clouds, with misty pathways winding between them
+- A sea where the waves are made of light, with shimmering colors and glowing sea creatures swimming within them."
+Heavens,7,3,Celestial Realms,"Heavens are the celestial realms that are often depicted in science fiction and fantasy biomes. They are magical and mystical places where deities, angels, and other supernatural beings reside. The concept of heavens is often used in science fiction and fantasy to explore the idea of the afterlife, alternate dimensions, and the unknown mysteries of the universe.",🌌,"- The Elysium Fields in Greek mythology, which was the final resting place of heroes and the virtuous.
+- Asgard in Norse mythology, which was the home of the gods and goddesses.
+- The Silver City in the TV series ""Supernatural"", which is the residence of angels.
+- The Celestial Kingdom in ""Avatar: The Last Airbender"", which was the home of the spirits and the Avatar.
+- The Heaven in the Bible, which is the dwelling place of God and the angels."
+Underworlds,3,3,Celestial Realms,"Underworlds are fictional realms that exist beneath the surface of the earth or in alternate dimensions. These worlds are often associated with darkness, death, and supernatural creatures. As a subset of sci-fi and fantasy biomes, Underworlds are frequently depicted in literature, film, and other media as places of danger and mystery, where the rules of reality are different and magic or advanced technology may be present.",🔮,"- The Underworld in Greek mythology, where the dead go to be judged by Hades and where mythical creatures like Cerberus and the Furies reside.
+- The Upside Down in Stranger Things, a parallel dimension filled with monsters and controlled by the Mind Flayer.
+- The Underland Chronicles by Suzanne Collins, a series of books where a boy discovers a world beneath the earth's surface inhabited by giant talking animals and a human civilization.
+- The Land of the Dead in Disney's Coco, where the protagonist Miguel must navigate his way to find his deceased ancestors.
+- The Shadow Realm in Yu-Gi-Oh!, a dark dimension where duelists are sent and must face their fears to escape."
+Neon-Lit Streets,5,3,Cyberpunk Cities,"Neon-lit streets are a common feature in sci-fi and fantasy biomes, especially in cyberpunk cities and virtual realities. These streets are characterized by bright neon lights, towering skyscrapers, and a bustling atmosphere. They often serve as a backdrop for futuristic technologies and advanced societies, reflecting the blend of technology and humanity in these worlds.",💡,"- A crowded street in a cyberpunk city, with towering skyscrapers on either side and holographic advertisements flickering overhead.
+- A bustling marketplace in a virtual reality world, with neon signs advertising virtual goods and services.
+- An alleyway in a sci-fi city, with glowing neon graffiti on the walls and flickering holographic projections of alien creatures.
+- A high-speed chase scene through the neon-lit streets of a futuristic city, with sleek hovercars and advanced weaponry.
+- A nightclub in a virtual reality world, with pulsing neon lights and holographic performers on stage."
+Deep Space Stations,3,3,Space Stations,"Deep Space Stations are advanced artificial structures designed to support exploration and communication in deep space. These stations serve as hubs for interstellar travel and research, providing a base for humans and other species to conduct scientific experiments, repair and refuel their ships, and communicate across vast distances. As a subset of the sci-fi and fantasy biomes, deep space stations are often depicted as sleek and futuristic, featuring advanced technologies and otherworldly designs that capture the imagination of audiences.",🚀,"- The International Space Station (ISS)
+- Babylon 5 (TV series)
+- Deep Space Nine (TV series)
+- The Elysium space station (movie)
+- The Citadel (video game series, Mass Effect)
+- The Death Star (Star Wars franchise)
+- The Halo Array (video game series, Halo)
+- The Space Colony ARK (video game, Sonic Adventure 2)"
+Artificial Habitats,3,3,Space Stations,"Artificial habitats are man-made environments designed to support life, often used in sci-fi and fantasy biomes. These habitats can range from space stations to virtual realities, where organisms live and interact with their surroundings. They are often used in futuristic settings to explore the possibilities of human existence beyond the limitations of natural environments.",🏗️,"- The space station in the movie ""Interstellar"" where humans live and conduct research in the midst of deep space.
+- The virtual reality world in the novel ""Ready Player One"" where people escape the dystopian reality of their lives and live out their fantasies.
+- The underwater city of Rapture in the video game ""Bioshock"" where genetically modified humans live in a utopian society beneath the ocean's surface.
+- The terraformed planets in the ""Mass Effect"" video game series where humans and other alien species live on planets that have been artificially altered to support life.
+- The world of Pandora in the film ""Avatar"" where humans have created a man-made environment to survive on a planet with a toxic atmosphere."
+Otherworldly Realms,3,3,Alternate Dimensions,"Otherworldly Realms refers to fictional or fantastical settings that are distinct from our own reality. These may include alternate dimensions, parallel universes, and magical or science-fictional biomes that defy the laws of physics and nature. As a subset of sci-fi and fantasy biomes, Otherworldly Realms offer a rich and imaginative backdrop for storytelling, allowing authors and creators to explore themes of alienation, wonder, and the unknown.",🪐,"- The Upside Down from Stranger Things
+- Narnia from The Chronicles of Narnia
+- Middle Earth from The Lord of the Rings
+- The Land of Oz from The Wizard of Oz
+- The Mirror World from Through the Looking Glass
 - Pandora from Avatar
-- Kashyyyk from Star Wars
-- Felucia from Star Wars
-- Yavin 4 from Star Wars
-- Dagobah from Star Wars
-- Ewok Home from Star Wars: Ewoks
-- Forest Moon of Endor from Star Wars: Battlefront II
-- Lothal from Star Wars: Rebels
-- Jumanji from the Jumanji franchise"
-Volcanic Planets,3,2,Alien Planets,"Volcanic planets are planets that have active or dormant volcanoes on their surface. These planets may have high temperatures, toxic atmospheres, and geologic instability due to the volcanic activity. They are often depicted in science fiction and fantasy as harsh and inhospitable environments.",🌋,"- Mustafar in Star Wars
-- Char in Starcraft
-- Vulcan in Star Trek
-- Surtur's realm in Marvel Comics
-- Mustafar in Lego Star Wars: The Skywalker Saga
-- Nocturne in Warhammer 40,000
-- Rhea in Mass Effect 2
-- Magmos in Super Mario Galaxy 2
-- Brimstone in Destiny 2"
-Artificial Planets,3,2,Alien Planets,"Artificial planets are fictional celestial bodies that are artificially created rather than occurring naturally. They are often depicted in science fiction and fantasy as habitats or colonies for humans or alien races. These planets can have a variety of features, including climate control, artificial gravity, and advanced technology.",🌌,"- Death Star from Star Wars 
-- Elysium from Elysium 
-- Space Station V from 2001: A Space Odyssey 
-- Halo from the Halo video game series 
-- Ringworld from the Ringworld book series 
-- Babylon 5 from Babylon 5 TV series 
-- Dyson Sphere from various sci-fi works 
-- The Citadel from Mass Effect video game series 
-- The Ark from Transformers franchise 
-- The Culture Orbitals from The Culture book series by Iain M. Banks."
-Atolls,6,3,Coral Reefs,"Atolls are ring-shaped coral reefs that form shallow lagoons, typically found in tropical waters. They are formed by the growth of coral reefs on top of submerged volcanic islands or seamounts, and are home to diverse marine life.",🏝️,"- Bikini Atoll in the Pacific Ocean, famous for nuclear testing in the mid-20th century
-- The Maldives, a chain of over 1000 atolls in the Indian Ocean
-- Rangiroa in French Polynesia, one of the largest atolls in the world, with a lagoon of over 1000 square kilometers."
-Bioherms,3,3,Coral Reefs,"Bioherms refer to underwater structures made of calcium carbonate that are formed over time by the accumulation of the skeletons of corals and other marine organisms. These structures provide habitat and shelter for a diverse range of marine life, and are often considered to be important ecological hotspots.",🐠,"- Great Barrier Reef
-- Belize Barrier Reef
-- Red Sea Coral Reef
-- Maldives Coral Reefs
-- Hawaiian Coral Reefs"
-Bank Reefs,3,3,Coral Reefs,Bank reefs are underwater structures made up of coral that are typically found in shallow waters near the shore. These reefs play an important role in providing habitats for a diverse range of marine life and in protecting coastlines from erosion.,🐠,"- The Great Barrier Reef in Australia, which is the largest coral reef system in the world and stretches for over 2,300 kilometers.
-- The Belize Barrier Reef, which is a UNESCO World Heritage Site and home to over 500 species of fish and 100 species of coral.
-- The Red Sea Coral Reef, which is located off the coast of Egypt and is known for its vibrant colors and unique marine life, such as the dugong and the hammerhead shark."
-Hydrothermal Vents,7,3,Underwater Caves,"Hydrothermal vents are openings on the ocean floor where hot, mineral-rich water escapes from the Earth's crust. These vents are home to unique and diverse ecosystems that thrive in extreme conditions, including bacteria, tube worms, and other organisms that rely on chemosynthesis rather than photosynthesis for energy.",🌋,"- Black smoker chimneys, which are tall structures formed by the minerals and metals that are deposited as the hot water from the vents meets the cold seawater.
-- Giant tube worms, which can grow up to 2 meters long and have a bright red plume that they use to absorb nutrients from the water.
-- Riftia pachyptila, a type of tube worm that lacks a mouth and digestive system and instead relies on symbiotic bacteria to break down the minerals in the water and provide it with nutrients.
-- Blind crabs, which have lost their eyesight over time due to the darkness of the vents and have adapted to survive in high-pressure and high-temperature environments.
-- Vent mussels, which have developed a unique way of filtering out the minerals and metals from the vent water and using them to build their shells."
-Submarine Canyons,3,3,Underwater Caves,"Submarine canyons are steep-sided valleys or channels that are found on the seafloor, typically formed by the erosion of underwater currents and sediment movements. These canyons can be several kilometers deep and can serve as important habitats for a variety of marine organisms.",🌊,"- Monterey Canyon off the coast of California, which is over 11 kilometers long and up to 1.5 kilometers deep
-- Whittard Canyon in the northeast Atlantic, which is home to a diverse range of deep-sea corals and other marine life
-- Kaikoura Canyon off the coast of New Zealand, which is known for its rich biodiversity and important role in local fisheries
-- Hudson Canyon off the coast of New York, which has been studied for its potential as a site for renewable energy generation 
-- Pribilof Canyon in the Bering Sea, which is a key habitat for fish and other marine organisms that support commercial and subsistence fisheries in the region."
-Ys,7,3,Sunken Cities,Ys is a fictional underwater city or civilization that is often depicted in sci-fi and fantasy genres. It is a subset of underwater worlds and is characterized as a sunken city with a mysterious and ancient history.,🌊,"- Sunken Cities
-- Underwater Worlds
-- Sci-fi and Fantasy Biomes
-- Fictional Underwater City
-- Mysterious and Ancient History"
-R'Lyeh,7,3,Sunken Cities,"R'Lyeh is a fictional underwater city in the Cthulhu mythos created by H.P. Lovecraft. It is often depicted as an ancient, cyclopean city of non-Euclidean geometry and home to the monstrous deity Cthulhu. The city is said to have been sunken beneath the ocean for eons, but is occasionally glimpsed or visited by intrepid explorers or cultists.",🐙,"- Cyclopean architecture of non-Euclidean geometry
-- Home to the monstrous deity Cthulhu
-- Sunken beneath the ocean for eons
-- Occasionally glimpsed or visited by explorers or cultists"
-Dwarka,7,3,Sunken Cities,"Dwarka is a mythical ancient city located underwater, as described in Hindu mythology. It is believed to have been the capital of Lord Krishna's kingdom and is considered a sacred site by Hindus.",🌊,"- Sunken city of Dwarka is a popular diving site in India, where visitors can explore the ruins of the ancient city.
-- The story of Dwarka and its submergence is often told in Hindu mythology and is a subject of fascination for many.
-- Various scientific expeditions have been conducted to study the underwater city and its historical significance.
-- Some scholars believe that Dwarka might have been a real city that got submerged due to natural calamities such as floods or earthquakes.
-- The legend of Dwarka continues to inspire art, literature, and popular culture in India, and it is often depicted in movies, TV shows, and comic books."
-Atlantis,7,3,Sunken Cities,"Atlantis is a mythical underwater city that is said to have been lost beneath the depths of the ocean. It is often depicted as a grand civilization with advanced technology and architecture, and its story has been passed down through various cultures and legends.",🌊,"- The legend of Atlantis as described by Plato, which tells of a powerful and prosperous city that was swallowed by the sea due to its citizens' greed and corruption
-- The city of R'lyeh from H.P. Lovecraft's Cthulhu Mythos, which shares many similarities with Atlantis, including its ancient and mysterious origins and its location beneath the waves
-- The underwater city of Bikini Bottom from the TV show SpongeBob SquarePants, which is a whimsical and cartoonish take on the Atlantis myth that is inhabited by colorful and quirky sea creatures
-- The lost city of Mu, which is sometimes thought to be a real-life counterpart to Atlantis and is said to have sunk into the Pacific Ocean thousands of years ago
-- The video game series BioShock, which takes place in an underwater city called Rapture that was built in the 1940s as a utopia for the world's greatest minds, but ultimately descended into chaos and madness."
-Thonis-Heracleion,5,3,Sunken Cities,Thonis-Heracleion is an ancient Egyptian city that was submerged underwater for centuries until its rediscovery in the early 2000s. It was a thriving port city that served as a gateway between Egypt and the Mediterranean world. The city is now considered an important archaeological site and has provided valuable insights into ancient Egyptian culture and trade.,🏛️,"- Thonis-Heracleion was a thriving port city that served as a gateway between Egypt and the Mediterranean world.
-- The city was submerged underwater for centuries until its rediscovery in the early 2000s.
-- Thonis-Heracleion is now considered an important archaeological site and has provided valuable insights into ancient Egyptian culture and trade."
-Pavlopetri,4,3,Sunken Cities,"Pavlopetri is a submerged ancient city located off the coast of southern Laconia in Greece. It is believed to be one of the oldest submerged cities in the world, dating back to the Bronze Age. The ruins of the city include streets, buildings, and tombs, providing valuable insights into the daily life and culture of the people who lived there.",🏛️,"- Submerged ancient city located off the coast of southern Laconia in Greece
-- Believed to be one of the oldest submerged cities in the world, dating back to the Bronze Age
-- Ruins of the city include streets, buildings, and tombs
-- Provides valuable insights into the daily life and culture of the people who lived there"
-Port Royal,3,3,Sunken Cities,Port Royal is an underwater city that is part of a larger category of underwater worlds. It is a fictional location often found in sci-fi and fantasy stories.,🏰,"- A sunken city located underwater
-- A fictional location commonly found in sci-fi and fantasy stories
-- A popular location in pirate-themed media
-- A location that was historically known for its pirate activity
-- A place that was destroyed by an earthquake and sank into the sea"
-Mu,3,3,Sunken Cities,Mu is a mythical lost city that is believed to have sunk beneath the ocean. It is a popular concept in various mythologies and is often associated with Atlantis.,🌊,"- Sunken Cities
-- Underwater Worlds
-- Sci-fi and Fantasy Biomes
-- Mythical Lost City
-- Sunk Beneath the Ocean
-- Popular Concept in Various Mythologies
-- Often Associated with Atlantis"
-Giant Kelp,3,3,Kelp Forests,Giant Kelp is a type of seaweed that can grow up to 100 feet in length and is found in underwater kelp forests. It plays an important role in marine ecosystems by providing habitat and food for a variety of species.,🌱,"- Underwater kelp forests
-- Seaweed that can grow up to 100 feet in length
-- Habitat for marine species
-- Food source for marine species"
-Cold Seeps,7,3,Underwater Volcanoes,"Cold seeps are areas on the ocean floor where methane, hydrogen sulfide, and other hydrocarbons seep out of the seafloor. These seeps support unique ecosystems of chemosynthetic organisms, such as tube worms and clams, that rely on these compounds for energy instead of sunlight.",🌊💨💧💀,"- Tube worms
-- Clams
-- Methane seeping out of the seafloor
-- Hydrogen sulfide seeping out of the seafloor
-- Chemosynthetic organisms"
-Black Smokers,7,3,Underwater Volcanoes,"Black smokers are hydrothermal vents located on the ocean floor that release superheated water and minerals, creating a plume of black smoke. They are often found near underwater volcanoes and can support unique ecosystems due to their high temperatures and chemical concentrations.",🌋,"- Hydrothermal vents releasing superheated water and minerals
-- Plumes of black smoke rising from the vents
-- Underwater volcanoes located near the vents
-- Unique ecosystems supported by high temperatures and chemical concentrations at the vents."
-Seamounts,4,3,Underwater Volcanoes,Seamounts are underwater mountains that rise from the ocean floor but do not reach the surface. They are formed by volcanic activity and can be found in all of the world's oceans. Seamounts are known for their unique ecosystems and diverse marine life.,🌋,"- Davidson Seamount off the coast of California, USA
-- Emperor Seamounts in the Pacific Ocean
-- Atlantis Bank in the Indian Ocean
-- Bowie Seamount in the Gulf of Alaska
-- Koko Seamount in the South Pacific Ocean"
-White Smokers,3,3,Underwater Volcanoes,"White Smokers are hydrothermal vents located on the ocean floor that emit high-temperature, mineral-rich fluids. They are named after the white plumes of minerals that are visible in the surrounding water. These vents are one of the most extreme environments on Earth and are home to unique and often bizarre forms of life that have adapted to survive in the harsh conditions.",🌋,"- Hydrothermal vents emitting high-temperature, mineral-rich fluids on the ocean floor
-- White plumes of minerals visible in the surrounding water
-- Extreme environment on Earth
-- Home to unique and often bizarre forms of life
-- Harsh conditions requiring adaptation for survival"
-Submarine Canyons,3,3,Underwater Volcanoes,"Submarine canyons are steep-sided valleys or channels that are found on the seafloor, typically formed by the erosion of underwater currents and sediment movements. These canyons can be several kilometers deep and can serve as important habitats for a variety of marine organisms.",🌊,"- Monterey Canyon off the coast of California, which is over 11 kilometers long and up to 1.5 kilometers deep
-- Whittard Canyon in the northeast Atlantic, which is home to a diverse range of deep-sea corals and other marine life
-- Kaikoura Canyon off the coast of New Zealand, which is known for its rich biodiversity and important role in local fisheries
-- Hudson Canyon off the coast of New York, which has been studied for its potential as a site for renewable energy generation 
-- Pribilof Canyon in the Bering Sea, which is a key habitat for fish and other marine organisms that support commercial and subsistence fisheries in the region."
-Subglacial Lakes,3,3,Ice Worlds,"Subglacial lakes are bodies of water that are located underneath glaciers or ice sheets. They are typically isolated from the outside world and are often considered extreme environments due to their cold temperatures and lack of sunlight. These lakes are of interest to scientists as they can provide insights into the potential for life in other extreme environments, as well as the history of the Earth's climate.",🌨️,"- Lake Vostok in Antarctica, which is one of the largest subglacial lakes and has been isolated from the outside world for millions of years
-- Mercer Subglacial Lake, also in Antarctica, which was discovered in 2007 and is believed to be connected to a network of other subglacial lakes
-- Subglacial Lake Whillans in West Antarctica, which was drilled into by a team of scientists in 2013 and found to contain microbial life despite its extreme conditions"
-Arctic Oceans,3,3,Ice Worlds,"The Arctic Oceans are a biome located at the top of the Earth, consisting of icy waters and floating ice sheets. This biome is home to a variety of unique and adapted marine life, including polar bears, walruses, and narwhals.",🐳 (whale),"- Icy waters
-- Floating ice sheets
-- Polar bears
-- Walruses
-- Narwhals"
-Trenches,6,3,Abyssal Plains,"Trenches are deep, narrow valleys on the ocean floor that are formed by tectonic activity. They are some of the deepest parts of the Earth's oceans and are characterized by extreme pressure, darkness, and cold temperatures. Trenches are home to a variety of unique and often bizarre species of deep-sea creatures that have adapted to survive in these harsh environments.",🐙,"- Mariana Trench, the deepest known part of the world's oceans, with a depth of over 36,000 feet
-- Challenger Deep, a section of the Mariana Trench that is the deepest part of the Earth's oceans
-- Hadal Zone, the area of the ocean that includes trenches and other deep-sea environments
-- Abyssobrotula galatheae, a species of fish found in the trenches that has evolved to have transparent skin, allowing it to blend in with its surroundings
-- Abyssal gigantism, a phenomenon where deep-sea creatures in the trenches grow to be much larger than their shallow-water counterparts"
-Hydrothermal Vents,6,3,Abyssal Plains,"Hydrothermal vents are openings on the ocean floor where hot, mineral-rich water escapes from the Earth's crust. These vents are home to unique and diverse ecosystems that thrive in extreme conditions, including bacteria, tube worms, and other organisms that rely on chemosynthesis rather than photosynthesis for energy.",🌋,"- Black smoker chimneys, which are tall structures formed by the minerals and metals that are deposited as the hot water from the vents meets the cold seawater.
-- Giant tube worms, which can grow up to 2 meters long and have a bright red plume that they use to absorb nutrients from the water.
-- Riftia pachyptila, a type of tube worm that lacks a mouth and digestive system and instead relies on symbiotic bacteria to break down the minerals in the water and provide it with nutrients.
-- Blind crabs, which have lost their eyesight over time due to the darkness of the vents and have adapted to survive in high-pressure and high-temperature environments.
-- Vent mussels, which have developed a unique way of filtering out the minerals and metals from the vent water and using them to build their shells."
-Cold Seeps,6,3,Abyssal Plains,"Cold seeps are areas on the ocean floor where methane, hydrogen sulfide, and other hydrocarbons seep out of the seafloor. These seeps support unique ecosystems of chemosynthetic organisms, such as tube worms and clams, that rely on these compounds for energy instead of sunlight.",🌊💨💧💀,"- Tube worms
-- Clams
-- Methane seeping out of the seafloor
-- Hydrogen sulfide seeping out of the seafloor
-- Chemosynthetic organisms"
-Seamounts,5,3,Abyssal Plains,Seamounts are underwater mountains that rise from the ocean floor but do not reach the surface. They are formed by volcanic activity and can be found in all of the world's oceans. Seamounts are known for their unique ecosystems and diverse marine life.,🌋,"- Davidson Seamount off the coast of California, USA
-- Emperor Seamounts in the Pacific Ocean
-- Atlantis Bank in the Indian Ocean
-- Bowie Seamount in the Gulf of Alaska
-- Koko Seamount in the South Pacific Ocean"
-Abyssal Mountains,5,3,Abyssal Plains,"Abyssal Mountains are underwater mountains or ridges that rise from the ocean floor in deep sea environments, typically found in the abyssal zone. They are a part of the Earth's oceanic crust and can reach heights of several thousand meters. These mountains are characterized by their steep slopes, rugged terrain, and volcanic activity, and are home to a variety of unique deep-sea creatures.",🌊🏔️,"- The Mid-Atlantic Ridge, which extends for thousands of miles through the Atlantic Ocean and is home to numerous abyssal mountains and ridges.
-- The Mariana Trench, which is the deepest part of the ocean and is surrounded by abyssal mountains that rise up from the ocean floor.
-- The East Pacific Rise, which is a series of underwater mountains and ridges that runs along the eastern edge of the Pacific Ocean. 
-- The Explorer Ridge, which is a chain of underwater volcanoes and mountains located off the coast of British Columbia, Canada.
-- The South Sandwich Islands, which are a group of volcanic islands located in the South Atlantic Ocean and are surrounded by abyssal mountains and ridges."
-Abyssal Hills,5,3,Abyssal Plains,"Abyssal hills are underwater geological formations that rise up from the abyssal plains, creating hilly terrain in the deep ocean depths.",🌊🏔️,"- The Mid-Atlantic Ridge, which is a series of underwater mountains and ridges that rise up from the abyssal plains, creating a hilly terrain in the middle of the Atlantic Ocean.
-- The Aleutian Trench, which is a deep ocean trench located off the coast of Alaska that is surrounded by abyssal hills.
-- The Mariana Trench, which is the deepest part of the ocean and is surrounded by abyssal hills that rise up from the abyssal plains."
-Plane Of Water,3,3,Elemental Planes,"The Plane of Water is a realm that exists within the Elemental Planes, characterized by its vast oceans, powerful currents, and aquatic creatures. It is a magical realm that is often explored in sci-fi and fantasy settings, and is one of the many unique biomes that can be encountered in these types of stories.",🌊,"- The Leviathan, a massive sea creature that serves as a guardian and protector of the Plane of Water. 
-- The City of Glass, an underwater metropolis that is home to a variety of aquatic races and cultures. 
-- The Coral Forests, a lush and vibrant ecosystem of coral reefs and sea plants that provide a home and food source for countless sea creatures. 
-- The Vortex, a powerful whirlpool that serves as a gateway between the Plane of Water and other elemental planes. 
-- The Sunken Ruins, ancient structures and artifacts from civilizations long past, now submerged beneath the ocean's depths."
-Plane Of Fire,3,3,Elemental Planes,"The Plane of Fire is a magical realm characterized by intense heat, flames, and volcanic activity. It is one of the Elemental Planes, which are a subset of sci-fi and fantasy biomes.",🔥,"- A landscape dominated by rivers of lava flowing through fields of fire and ash
-- A towering volcano spewing molten rock and ash into the sky
-- A city built entirely of flame-resistant materials, with walls of obsidian and roofs of metal
-- Creatures made entirely of flames, such as fire elementals or salamanders, roaming the landscape
-- Powerful fire magic that can incinerate entire armies or reshape the landscape at will"
-Plane Of Earth,3,3,Elemental Planes,The Plane of Earth is a realm within the Elemental Planes that is often included in sci-fi and fantasy biomes. It is a distinct land that is inhabited by creatures and entities that are unique to this realm.,🌳,"- Caverns filled with gems and minerals
-- Underground tunnels and caves
-- Massive mountains and hills
-- Elemental creatures made of stone and earth
-- Golems and other constructs made of stone or clay
-- Earthquakes and other natural disasters related to the earth
-- Powerful elemental magic related to the manipulation of the earth and soil
-- Underground cities and civilizations
-- Giants and other massive creatures that dwell within the earth"
-Plane Of Air,3,3,Elemental Planes,"The Plane of Air is a realm within the Elemental Planes, characterized by endless winds and storms, and inhabited by elemental creatures of air.",💨,"- Air elementals, such as djinn and sylphs, are native to the Plane of Air and can be encountered there.
-- The Plane of Air is often depicted as a vast expanse of open sky, with floating islands and whirlwinds dotting the landscape.
-- Many powerful spells and magical items draw upon the energy of the Plane of Air, such as the iconic spell Fly.
-- The Plane of Air is sometimes associated with the cardinal direction of east, and is said to be the home of gods and goddesses of air and wind.
-- Adventurers may travel to the Plane of Air through portals or magical transportation, and face challenges such as navigating the treacherous winds and avoiding attacks from air elementals."
-Surreal Landscapes,3,3,Dreamscapes,"Surreal landscapes are imagined or fantastical environments that defy the laws of reality, often featuring unusual or impossible elements. They may include dreamlike imagery or illogical combinations of objects, and are often found within the genre of sci-fi and fantasy.",🌌,"- Salvador Dali's ""The Persistence of Memory"" painting depicting melting clocks in a barren landscape
-- The floating island of Laputa in Jonathan Swift's ""Gulliver's Travels""
-- The psychedelic and surreal imagery in Lewis Carroll's ""Alice's Adventures in Wonderland""
-- The ""Upside Down"" world in the TV show ""Stranger Things""
-- The twisted and distorted landscapes in the video game ""Silent Hill""
-- The surreal and dreamlike world of the movie ""Pan's Labyrinth""
-- The otherworldly and strange environments in the book series ""The Chronicles of Narnia""
-- The mind-bending and impossible architecture in the movie ""Inception"""
-Heavens,7,3,Celestial Realms,"Heavens refer to the celestial realms or the abode of the gods and other divine beings. It is a concept commonly found in various mythologies and religions across cultures. It is often associated with the afterlife, paradise, or a realm of blissful existence beyond the mortal world.",🌌,"- The Christian concept of Heaven as the afterlife destination for the righteous
-- The Chinese concept of Tian as the highest realm of existence, inhabited by deities and ancestors
-- The Norse concept of Asgard as the home of the gods and goddesses
-- The Hindu concept of Svarga as a realm of pleasure and reward for virtuous souls
-- The Greek concept of Mount Olympus as the dwelling place of the Olympian gods and goddesses"
-Underworlds,3,3,Celestial Realms,"Underworlds are fictional locations that exist below the surface of the earth or in other dimensions, often associated with death or the afterlife. They are typically depicted as dark and mysterious places, inhabited by supernatural creatures and ruled by powerful entities. As a subset of sci-fi and fantasy biomes, they offer a rich and imaginative setting for storytelling and world-building.",🔮,"- The Greek mythological underworld of Hades, ruled by the god of the same name and populated by shades of the dead.
-- The Underworld in the video game franchise ""Warcraft"", a dark and treacherous realm inhabited by various demons and undead creatures.
-- The Upside Down in the TV series ""Stranger Things"", a parallel dimension that mirrors the real world but is corrupted by a malevolent force.
-- The Underworld in the ""Percy Jackson and the Olympians"" book series, a realm inhabited by monsters and the Greek god of the dead, Hades.
-- The Underworld in the comic book series ""Hellboy"", a mystical realm that serves as a battleground for supernatural beings and their factions."
-Neon-Lit Streets,5,3,Cyberpunk Cities,"Neon-lit streets are streets characterized by bright neon lights, often associated with cyberpunk cities. They create a futuristic and otherworldly atmosphere, and are commonly used in science fiction and fantasy settings to enhance the visual aesthetic of a fictional world.",🌃,"- The iconic neon-lit streets of Blade Runner, with towering skyscrapers and flying cars.
-- The bustling neon-lit streets of Tokyo at night, with vibrant signs advertising all sorts of businesses.
-- The neon-lit alleyways of the video game Cyberpunk 2077, with holographic advertisements and augmented reality billboards."
-Deep Space Stations,3,3,Space Stations,"Deep Space Stations are advanced facilities designed to support long-term human habitation in outer space. They are typically located far away from the Earth, in deep space, and are equipped with specialized systems to provide life support, communication, and scientific research capabilities. Often, these stations are used to monitor and explore the universe beyond our solar system, making them crucial components of future space exploration missions.",🛰️,"- International Space Station (ISS): a habitable artificial satellite in low Earth orbit that serves as a microgravity and space environment research laboratory
-- Deep Space Gateway (DSG): a proposed lunar-orbiting space station that would serve as a staging point for crewed missions to Mars and other deep space destinations
-- Tiangong Space Station: a Chinese space station currently under construction in low Earth orbit, intended to be completed and operational by 2022
-- Mars Desert Research Station: a simulated Mars habitat and research facility located in Utah, USA, designed to investigate the challenges of human survival on the Red Planet
-- Mir: a Soviet/Russian space station that operated in low Earth orbit from 1986 to 2001, serving as a laboratory for scientific research, technology development, and human spaceflight experiments."
-Artificial Habitats,3,3,Space Stations,"Artificial habitats are human-made environments designed to sustain life and provide a habitat for organisms. These habitats can be found in space stations, underwater structures, and other locations where natural habitats are unavailable or unsuitable. They are designed to mimic the conditions necessary for life, including air, water, and food sources. Artificial habitats can be used for scientific research, colonization efforts, or simply as a means of supporting life in extreme environments.",🌆,"- Space stations
-- Underwater structures
-- Biosphere 2 (a research facility in Arizona designed to simulate a self-sustaining ecosystem)
-- Dome homes (structures designed to be self-sufficient and sustainable for living)
-- Green roofs (rooftops covered in vegetation to provide a habitat for plants and animals)"
-Otherworldly Realms,3,3,Alternate Dimensions,"Otherworldly Realms refer to imaginary or fictional worlds that exist beyond our own reality. These realms may be accessed through alternate dimensions or virtual realities and are often found within the genres of science fiction and fantasy. They typically contain unique environments, creatures, and cultures that differ greatly from our own world.",🛸,"- The world of Middle Earth in J.R.R. Tolkien's ""The Lord of the Rings"" trilogy
-- The world of Pandora in James Cameron's ""Avatar"" movie
-- The Upside Down in the TV series ""Stranger Things""
-- The world of Narnia in C.S. Lewis' ""The Chronicles of Narnia"" series
-- The world of Westeros in George R.R. Martin's ""Game of Thrones"" series"
-Ice Giant Planets,3,3,Ice Planets,"Ice Giant Planets are a type of planet that are primarily composed of icy materials such as water, methane, and ammonia. They are typically larger than Earth and have thick atmospheres, with some having a rocky core. These planets are located in the outer regions of solar systems and are often referred to as ""gas giants"" due to their similarities with Jupiter and Saturn.",🪐,"- Uranus: the seventh planet from the sun, it is the third largest planet in our solar system and is known for its extreme tilt, which causes it to have extreme seasons and a unique magnetic field.
-- Neptune: the eighth planet from the sun, it is the fourth largest planet in our solar system and is known for its bright blue color and strong winds, which are the fastest in the solar system.
-- Gliese 436 b: an exoplanet located 33 light years away from Earth, it is a Neptune-sized planet with a rocky core and a thick layer of ice and hydrogen. It is also known for its high surface temperature, which is caused by its close proximity to its host star.
-- HD 209458 b: another exoplanet, located 159 light years away from Earth, it is a Jupiter-sized planet with a rocky core and a thick layer of gas and ice. It is also known for being the first exoplanet to have its atmosphere detected through observations of its transit across its host star."
-Glacial Ice Planet,3,3,Ice Planets,"A glacial ice planet is a type of alien planet characterized by a frozen surface and atmosphere, with large quantities of ice and snow covering the landscape. These planets are typically extremely cold and inhospitable to most forms of life.",🌬️,"- Hoth from Star Wars, which features a barren, windswept landscape covered in snow and ice
-- LV-223 from Prometheus, which has a frozen, mountainous terrain and icy lakes
-- Delta Vega from Star Trek, which is a frozen wasteland with towering ice formations and harsh blizzards
-- Nevarro from The Mandalorian, which is a desolate, icy planet with icy canyons and frozen rivers
-- Ilum from Star Wars: The Clone Wars, which is a planet covered in glittering ice crystals and home to a Jedi temple."
-Saturn-Like Gas Giants,6,3,Gas Giants,"Saturn-Like Gas Giants are a type of planet that have a thick atmosphere composed mostly of hydrogen and helium gas, similar to the planet Saturn in our solar system. They are typically large and have a low density, and are often found in the outer regions of a star system.",🪐,"- Jupiter
-- Saturn
-- Uranus
-- Neptune"
-Jupiter-Like Gas Giants,6,3,Gas Giants,"Jupiter-like gas giants are a type of planet characterized by their large size, low density, and lack of a solid surface. They are composed primarily of hydrogen and helium, and often have a complex system of moons and rings. These planets are common in our galaxy and beyond, and are a key area of study in exoplanet research.",🪐,"- Jupiter, the largest planet in our solar system
-- Saturn, known for its iconic rings and numerous moons
-- Uranus, which is tilted on its side and has a unique ring system
-- Neptune, the farthest planet from the Sun and known for its strong winds and blue color
-- HD 209458 b, an exoplanet with a radius 1.35 times that of Jupiter and the first planet to have its atmosphere directly observed."
-Uranus-Like Gas Giants,5,3,Gas Giants,"Uranus-like gas giants are a type of alien planet characterized by their composition, which consists mainly of hydrogen, helium, and methane gas. They are typically located in the outer regions of solar systems and have a blue-green color due to the absorption of red light by their methane atmosphere. Uranus-like gas giants do not have a solid surface and are instead composed of layers of gas and ice.",🪐,"- Uranus
-- Neptune
-- Gliese 436 b
-- HD 209458 b
-- GJ 436 b"
-Neptune-Like Gas Giants,5,3,Gas Giants,"Neptune-like gas giants are a type of planet that share similar characteristics with Neptune, such as a gaseous composition, thick atmosphere, and lack of a solid surface. They are typically found in the outer regions of a solar system and are a common type of exoplanet discovered by astronomers.",🪐,"- HAT-P-11b: This exoplanet is located about 120 light years away from Earth and is considered a Neptune-like gas giant due to its size and gaseous composition. It orbits a star that is smaller and cooler than our Sun.
-- Kepler-51b: This exoplanet is located about 850 light years away from Earth and is also considered a Neptune-like gas giant. It has a thick atmosphere and orbits a star that is similar in size and temperature to our Sun.
-- GJ 436b: This exoplanet is located about 33 light years away from Earth and is considered a ""warm Neptune"" due to its size and proximity to its host star. It is also a Neptune-like gas giant with a thick atmosphere and no solid surface.
-- HD 209458b: This exoplanet, also known as Osiris, is located about 150 light years away from Earth and is considered a hot Jupiter. However, it is still classified as a Neptune-like gas giant due to its gaseous composition and lack of a solid surface. It has a very thick atmosphere that is being stripped away by its host star's radiation.
-- WASP-107b: This exoplanet is located about 200 light years away from Earth and is considered a sub-Neptune or super-Earth due to its size. However, it is still classified as a Neptune-like gas giant due to its gaseous composition and lack of a"
-Rocky Planets,3,3,Desert Planets,"Rocky planets are terrestrial planets that are primarily composed of rock or metal. They are typically characterized by solid surfaces, thin atmospheres, and high temperatures due to their proximity to their host star. They are a common type of planet in our solar system and throughout the universe.",🪐,"- Earth
-- Mars
-- Venus
-- Mercury 
-- Moon (not a planet, but a rocky satellite of Earth)"
-Barren Planets,3,3,Desert Planets,"Barren planets are celestial bodies that lack significant amounts of liquid water and have little to no vegetation or other signs of life. They may have extreme temperatures, harsh weather conditions, and an inhospitable environment for most forms of life. These planets may be rocky or gaseous and are often depicted in science fiction and fantasy stories as desolate, dangerous places to explore.",🌑,"- Tatooine from Star Wars
+- Westeros from Game of Thrones
+- The Matrix from The Matrix trilogy
+- Wonderland from Alice's Adventures in Wonderland
+- The Dark Tower from The Dark Tower series"
+Ice Giant Planets,3,3,Ice Planets,"Ice giant planets are a type of alien planet characterized by their composition of mainly ice and rock. They are generally larger than terrestrial planets but smaller than gas giants. In sci-fi and fantasy biomes, ice giant planets often serve as a setting for alien civilizations or as a challenge for space-faring characters due to their extreme climate and environment.",🪐💎❄️,"- Hoth in the Star Wars universe
+- Jadis, the White Witch's world in The Chronicles of Narnia
+- Niflheim, the icy realm of Norse mythology
+- Altair IV in the film Forbidden Planet
+- Korma, an ice giant planet in the video game Mass Effect
+- Helheim, the icy underworld in Norse mythology."
+Glacial Ice Planet,3,3,Ice Planets,"A Glacial Ice Planet is a type of Alien Planet characterized by its frozen and icy terrain. It is a popular sci-fi and fantasy biome that often serves as a hostile environment for characters to navigate through. Glacial Ice Planets are often portrayed as desolate and inhospitable, with harsh weather conditions and limited resources. They are a common setting for stories involving survival, exploration, and adventure, and provide a unique backdrop for sci-fi and fantasy narratives.",🌬️ (Wind Face emoji),"- Hoth from Star Wars: The Empire Strikes Back, which is a frozen planet covered in ice and snow with harsh blizzards and sub-zero temperatures.
+- The planet of Ilum from the Star Wars expanded universe, which is an ice-covered world inhabited by sentient crystals and used by the Jedi Order as a source of lightsaber crystals.
+- The planet of Delta Vega from Star Trek, which is a frozen wasteland with freezing temperatures and high levels of radiation, making it a difficult environment to survive in."
+Saturn-Like Gas Giants,6,3,Gas Giants,Saturn-like gas giants are a type of massive planet characterized by their thick atmosphere primarily composed of hydrogen and helium. They are often depicted in sci-fi and fantasy biomes as inhabitable worlds with floating cities or as hostile environments with extreme weather conditions. These gas giants are typically larger than Earth and have numerous moons orbiting around them.,🪐,"- The planet Saturn itself, with its iconic ring system and dozens of moons.
+- The gas giant Bespin in the Star Wars universe, which features a floating city called Cloud City.
+- The gas giant Caladan in Frank Herbert's Dune series, which is the ancestral homeworld of the House Atreides and has a complex ecosystem of floating organisms."
+Jupiter-Like Gas Giants,6,3,Gas Giants,"Jupiter-like gas giants are a type of alien planet characterized by their large size, low density, and thick atmosphere primarily composed of hydrogen and helium. These planets are often depicted in science fiction and fantasy as hostile environments, with extreme weather patterns and dangerous atmospheric phenomena. They are a popular setting for space opera and adventure stories, offering a sense of grandeur and wonder that captures the imagination of readers and viewers alike.",🪐,"- Jupiter from our own solar system is the primary example of a Jupiter-like gas giant, with a diameter of 86,881 miles and a massive storm known as the Great Red Spot.
+- The gas giant planet Bespin from the Star Wars universe is another example, with a breathable atmosphere and a floating city known as Cloud City.
+- The planet Helium Prime from the video game series Mass Effect is also a Jupiter-like gas giant, with a complex system of floating cities and a dangerous atmosphere that requires specialized equipment for survival."
+Uranus-Like Gas Giants,5,3,Gas Giants,"Uranus-like gas giants are a type of alien planet characterized by their composition of mostly gas and ice, with a relatively small rocky core. These planets have a thick atmosphere that is often composed of hydrogen, helium, and methane. Due to their unique composition and appearance, Uranus-like gas giants are frequently featured in sci-fi and fantasy biomes, often depicted as mysterious and otherworldly destinations for space travelers.",🪐,"- Pandora, the gas giant featured in James Cameron's ""Avatar""
+- Hoth, the ice planet and gas giant featured in the ""Star Wars"" franchise
+- LV-426, the gas giant moon where the Xenomorphs were discovered in the ""Alien"" franchise
+- Gaspra, a real-life asteroid that is believed to be a remnant of a Uranus-like gas giant's core
+- The gas giants in the video game ""Mass Effect"", such as Tuchanka and Palaven."
+Neptune-Like Gas Giants,5,3,Gas Giants,"Neptune-like gas giants are a type of alien planet that are characterized by their large size, made up mostly of gas and ice, and their distance from their host star. These planets are often featured in science fiction and fantasy biomes, where they are depicted as mysterious and inhospitable worlds filled with exotic creatures and dangerous environments. The concept of Neptune-like gas giants has captured the imagination of writers and filmmakers, inspiring countless stories and depictions of these fascinating and otherworldly worlds.",🪐,"- Hoth in the Star Wars universe is a gas giant with a harsh, icy environment, known for its Tauntauns and the battle between the Rebel Alliance and the Empire.
+- Yuggoth, also known as Pluto, in H.P. Lovecraft's Cthulhu Mythos, is a gas giant inhabited by the Elder Things and the Mi-go, two of the most iconic alien races in the author's works.
+- Gaspra, a real-life asteroid that was visited by the Galileo spacecraft in 1991, is believed to be a remnant of a Neptune-like gas giant that was destroyed by a collision with another celestial body."
+Rocky Planets,3,3,Desert Planets,"Rocky planets are a type of celestial body characterized by their solid and rocky surfaces. They are often depicted in science fiction and fantasy as barren and harsh environments, with little to no vegetation or water. These planets are a subset of the broader category of alien planets, which are often used as settings for stories in the science fiction and fantasy genres. The rocky terrain and extreme conditions of these planets make them popular backdrops for tales of adventure and survival.",🪐,"- Tatooine from Star Wars
 - Arrakis from Dune
-- LV-426 from Aliens
-- Mars in The Martian
-- Crait from Star Wars: The Last Jedi
-- Jakku from Star Wars: The Force Awakens
+- LV-426 from Alien
+- Mercury in The Expanse
+- Mars in The Martian"
+Barren Planets,3,3,Desert Planets,"Barren planets are a type of planet that lacks significant vegetation or water, often making them inhospitable for life. They are a common subset of alien planets found in science fiction and fantasy biomes, serving as a backdrop for interstellar travel and exploration. Barren planets can be used to emphasize the isolation and danger of space travel, or to showcase the resilience of alien life forms that can survive in harsh environments.",🌑,"- Tatooine in Star Wars
+- Arrakis (Dune) in the Dune series by Frank Herbert
+- LV-426 in Aliens
 - Mercury in Doctor Who
-- Pluto in Cowboy Bebop
-- Ego in Guardians of the Galaxy Vol. 2
-- Krypton in Superman"
-Arid Planets,3,3,Desert Planets,"Arid planets are planets that have a dry, barren landscape with little or no water or vegetation. These planets typically have extreme temperature variations, with scorching hot days and freezing cold nights. Arid planets are often depicted in science fiction as hostile environments that are difficult to survive in, and are sometimes home to exotic alien life forms.",🔥,"- Tatooine in the Star Wars franchise
-- Arrakis in Frank Herbert's Dune series
-- Mars in the movie The Martian
-- LV-426 in the movie Alien
-- Jakku in the movie Star Wars: The Force Awakens"
-Hydrocarbon Oceans,4,3,Ocean Planets,"Hydrocarbon oceans are bodies of liquid composed primarily of hydrocarbons, such as methane and ethane, instead of water. These oceans are found on ocean planets, which are a type of alien planet characterized by their vast bodies of liquid.",🌊🛢️,"- Titan, the largest moon of Saturn, has hydrocarbon seas and lakes on its surface.
-- The exoplanet Kepler-62e is believed to have a hydrocarbon ocean covering its entire surface.
-- The hypothetical planet Gliese 1214 b is thought to have a hot, dense water vapor atmosphere above a layer of liquid water and a layer of molten rock, with a possible layer of hydrocarbons at the bottom."
-Saline Oceans,3,3,Ocean Planets,Saline oceans are bodies of water that contain high levels of salt and are found on ocean planets. These oceans are a subset of alien planets and are part of the sci-fi and fantasy biomes genre.,🌊,"- Europa, one of Jupiter's moons, is believed to have a subsurface saline ocean under its icy crust.
-- The planet Gliese 581g, located in the constellation Libra, is a potentially habitable planet with a high likelihood of having a saline ocean.
-- The planet K2-18b, located in the constellation Leo, is another potentially habitable planet with a confirmed subsurface saline ocean."
-Acidic Oceans,3,3,Ocean Planets,"Acidic oceans refer to bodies of water with a high concentration of hydrogen ions, resulting in a low pH level. This occurs when carbon dioxide is absorbed by seawater, creating carbonic acid. The increased acidity can have negative impacts on marine life, such as disrupting the growth of shells and skeletons.",🌊💀,"- Coral reefs becoming bleached and dying due to the increased acidity of the water.
-- Oysters and other shellfish struggling to form their shells, leading to a decline in their populations.
-- Fish species migrating to areas with less acidic water, disrupting the balance of ecosystems.
-- Increased levels of carbon dioxide in the oceans leading to the acidification of water, making it difficult for certain species to survive. 
-- Acidic oceans can also lead to the loss of biodiversity and the collapse of marine food webs."
-Tropical Rainforest Planets,5,3,Jungle Planets,"Tropical Rainforest Planets are a type of Alien Planet characterized by lush, dense jungles filled with a variety of exotic plant and animal life. They are a popular setting in science fiction and fantasy, often serving as the home of indigenous species or as a challenging environment for human colonizers.",🌴,"- Pandora from the movie Avatar
+- Ragnarok in Mass Effect
+- Kharax in StarCraft II"
+Arid Planets,3,3,Desert Planets,"Arid planets are a type of planet characterized by extremely dry and barren environments. They are often depicted in science fiction and fantasy as inhospitable worlds with little to no water or vegetation. These planets are a subset of the broader category of alien planets, which are a staple of sci-fi and fantasy biomes. Arid planets are often used as a setting for stories that explore themes of survival, resource scarcity, and the limits of human endurance.",🌵,"- Tatooine from Star Wars
+- Arrakis/Dune from Dune
+- Mars from The Martian
+- Jakku from Star Wars
+- Mercury from Doctor Who"
+Hydrocarbon Oceans,4,3,Ocean Planets,"Hydrocarbon oceans are bodies of liquid composed of hydrocarbons such as methane and ethane, found on certain Alien Planets. They are a unique and exotic biome often featured in science fiction and fantasy, providing the backdrop for tales of adventure and exploration. These oceans are a testament to the incredible diversity of life and environments that can exist beyond our own planet.",🌊💧🪐👽🚀🌌♨️🌡️🔥,"- The planet Titan in the book ""Titan"" by Stephen Baxter, which features hydrocarbon oceans composed of methane and ethane.
+- The planet Kelvyn in the book ""The Legacy of Heorot"" by Larry Niven, Jerry Pournelle, and Steven Barnes, which features hydrocarbon oceans composed of various hydrocarbons, including some with toxic properties.
+- The planet Pandora in the movie ""Avatar"", which features hydrocarbon oceans composed of a substance called ""hexapede jelly""."
+Saline Oceans,3,3,Ocean Planets,"Saline oceans are bodies of saltwater found on ocean planets, which are a subset of alien planets in the realm of sci-fi and fantasy biomes. These oceans differ from Earth's oceans by having much higher salt concentrations, creating a unique environment for alien life forms to thrive in. In sci-fi and fantasy literature, saline oceans often serve as a mysterious and dangerous setting for characters to explore.",🌊,"- The planet Aridus, where the entire surface is covered in a vast saline ocean that is home to massive, tentacled creatures that can pull entire ships under the water.
+- The moon Ithor, where the saline ocean is constantly churned by massive, hurricane-like storms that make it nearly impossible for any ships to navigate safely.
+- The planet Oceana, where the saline ocean is so thick with salt that it forms massive salt crystals on the surface, creating a glittering, otherworldly landscape.
+- The planet Hydros, where the saline ocean is home to a race of intelligent, amphibious creatures who have built sprawling underwater cities and wield powerful technology.
+- The planet Atlantica, where the saline ocean is home to a terrifying monster known as the Leviathan, a colossal beast that can swallow entire ships whole."
+Acidic Oceans,3,3,Ocean Planets,"Acidic oceans are bodies of water with a high concentration of hydrogen ions, resulting in a low pH level. This can occur naturally due to volcanic activity or as a consequence of human activity, such as carbon emissions. In the realm of sci-fi and fantasy biomes, acidic oceans can be found on ocean planets and other alien worlds, creating a unique and potentially hazardous environment for characters to navigate.",🌊🔥,"- The planet Xalax, which is almost entirely covered in acidic oceans that can corrode metal and even eat away at living tissue.
+- The flagship of the alien race known as the Sulfurians, which uses a special shield to protect itself from the acidic oceans of their home planet.
+- A group of explorers on a mission to map the ocean floor of a distant world, who must contend with predators adapted to the acidic environment and unexpected geothermal vents that spew toxic gases."
+Tropical Rainforest Planets,5,3,Jungle Planets,"Tropical Rainforest Planets are fictional planets that feature dense jungles filled with exotic flora and fauna. They are a popular subset of Alien Planets in science fiction and fantasy genres, often depicted as mysterious and dangerous worlds. These planets are known for their unique ecosystems, which are vastly different from those found on Earth. They offer a rich and diverse setting for storytelling, with potential for adventure, exploration, and conflict.",🌴,"- Pandora from the movie Avatar
+- Endor from the Star Wars franchise
 - Dagobah from the Star Wars franchise
-- Kashyyyk, the home planet of the Wookiees in Star Wars
-- Yavin 4, the jungle moon that served as the Rebel Alliance's base in Star Wars
-- The planet LV-426 from the Alien franchise"
-Swampy Jungle Planets,4,3,Jungle Planets,"Swampy Jungle Planets are a type of fictional planet that are characterized by their dense, wet jungle environments. These planets are often portrayed as having a high level of biodiversity and featuring dangerous creatures and treacherous terrain. They are a popular setting for science fiction and fantasy stories, and often serve as the home for alien civilizations or mysterious ruins.",🌴,"- Dagobah, the swampy jungle planet in the Star Wars universe where Yoda lived in exile.
-- Pandora, the lush and dangerous planet in the movie Avatar, which features a mix of swamps, rainforests, and floating mountains.
-- LV-426, the hostile and creepy planet from the movie Aliens, which has a dense jungle and is infested with xenomorphs.
-- Aja-Kura, a swampy jungle planet from the video game Mass Effect, which is home to the vorcha, a violent and primitive alien race.
-- Zonama Sekot, a mysterious and sentient planet from the Star Wars Expanded Universe, which is covered in a dense jungle and can travel through space."
-Desert Jungle Planets,3,3,Jungle Planets,"Desert Jungle Planets are a type of fictional planet that combines the lush and verdant environment of a classic jungle planet with the harsh and barren landscape of a desert. They are a subset of Alien Planets and are often featured in science fiction and fantasy stories, offering a unique and exotic backdrop for space-faring adventures.",🌵🌴🪐,"- Tatooine in Star Wars: A New Hope is a classic example of a Desert Jungle Planet, with its sandy deserts dotted with lush oases and towering mesas.
-- The planet Arrakis in Frank Herbert's Dune series is another iconic example, with its barren wastelands and deadly sandworms coexisting with the lush spice-producing plants and the native Fremen people who call it home.
-- The planet Pandora in James Cameron's Avatar is a more recent example, with its lush rainforests and floating mountains juxtaposed against the harsh desert landscape of the Hell's Gate mining colony.
-- The planet Jakku in Star Wars: The Force Awakens is another Desert Jungle Planet, with its sprawling deserts and ruined starships scattered throughout the landscape, as well as hidden pockets of greenery and life.
-- The planet Athas in the Dungeons & Dragons setting of Dark Sun is a post-apocalyptic Desert Jungle Planet, where the lush jungles of the past have withered away and the remaining vegetation is scarce and fiercely guarded by the surviving races."
-Deciduous Forest Planets,5,3,Forest Planets,"Deciduous Forest Planets are a type of biome found in the sci-fi and fantasy genre. These planets are characterized by their forests, which are dominated by trees that lose their leaves annually. They are a subcategory of Alien Planets, which are fictional planets that are not found in our own solar system.",🌳,"- The forest moon of Endor from Star Wars
-- Pandora, the setting of the movie Avatar
-- The planet of Kashyyyk, home to the Wookiees in Star Wars
-- The planet of Sherwood in the Doctor Who episode ""Robot of Sherwood""
-- The planet of Gethen in Ursula K. Le Guin's novel The Left Hand of Darkness."
-Tropical Forest Planets,3,3,Forest Planets,"Tropical Forest Planets are a type of biome found in science fiction and fantasy worlds characterized by lush, dense forests with a hot and humid climate. They are often home to diverse and exotic flora and fauna, and may be inhabited by intelligent or primitive alien species.",🌴,"- The forest moon of Endor in Star Wars, known for its towering trees and the Ewok species that inhabit them
-- The planet Pandora in Avatar, with its vibrant bioluminescent forests and the Na'vi people who live among them
-- The planet Dagobah in Star Wars, a swampy world covered in dense jungle where Jedi Master Yoda resides
-- The planet Kashyyyk in Star Wars, home to the Wookiee species and massive, towering trees that make up their cities
-- The planet Felucia in Star Wars, with its colorful and otherworldly plant life and dangerous predators lurking within the forests."
-Coniferous Forest Planets,3,3,Forest Planets,"Coniferous Forest Planets are a type of alien planet characterized by their vast forests dominated by coniferous trees. These planets are typically cooler and have a lower diversity of plant species compared to other forest planets. They are often depicted in science fiction and fantasy literature, movies, and video games as a setting for alien life and adventure.",🌲,"- Endor from Star Wars
-- Pandora from Avatar
+- Abydos from the Stargate franchise
+- Yoda's homeworld from the Star Wars franchise."
+Swampy Jungle Planets,4,3,Jungle Planets,"Swampy Jungle Planets are a type of Alien Planet characterized by dense, humid jungles and marshy terrain. These planets are often home to a variety of exotic and dangerous flora and fauna, making them treacherous for human exploration. As a subset of sci-fi and fantasy biomes, Swampy Jungle Planets offer a unique and otherworldly setting for science fiction and fantasy stories.",🌴,"- Dagobah from Star Wars: The Empire Strikes Back, with its murky swamps and tangled jungles, is a classic example of a Swampy Jungle Planet. The planet is home to creatures like the fierce carnivorous creature known as the Rancor and the wise Jedi Master Yoda.
+- Pandora from the movie Avatar is another example of a Swampy Jungle Planet. The planet's lush, bioluminescent forests and treacherous swamps are home to the Na'vi, a species of tall, blue-skinned humanoids, as well as a variety of dangerous predators like the viperwolves and the Thanator.
+- The planet LV-426 from the movie Alien is a Swampy Jungle Planet that is infested with deadly xenomorphs. The planet's dense, fog-shrouded forests and murky swamps provide plenty of hiding places for the creatures, making it a daunting place for the human colonists who have landed there."
+Desert Jungle Planets,3,3,Jungle Planets,"Desert Jungle Planets are a type of fictional planet that combines the characteristics of both deserts and jungles. These planets are often featured in science fiction and fantasy genres and are known for their unique and exotic flora and fauna. They offer a blend of harsh and unforgiving desert climates with the lush and dense foliage of tropical rainforests, making them a popular setting for many sci-fi and fantasy stories.",🌵🌴,"- Tatooine in the Star Wars universe is a classic example of a Desert Jungle Planet, with its sandy deserts and hidden oases of life.
+- Pandora in the movie Avatar is another example, with its harsh deserts and lush bioluminescent forests.
+- The planet Arrakis in the Dune series is a Desert Jungle Planet, with its harsh desert landscape and the dense foliage of the spice forests."
+Deciduous Forest Planets,5,3,Forest Planets,"Deciduous Forest Planets are a type of biome found in science fiction and fantasy worlds. These planets are characterized by their lush, green forests that shed their leaves seasonally. The forests are home to a diverse range of flora and fauna, including sentient and non-sentient beings. Deciduous Forest Planets are often used as settings for stories or games in the sci-fi and fantasy genres, providing a rich and immersive environment for characters and players to explore.",🌳,"- Endor (Star Wars)
+- Pandora (Avatar)
+- Sherwood (Robin Hood: Prince of Thieves)
+- The Forest Moon of Oma Ker (Star Wars: The Clone Wars)
+- The Woodland Realm (The Hobbit)"
+Tropical Forest Planets,3,3,Forest Planets,"Tropical Forest Planets are a type of Alien Planet characterized by lush vegetation and diverse flora and fauna. They are often featured in sci-fi and fantasy narratives, as they offer rich and immersive settings for storytelling. These planets may feature exotic creatures, mysterious ruins, and dangerous predators, making them a popular choice for writers and filmmakers in the genre.",🌴,"- Pandora from the movie Avatar
+- Dagobah from Star Wars
+- Endor from Star Wars
+- Abydos from the Stargate franchise
 - Kashyyyk from Star Wars
-- Sherwood Forest from Robin Hood (not an alien planet, but a fictional depiction of a coniferous forest)
-- Yggdrasil from Norse mythology (not an alien planet, but a mythical tree that connects the different worlds of Norse mythology)"
-Inferno Planets,3,3,Volcanic Planets,Inferno planets are a type of alien planet characterized by extreme volcanic activity and intense heat. They fall under the category of sci-fi and fantasy biomes and are known for their hostile and dangerous environments.,🔥,"- Mustafar, the volcanic planet seen in Star Wars Episode III: Revenge of the Sith
-- Surtur's realm, the fiery planet ruled by the eponymous demon in Marvel Comics
-- Mustafar II, a volcanic planet featured in the video game Star Wars: Jedi Fallen Order"
-Ashen Planets,3,3,Volcanic Planets,Ashen planets are a type of alien planet characterized by a volcanic landscape and a lack of vegetation or water. They are often depicted in science fiction and fantasy settings as hostile environments that are difficult for human life to survive in.,🌋,"- Mustafar from Star Wars 
-- LV-426 from the Alien franchise 
-- Vormir from the Marvel Cinematic Universe 
-- Io, one of Jupiter's moons 
-- Surtur's realm in Thor: Ragnarok 
-- Mordor from Lord of the Rings 
-- Char from the Starcraft video game series 
-- Exegol from Star Wars: The Rise of Skywalker"
-Ringworlds,7,3,Artificial Planets,Ringworlds are hypothetical megastructures in the shape of a giant ring that orbit around a star. They are characterized by their enormous size and their ability to support complex ecosystems and civilizations. They are often imagined as a solution to the problem of overpopulation or as a way to harness the energy of a star.,🪐,"- The titular Ringworld in Larry Niven's novel ""Ringworld""
-- The Halo Array in the video game franchise ""Halo""
-- The Orbitals in Iain M. Banks' ""Culture"" series 
-- The Dyson Ring in the anime series ""A Certain Scientific Railgun""
-- The Ring Station in the television show ""The Expanse"""
-Dyson Spheres,7,3,Artificial Planets,"Dyson Spheres are hypothetical megastructures that encircle a star, capturing its energy and providing power to an advanced civilization. They were first proposed by physicist Freeman Dyson in 1960 as a way to harness the energy of a star and sustain a growing population. The concept has since been explored extensively in science fiction and remains a popular topic in discussions of advanced technology and space exploration.",🌞,"- A fictional depiction of a Dyson Sphere can be found in the sci-fi novel ""Ringworld"" by Larry Niven, in which a civilization has built a megastructure around a star that provides power and living space for trillions of inhabitants.
-- In the video game ""Stellaris,"" players have the option to build a Dyson Sphere as a megastructure that provides a significant boost to their civilization's energy production.
-- The concept of a Dyson Sphere has been explored in various episodes of the sci-fi TV series ""Star Trek,"" including in ""Relics"" where the crew discovers a partially constructed Dyson Sphere."
-Shell Worlds,6,3,Artificial Planets,Shell Worlds are man-made planets that are constructed by enclosing an entire star within a massive shell or sphere structure. They are a hypothetical concept in science fiction and are typically used as a way to create habitable space for large populations. The shell provides protection from the star's radiation and allows for the creation of an artificial atmosphere and environment within the shell.,🪐,"- Ringworld from Larry Niven's Ringworld series
-- Dyson Sphere from Freeman Dyson's paper ""Search for Artificial Stellar Sources of Infrared Radiation""
-- Culture Orbital from Iain M. Banks' Culture series
-- Halo from the Halo video game franchise
-- The Worldhouse from Robert Silverberg's ""The World Inside"" novel."
-Orbital Habitats,5,3,Artificial Planets,"Orbital habitats are man-made structures designed to sustain human life in space beyond Earth's atmosphere. These habitats can serve as research stations, living quarters, or even entire cities. They can be located in orbit around planets, moons, or even asteroids. Orbital habitats are a key technology for the exploration and colonization of space.",🚀,"- Stanford torus: a proposed design for a toroidal space habitat that rotates to create artificial gravity
-- International Space Station (ISS): a real-life example of a modular orbital habitat in low Earth orbit
-- O'Neill cylinder: a cylindrical space habitat design that rotates to create artificial gravity, proposed by physicist Gerard K. O'Neill in the 1970s
-- Bernal sphere: a spherical space habitat design proposed by scientist John Desmond Bernal in the 1920s
-- Bigelow Expandable Activity Module (BEAM): a demonstration module for expandable habitat technology that was attached to the ISS in 2016."
-Terraformed Planets,4,3,Artificial Planets,"Terraformed planets are celestial bodies that have been altered through deliberate intervention to create an environment in which humans can survive. This involves transforming the planet's atmosphere, temperature, and other conditions to make it more habitable.",🌍,"- Mars in the book series ""Red Rising"" by Pierce Brown, where humans have terraformed the planet and created a society
-- The planet Pandora in the movie ""Avatar"" where humans have attempted to terraform the planet to make it habitable for humans, but have also caused destruction to the native wildlife and culture
-- The planet Reach in the ""Halo"" video game series, where humans have terraformed the planet and created a military stronghold"
-Planetoids,3,3,Artificial Planets,"Planetoids are small celestial bodies that are not considered full-fledged planets. They may be made up of rock, ice, or metal and can be found in various parts of our solar system. They are often used in science fiction as settings for stories or as a source of resources for characters.",🪐,"- Ceres, the largest object in the asteroid belt between Mars and Jupiter, is considered a planetoid due to its small size and composition.
-- Pluto, once considered the ninth planet in our solar system, is now classified as a dwarf planet and is also considered a planetoid.
-- The Kuiper Belt, a region beyond the orbit of Neptune, is home to many small planetoids, including the dwarf planet Eris.
-- In science fiction, the planetoid LV-426 from the film ""Aliens"" is a setting for the story and is depicted as a barren, rocky world.
-- In the video game ""Mass Effect 2,"" the planetoid Omega serves as a hub for smugglers and criminals in the galaxy.
-- The planetoid Krypton, the home planet of Superman, is a fictional example of a planetoid that has been destroyed."
+- Yavin 4 from Star Wars
+- Ewok Village from Star Wars
+- Felucia from Star Wars
+- Ecosystem 9 from the Halo franchise
+- Oa from the Green Lantern comics and movies."
+Coniferous Forest Planets,3,3,Forest Planets,"Coniferous Forest Planets are a type of biome found in the science fiction and fantasy genre. These planets are characterized by dense forests dominated by coniferous trees, such as pine and spruce. They are often depicted as rugged and wild, with a variety of flora and fauna unique to the planet. Coniferous Forest Planets are a popular setting in science fiction and fantasy literature and media, providing a perfect backdrop for adventure and exploration.",🌲,"- Endor from the Star Wars franchise
+- Pandora from the movie Avatar
+- Eternia from the He-Man and the Masters of the Universe franchise
+- Kashyyyk from the Star Wars franchise
+- Arda from J.R.R. Tolkien's Middle-Earth universe"
+Inferno Planets,3,3,Volcanic Planets,"Inferno planets are a type of planet characterized by their extreme volcanic activity, which creates a harsh and dangerous environment. These planets are often depicted in science fiction and fantasy biomes, where they serve as a backdrop for adventure and exploration. With their molten landscapes and unpredictable eruptions, inferno planets offer a unique and thrilling setting for sci-fi and fantasy stories.",🌋,"- Mustafar from Star Wars: Episode III - Revenge of the Sith
+- Surtur's realm of Muspelheim in Marvel Comics
+- The planet Remnant in RWBY"
+Ashen Planets,3,3,Volcanic Planets,"Ashen planets are a type of alien planet characterized by their extensive volcanic activity, resulting in a barren and desolate landscape covered in ash and lava. They are a popular biome in sci-fi and fantasy worlds, often depicted as inhospitable and dangerous environments that pose a challenge to explorers and colonizers.",🌋,"- Mustafar from Star Wars
+- Char from StarCraft
+- LV-223 from Prometheus
+- Nocturne from Warhammer 40,000
+- Inferno from Destiny 2"
+Ringworlds,7,3,Artificial Planets,"Ringworlds are massive artificial structures resembling planetary rings that are often featured in works of science fiction and fantasy. These biomes are usually created by advanced alien civilizations and serve as habitats for various species. Ringworlds are a subset of both alien planets and sci-fi and fantasy biomes, showcasing some of the most imaginative and unique environments in speculative fiction.",🪐,"- The Ringworld series by Larry Niven, which explores a massive artificial ring-shaped world that orbits a star and is home to numerous species and civilizations.
+- The Halo video game series, which features a ring-shaped artificial world called a Halo that was created by an ancient race known as the Forerunners.
+- The Culture series by Iain M. Banks, which includes several artificial habitats including Orbital Rings, which are massive ring-shaped habitats that encircle a star and provide living space for trillions of individuals."
+Dyson Spheres,7,3,Artificial Planets,"Dyson Spheres are hypothetical megastructures that surround a star, capturing its energy output for use by an advanced civilization. These structures are a popular concept in science fiction and fantasy, often used to explore themes of technological advancement, space exploration, and the limits of human knowledge and power. As a subset of sci-fi and fantasy biomes, Dyson Spheres represent an imaginative vision of the future, where humanity has achieved a level of technological sophistication that allows it to harness the power of the cosmos itself.",🌟,"- Larry Niven's Ringworld, which is a massive ring-shaped structure around a star, similar to a Dyson Sphere but only enclosing the star's equator.
+- The Star Trek: The Next Generation episode ""Relics"", where the crew discovers a Dyson Sphere that has been abandoned for centuries.
+- The video game Stellaris, which features Dyson Spheres as a potential megastructure that can be constructed by the player's civilization to generate energy."
+Shell Worlds,6,3,Artificial Planets,"Shell Worlds are a concept in science fiction and fantasy biomes that describe artificial planets created by advanced civilizations or technologies. These worlds are often enclosed in a shell-like structure, which provides a contained environment for habitable regions. They are a subset of alien planets, as they are not naturally occurring, and are often used in science fiction stories as unique settings for exploration or adventure.",🪐,"- The Ringworld in Larry Niven's ""Ringworld"" series, which is a massive artificial ring-shaped world with a diameter of millions of kilometers.
+- The Dyson Sphere, a hypothetical megastructure that encompasses an entire star, creating a shell-like structure around it.
+- The Culture Orbitals in Iain M. Banks' ""Culture"" series, which are massive artificial habitats that orbit stars and provide habitats for trillions of people.
+- The Halo Rings in the ""Halo"" video game franchise, which are massive ring-shaped structures that were created as weapons to destroy the Flood, a parasitic alien race.
+- The Tardis in ""Doctor Who,"" which is a time and space-traveling machine that has a shell-like structure and can take on various forms, including that of a police box."
+Orbital Habitats,5,3,Artificial Planets,"Orbital habitats are large artificial structures in space designed to support human life. They are a common feature in science fiction and fantasy biomes, often depicted as self-sustaining, enclosed environments that can simulate the conditions found on Earth or other planets. These habitats are typically constructed to provide resources and shelter for space travelers, colonists or as a means of escape for those seeking refuge from a dying planet.",🚀,"- The Stanford torus: a proposed design for a space habitat consisting of a torus-shaped ring that rotates to create artificial gravity and is divided into living, working, and agricultural areas.
+- The O'Neill cylinder: a similar concept to the Stanford torus, but with a cylindrical shape and mirrors to reflect sunlight into the interior.
+- The Bishop ring: a massive ring-shaped structure that uses centrifugal force to create gravity and can house up to a million people.
+- The Halo Array: a series of ring-shaped structures that were built by an ancient civilization in the Halo video game franchise to house their population and protect them from a parasitic alien threat.
+- The Death Star: a fictional space station from the Star Wars franchise that is capable of destroying entire planets and houses a crew of over a million people."
+Terraformed Planets,4,3,Artificial Planets,"Terraformed planets are planets that have been artificially modified to support human or alien life through the introduction of various environmental changes such as altering the atmosphere, climate, and terrain. These planets are a common theme in science fiction and fantasy biomes, where they serve as settings for various stories and adventures. The concept of terraforming has been explored in various works of science fiction, highlighting the potential for humanity to transform inhospitable worlds into habitable ones.",🪐,"- Pandora in Avatar
+- Mars in The Martian
+- LV-426 in Alien
+- Reach in Halo
+- Cybertron in Transformers
+- Krypton in Superman
+- Ego in Guardians of the Galaxy Vol. 2
+- Arrakis in Dune
+- Solaris in Solaris
+- Tau Ceti e in Mass Effect"
+Planetoids,3,3,Artificial Planets,"Planetoids are small celestial bodies that are commonly found in sci-fi and fantasy biomes. They are often depicted as artificial planets, created by advanced civilizations or as natural formations that have unique characteristics and inhabitants. These planetoids are a subset of the broader category of alien planets, which are frequently explored in science fiction and fantasy literature and media.",🌎,"- The Death Star from Star Wars, which is an artificial planetoid designed as a superweapon
+- The Halo rings from the Halo video game series, which are artificial planetoids designed to contain a parasitic alien threat
+- The asteroid field in The Empire Strikes Back, which is a natural planetoid biome with unique dangers and obstacles for spaceships to navigate."

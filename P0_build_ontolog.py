@@ -103,7 +103,7 @@ def clean_categories(js, depth, parent):
         cat_set = [x.strip('''+ -'"''') for x in msg.splitlines()]
         cats.append(cat_set)
 
-    key_func = lambda x: x.title()
+    key_func = lambda x: x.title()  # noqa: E731
     groups = itertools.groupby(
         sorted(itertools.chain.from_iterable(cats), key=key_func), key=key_func
     )
@@ -152,6 +152,7 @@ def analyze_row(row):
 df = pd.DataFrame([{"topic": topic, "count": N, "depth": 0, "parent": ""}])
 result = top_level_cats(topic, n=N)
 df = filter_df(df, result, depth=1, parent=topic)
+print(df)
 
 for k_depth in range(2, MAX_DEPTH + 1):
     df_at_depth = df[df.depth == k_depth - 1]

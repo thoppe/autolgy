@@ -15,8 +15,10 @@
 #topic = "fantasy creatures"
 #topic = "Superpowers"
 #topic = "sci-fi and fantasy biomes"
-topic = "Liminal spaces"
-topic = "How to be a bad bitch"
+#topic = "Liminal spaces"
+#topic = "How to be a bad bitch"
+#topic = "outrageous shit your mother in law says"
+topic = "weird phobias"
 
 
 all:
@@ -26,7 +28,7 @@ all:
 	python P1_gather_defs.py --topic $(topic) --mode examples
 lint:
 	black *.py --line-length 80
-	flake8 *.py --ignore=E203
+	flake8 *.py --ignore=E501
 
 streamlit:
 	streamlit run streamlit_app.py
