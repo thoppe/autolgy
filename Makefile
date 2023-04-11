@@ -18,8 +18,10 @@
 #topic = "Liminal spaces"
 #topic = "How to be a bad bitch"
 #topic = "outrageous shit your mother in law says"
-topic = "weird phobias"
-
+#topic = "weird phobias"
+topic = "new topics in cards against humanity"
+topic = "internet memes"
+topic = "tropes in horror"
 
 all:
 	python P0_build_ontolog.py --topic $(topic)
