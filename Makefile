@@ -16,12 +16,15 @@
 #topic = "Superpowers"
 #topic = "sci-fi and fantasy biomes"
 #topic = "Liminal spaces"
-#topic = "How to be a bad bitch"
+
 #topic = "outrageous shit your mother in law says"
 #topic = "weird phobias"
 topic = "new topics in cards against humanity"
 topic = "internet memes"
 topic = "tropes in horror"
+topic = "Of the sky will be the colour of hard crimson, And your heart, as it was then, will be on fire"
+topic = "visceral rhetorical devices in poetry"
+topic = "How to be a bad bitch"
 
 all:
 	python P0_build_ontolog.py --topic $(topic)
