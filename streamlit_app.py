@@ -28,7 +28,10 @@ def button_go_back():
 
 with st.sidebar:
 
-    category = st.selectbox("Category", NAMES, on_change=reset_all, index=4)
+    starting_index = NAMES.index("music-genres")
+    category = st.selectbox(
+        "Category", NAMES, on_change=reset_all, index=starting_index
+    )
 
     DEPTHS = sorted(
         [
