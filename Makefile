@@ -25,6 +25,8 @@ topic = "tropes in horror"
 topic = "Of the sky will be the colour of hard crimson, And your heart, as it was then, will be on fire"
 topic = "visceral rhetorical devices in poetry"
 topic = "How to be a bad bitch"
+topic = "Gay power animal"
+topic = "Inequities in america"
 
 all:
 	python P0_build_ontolog.py --topic $(topic)
